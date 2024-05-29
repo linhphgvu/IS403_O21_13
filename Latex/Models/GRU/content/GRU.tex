@@ -1,0 +1,77 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{graphicx}
+\usepackage{hyperref}
+
+
+\begin{document}
+
+\section{Giới thiệu và Khái niệm}
+
+Trong lĩnh vực học máy và đặc biệt là xử lý ngôn ngữ tự nhiên (NLP), mạng nơ-ron hồi tiếp (Recurrent Neural Networks - RNNs) đóng vai trò quan trọng. Tuy nhiên, RNN truyền thống gặp phải vấn đề về vanishing gradient, làm giảm hiệu quả học của mạng khi xử lý các chuỗi dữ liệu dài. Để giải quyết vấn đề này, các kiến trúc RNN cải tiến như Long Short-Term Memory (LSTM) và Gated Recurrent Unit (GRU) đã được đề xuất. Bài viết này tập trung vào Gated Recurrent Unit (GRU), một biến thể đơn giản hơn của LSTM nhưng vẫn rất hiệu quả trong việc duy trì thông tin dài hạn.
+
+GRU được giới thiệu bởi Kyunghyun Cho et al. vào năm 2014. Điểm nổi bật của GRU là sự kết hợp giữa các cơ chế cập nhật và quên trong một đơn vị duy nhất, giúp giảm thiểu số lượng tham số cần thiết và tăng tốc độ tính toán mà vẫn duy trì hiệu quả cao.
+
+\section{Mô tả Chi tiết Thuật toán}
+
+Một GRU bao gồm hai cổng chính: cổng cập nhật (update gate) và cổng xoá (reset gate). Cả hai cổng này cùng hoạt động để điều chỉnh thông tin nào cần được cập nhật và thông tin nào cần được quên. 
+
+\subsection{Công thức Toán học}
+
+Cho \( x_t \) là đầu vào tại thời điểm \( t \), \( h_t \) là trạng thái ẩn tại thời điểm \( t \), và \( h_{t-1} \) là trạng thái ẩn từ bước trước đó, các công thức của GRU được định nghĩa như sau:
+
+\subsubsection{Cổng Cập Nhật}
+
+Cổng cập nhật \( z_t \) quyết định phần nào của trạng thái ẩn trước đó cần được giữ lại và phần nào cần được cập nhật:
+
+\[
+z_t = \sigma(W_z x_t + U_z h_{t-1})
+\]
+
+\subsubsection{Cổng Xoá}
+
+Cổng xoá \( r_t \) quyết định phần nào của trạng thái ẩn trước đó cần được quên:
+
+\[
+r_t = \sigma(W_r x_t + U_r h_{t-1})
+\]
+
+\subsubsection{Trạng Thái Ẩn Mới}
+
+Trạng thái ẩn mới \( \tilde{h}_t \) được tính toán bằng cách sử dụng cổng xoá để điều chỉnh thông tin từ trạng thái ẩn trước đó:
+
+\[
+\tilde{h}_t = \tanh(W_h x_t + U_h (r_t \odot h_{t-1}))
+\]
+
+\subsubsection{Cập Nhật Trạng Thái Ẩn Cuối Cùng}
+
+Trạng thái ẩn cuối cùng \( h_t \) tại thời điểm \( t \) được tính bằng cách kết hợp trạng thái ẩn trước đó và trạng thái ẩn mới theo trọng số của cổng cập nhật:
+
+\[
+h_t = (1 - z_t) \odot h_{t-1} + z_t \odot \tilde{h}_t
+\]
+
+\subsection{Diễn Giải Các Cổng}
+
+\begin{itemize}
+    \item \textbf{Cổng cập nhật} \( z_t \): Quyết định tỉ lệ mà trạng thái ẩn trước đó được giữ lại so với trạng thái ẩn mới.
+    \item \textbf{Cổng xoá} \( r_t \): Điều chỉnh thông tin nào của trạng thái ẩn trước đó được sử dụng để tính toán trạng thái ẩn mới.
+\end{itemize}
+
+\subsection{Ưu Điểm của GRU}
+
+GRU có một số ưu điểm so với các kiến trúc RNN truyền thống và cả LSTM:
+
+\begin{itemize}
+    \item \textbf{Đơn giản hóa} nhờ ít tham số hơn so với LSTM, giúp giảm thiểu chi phí tính toán.
+    \item \textbf{Hiệu quả} trong việc xử lý các chuỗi dài mà không gặp phải vấn đề vanishing gradient nghiêm trọng.
+    \item \textbf{Tốc độ huấn luyện} nhanh hơn do kiến trúc gọn nhẹ hơn.
+\end{itemize}
+
+\begin{thebibliography}{9}
+\bibitem{cho2014} Kyunghyun Cho, Bart van Merriënboer, Dzmitry Bahdanau, Yoshua Bengio. \textit{On the Properties of Neural Machine Translation: Encoder-Decoder Approaches}. 2014.
+\end{thebibliography}
+
+\end{document}
