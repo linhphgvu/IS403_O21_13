@@ -53,11 +53,11 @@
 \maketitle
 
 \begin{abstract}
-
+Nghiên cứu này tập trung vào phân tích chất lượng không khí ở ba thành phố lớn tại Việt Nam: Hà Nội, Hạ Long và Việt Trì. Mục tiêu của nghiên cứu là sử dụng các kỹ thuật phân tích chuỗi thời gian tiên tiến để dự báo và hiểu các chỉ số chất lượng không khí như PM2.5, PM10, O3, NO2, SO2 và CO. Phương pháp phân tích bao gồm cả các thuật toán truyền thống và tiên tiến như Hồi quy Tuyến tính, Mô hình ARIMA, Mạng Nơ-ron Hồi quy (RNN), Đơn vị Hồi quy Cổng (GRU), LSTM, VAR, Rừng Ngẫu nhiên, Mô hình Mã hóa Dày Chuỗi Thời gian (TiDE), Autoformer, Mạng Nơ-ron Đa Tầng (MLP). Chúng tôi sử dụng hai tỷ lệ khác nhau giữa các tập dữ liệu huấn luyện: testing, cụ thể là 7:3, 8:2 và 9:1, để đánh giá hiệu suất của các mô hình dưới các điều kiện khác nhau. Sau đó, nó so sánh hiệu suất của các mô hình khác nhau dựa trên ba chỉ số: Mean Absolute Percentage Error (MAPE), Root Mean Square Error (RMSE), và Mean Logarithmic Square Error (MLSE). Cuối cùng, hai mô hình có hiệu suất tốt nhất được sử dụng để dự báo chất lượng không khí cho 30 ngày tiếp theo, thể hiện hiệu quả của chúng trong việc dự báo chất lượng không khí. Bằng cách sử dụng các tập dữ liệu thời gian thực, nghiên cứu này nhằm dự báo, khám phá các mẫu, xu hướng và mối quan hệ giữa các chỉ số chất lượng không khí. Ngoài ra, nghiên cứu cũng nhằm đóng góp vào việc hiểu rõ hơn về việc giải quyết các vấn đề ô nhiễm không khí, thúc đẩy môi trường đô thị khỏe mạnh và bền vững hơn.
 \end{abstract}
 
 \begin{IEEEkeywords}
-
+Chất lượng không khí, ô nhiễm không khí, phân tích chuỗi thời gian, dự báo, Hồi quy Tuyến tính, ARIMA, RNN, GRU, LSTM, VAR, Random Forest, TiDE, Autoformer, MLP, Hà Nội, Hạ Long, Việt Trì, Việt Nam.
 \end{IEEEkeywords}
 
 \input{sections/introduction}
@@ -67,4 +67,48 @@
 \input{sections/experiment}
 \input{sections/conclusion}
 
+
+\begin{thebibliography}{00}
+    \bibitem{b1}
+    E. Marinov, D. Petrova-Antonova, and S. Malinov,
+    ``Time Series Forecasting of Air Quality: A Case Study of Sofia City,''
+    \textit{Atmosphere}, vol. 13, p. 788, 2022. [Online]. Available:https://www.mdpi.com/2073-4433/13/5/788
+    \bibitem{b2} K. N. Sh, I. Irfani, and U. Mukhaiyar,
+    ``Predicting Air Pollution Levels in Jakarta Using Vector Autoregressive Analysis,''
+    \textit{Proceedings of the 5th International Conference on Statistics, Mathematics, Teaching, and Research 2023 (ICSMTR 2023)}, pp. 14-22, Atlantis Press, 2023. [Online].
+    Available:https://doi.org/10.2991/978-94-6463-332-0\string_3
+    \bibitem{b3}
+    K. H. Waseem, H. Mushtaq, F. Abid, A. M. Abu-Mahfouz, A. Shaikh, M. Turan, and J. Rasheed,
+    ``Forecasting of Air Quality Using an Optimized Recurrent Neural Network,''
+    \textit{Processes}, vol. 10, no. 10, p. 2117, 2022. [Online].
+    Available: https://doi.org/10.3390/pr1010211
+    \bibitem{b4}
+    Citation: Esager, M.W.M.; Ünlü, K.D.
+    ``Forecasting Air Quality in Tripoli: An Evaluation of Deep Learning Models for Hourly PM2.5 Surface Mass Concentrations.
+    \textit {Atmosphere} 2023, 14, 478. [Online].
+    Available: https://doi.org/10.3390/atmos14030478
+    \bibitem{b5}
+    A. Das, W. Kong, A. Leach, S. Mathur, R. Sen, and R. Yu,
+    ``Long-term Forecasting with TiDE: Time-series Dense Encoder,''
+    \textit{arXiv:2304.08424 [stat.ML]}, April 2023.
+    [Online]. Available: https://doi.org/10.48550/arXiv.2304.08424
+    \bibitem{b6}
+    B. T. Ong, K. Sugiura, and K. Zettsu,
+    ``Dynamically pre-trained deep recurrent neural networks using environmental monitoring data for predicting PM2.5,''
+    \textit{Neural Comput Appl}, vol. 27, no. 6, pp. 1553–1566, 2016.
+    [Online]. Available: https://doi.org/10.1007/s00521-015-1955-3
+    \bibitem{b7}
+    Y. B. Lim, I. Aliyu, and C. G. Lim,
+    ``Air pollution matter prediction using recurrent neural networks with sequential data,''
+    In: \textit{Proceedings of the 2019 3rd International Conference on Intelligent Systems, Metaheuristics \& Swarm Intelligence. ISMSI 2019}, pp. 40–44, Association for Computing Machinery, New York, NY, USA, 2019.
+    [Online]. Available: https://doi.org/10.1145/3325773.3325788
+    \bibitem{b8}
+    H. Wu, J. Xu, J. Wang, \& M. Long,
+    ``Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting,''
+    2021.
+    
+    \end{thebibliography}
+    \vspace{12pt}
+    
+    
 \end{document}
