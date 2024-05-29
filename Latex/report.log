@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.28)  28 MAY 2024 22:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.28)  29 MAY 2024 15:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"d:/github PTDLKD/IS403_O21_13/Latex/report.tex"
-(d:/github PTDLKD/IS403_O21_13/Latex/report.tex
+**"d:/GIT WEEK1/IS403_O21_13/Latex/report.tex"
+(d:/GIT WEEK1/IS403_O21_13/Latex/report.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (IEEEtran.cls
@@ -499,7 +499,29 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 53.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Calculating math sizes for size <11> on input line 53.
- (sections/introduction.tex) (sections/relatedwork.tex) (sections/materials.tex) (sections/method.tex (Models/LinearRegression/content/LinearRegression.tex) (Models/Arima/content/Arima.tex) (Models/Var/content/Var.tex) (Models/RandomForest/content/RandomForest.tex) (Models/TiDE/content/TiDE.tex) (Models/GNN/content/GNN.tex) (Models/GRU/content/GRU.tex) (Models/LSTM/content/LSTM.tex) (Models/MLP/content/MLP.tex) (Models/Autoformer/content/Autoformer.tex)) (sections/experiment.tex (Models/LinearRegression/results/LinearRegressionResult.tex) (Models/Arima/results/ArimaResult.tex) (Models/Var/results/VarResult.tex) (Models/RandomForest/results/RandomForestResult.tex) (Models/TiDE/results/TiDEResult.tex) (Models/GNN/results/GNNResult.tex) (Models/GRU/results/GRUResult.tex) (Models/LSTM/results/LSTMResult.tex) (Models/MLP/results/MLPResult.tex) (Models/Autoformer/results/AutoformerResult.tex)) (sections/conclusion.tex)
+ (sections/introduction.tex) (sections/relatedwork.tex [1{C:/Users/21521/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{D:/LATEX/fonts/enc/dvips/vntex/t5.enc}
+
+
+]) (sections/materials.tex
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[2]) (sections/method.tex (Models/LinearRegression/content/LinearRegression.tex) (Models/Arima/content/Arima.tex) (Models/Var/content/Var.tex) (Models/RandomForest/content/RandomForest.tex) (Models/TiDE/content/TiDE.tex) (Models/GNN/content/GNN.tex) (Models/GRU/content/GRU.tex) (Models/LSTM/content/LSTM.tex) (Models/MLP/content/MLP.tex) (Models/Autoformer/content/Autoformer.tex)) (sections/experiment.tex (Models/LinearRegression/results/LinearRegressionResult.tex) (Models/Arima/results/ArimaResult.tex) (Models/Var/results/VarResult.tex) (Models/RandomForest/results/RandomForestResult.tex) (Models/TiDE/results/TiDEResult.tex) (Models/GNN/results/GNNResult.tex) (Models/GRU/results/GRUResult.tex) (Models/LSTM/results/LSTMResult.tex) (Models/MLP/results/MLPResult.tex) (Models/Autoformer/results/AutoformerResult.tex)) (sections/conclusion.tex)
+Underfull \hbox (badness 3449) in paragraph at lines 91--95
+[]\T5/ptm/m/n/8 A. Das, W. Kong, A. Leach, S. Mathur, R. Sen, and R. Yu,
+ []
+
+
+Underfull \hbox (badness 3417) in paragraph at lines 91--95
+\T5/ptm/m/n/8 ``Long-term Fore-cast-ing with TiDE: Time-series Dense En-coder,''
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--95
+\T5/ptm/m/it/8 arXiv:2304.08424 [stat.ML]\T5/ptm/m/n/8 , April 2023. [On-line]. Avail-able:
+ []
+
+[3]
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -511,9 +533,7 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[1{C:/Users/21521/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{D:/LATEX/fonts/enc/dvips/vntex/t5.enc}
-
-
+[4
 
 ] (report.aux)
  ***********
@@ -522,17 +542,17 @@ L3 programming layer <2024-01-04>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6167 strings out of 474485
- 102076 string characters out of 5760618
- 1932542 words of memory out of 5000000
- 28262 multiletter control sequences out of 15000+600000
- 611629 words of font info for 114 fonts, out of 8000000 for 9000
+ 6197 strings out of 474485
+ 102331 string characters out of 5760618
+ 1953542 words of memory out of 5000000
+ 28291 multiletter control sequences out of 15000+600000
+ 627257 words of font info for 125 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,75p,386b,355s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<D:/LATEX/fonts/type1/vntex/urwvn/utmb8v.pfb><D:/LATEX/fonts/type1/vntex/urwvn/utmbi8v.pfb><D:/LATEX/fonts/type1/vntex/urwvn/utmr8v.pfb><D:/LATEX/fonts/type1/vntex/urwvn/utmri8v.pfb>
-Output written on report.pdf (1 page, 64989 bytes).
+ 57i,11n,75p,1896b,355s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<D:/LATEX/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/LATEX/fonts/type1/vntex/urwvn/utmb8v.pfb><D:/LATEX/fonts/type1/vntex/urwvn/utmbi8v.pfb><D:/LATEX/fonts/type1/vntex/urwvn/utmr8v.pfb><D:/LATEX/fonts/type1/vntex/urwvn/utmri8v.pfb>
+Output written on report.pdf (4 pages, 184837 bytes).
 PDF statistics:
- 27 PDF objects out of 1000 (max. 8388607)
+ 71 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,1 +1,80 @@
 \section{Tài nguyên}
+\subsection{Bộ dữ liệu}
+Bài viết sử dụng 3 bộ dữ liệu lấy từ dữ liệu chất lượng không khí trên trang web aqicn.org từ 01/03/2019 - 01/03/2024 bao gồm 3 thành phố Hà Nội, Hạ Long và Việt Trì.
+Bộ dữ liệu bao gồm các thuộc tính cụ thể sau:
+\begin{table}[h]
+  \centering
+  \caption{Mô tả thuộc tính}
+  \begin{tabular}{|c|c|}
+    \hline
+    \textbf{Thuộc tính} & \textbf{Mô tả} \\ \hline
+    Ngày & Thời gian (YYYY-MM-DD) \\ \hline
+    Pm25 & Bụi mịn có đường kính từ 2.5 đến 10 micron \\ \hline
+    Pm10 & Bụi mịn có đường kính nhỏ hơn 2.5 micron \\ \hline
+    O3 & Ozon \\ \hline
+    NO2 & Đioxit nitơ \\ \hline
+    SO2 & Đioxit lưu huỳnh \\ \hline
+    CO & Carbon monoxit \\ \hline
+  \end{tabular}
+\end{table}
+\vspace{3cm}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|c|c|c|c|}
+\hline
+Statistic & HaLong & HaNoi & VietTri \\
+\hline
+Count & 1828 & 1828 & 1828 \\
+Mean & 39.89 & 62.03 & 42.13 \\
+Std Dev & 23.21 & 40.14 & 32.02 \\
+Min & 5 & 2 & 1 \\
+Q1 & 22 & 31 & 19 \\
+Q2 (Median) & 37 & 53 & 34 \\
+Q3 & 54 & 86 & 59 \\
+Max & 163 & 217 & 178 \\
+Mode & 5 & 24 & 1 \\
+Variance & 538.861 & 1611.963 & 1025.602 \\
+Kurtosis & 0.398 & 0.411 & 1.934 \\
+Skewness & 0.705 & 0.943 & 1.263 \\
+CV & 0.581 & 0.647 & 0.76 \\
+\hline
+\end{tabular}
+\caption{Statistical Summary for HaLong, HaNoi, and VietTri}
+\label{tab:stats}
+\end{table}
+
+\subsection{Công cụ}
+Trong quá trình nghiên cứu và phân tích dữ liệu, chúng tôi đã tận dụng một loạt các công cụ phân tích thống kê trong Python để khám phá sâu hơn các mẫu dữ liệu và rút ra những kết luận có ý nghĩa. Các công cụ chính bao gồm: numpy, pandas, sklearn, matplotlib.pyplot,... Sử dụng các công cụ phân tích thống kê này đã giúp chúng tôi hiểu sâu hơn về dữ liệu và đưa ra những phát hiện quan trọng. Chi tiết các kết quả có thể được tìm thấy trong bảng mô tả và biểu đồ đi kèm.
+\subsection{Tỷ lệ phân chia dữ liệu}
+Trong phân tích dữ liệu chuỗi thời gian của chúng tôi, chúng tôi đã chia tập dữ liệu thành hai phần: tập huấn luyện và tập kiểm tra, với các tỷ lệ khác nhau như 70\% cho huấn luyện và 30\% cho kiểm tra, 80\% cho huấn luyện và 20\% cho kiểm tra, và 90\% cho huấn luyện và 10\% cho kiểm tra. Những tỷ lệ này giúp chúng tôi đánh giá cách mà chúng ảnh hưởng đến hiệu suất của mô hình bằng cách xem xét sự phân phối của dữ liệu trong mỗi tập. Tỷ lệ phổ biến nhất là 7:3, chia 70\% dữ liệu cho huấn luyện và 30\% cho kiểm tra, tạo ra sự cân bằng giữa việc cung cấp đủ dữ liệu huấn luyện và đảm bảo các tập riêng biệt để điều chỉnh và đánh giá. Một lựa chọn khác là tỷ lệ 8:2, ưa chuộng việc sử dụng 80\% dữ liệu cho huấn luyện, có ích cho các mô hình phức tạp yêu cầu tập dữ liệu huấn luyện lớn hơn. Trong một số trường hợp cụ thể, một cách tiếp cận thận trọng như tỷ lệ 9:1 có thể được ưa chuộng, đặc biệt khi xử lý tập dữ liệu lớn và một mô hình đơn giản. Tỷ lệ này đảm bảo có đủ dữ liệu huấn luyện trong khi vẫn giữ được một tập kiểm tra đáng kể để đánh giá hiệu suất. 
+
+\subsection{Đánh giá mô hình}
+Trong việc đánh giá hiệu suất của các mô hình, chúng tôi sử dụng ba chỉ số là Mean Absolute Error (MAE), Mean Absolute Percentage Error (MAPE), và Root Mean Squared Error (RMSE). Thuật toán có giá trị thấp nhất trong ba chỉ số này sẽ cho thấy mức độ chính xác tốt nhất. Dưới đây là các công thức để tính MAE, MAPE và RMSE.
+\subsection*{Với các tham số: }
+\begin{itemize}
+    \item \( n \): Số lượng điểm dữ liệu.
+    \item \( y_i \): Giá trị thực tế.
+    \item \( \hat{y}_i \): Giá trị dự đoán.
+\end{itemize}
+
+\subsection*{MAE (Mean Absolute Error):}
+MAE là trung bình của các giá trị tuyệt đối của sai số giữa giá trị dự đoán và giá trị thực tế. Nó đo lường độ lớn của sai số trung bình và không quan tâm đến hướng của sai số. MAE càng nhỏ, mô hình càng chính xác.
+\begin{equation}
+\text{MAE} = \frac{1}{n} \sum_{i=1}^{n} \left| y_i - \hat{y}_i \right|
+\end{equation}
+
+\subsection*{RMSE (Root Mean Square Error):}
+RMSE là căn bậc hai của trung bình của các bình phương của sai số giữa giá trị dự đoán và giá trị thực tế. Nó đo lường độ lớn của sai số trung bình và cung cấp một con số tương đối về mức độ sai lệch giữa dự đoán và giá trị thực tế. RMSE càng nhỏ, mô hình càng chính xác.
+
+\begin{equation}
+\text{RMSE} = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2}
+\end{equation}
+
+\subsection*{MAPE (Mean Absolute Percentage Error):}
+MAPE là trung bình của tỉ lệ phần trăm của sai số tuyệt đối so với giá trị thực tế. Nó thường được sử dụng để đo lường tỷ lệ phần trăm trung bình của sai số so với giá trị thực tế, cung cấp cái nhìn về mức độ chính xác của mô hình dự đoán. MAPE càng nhỏ, mô hình càng chính xác.
+
+\begin{equation}
+\text{MAPE} = \frac{1}{n} \sum_{i=1}^{n} \left| \frac{y_i - \hat{y}_i}{y_i} \right| \times 100
+\end{equation}
+\vspace{0.1cm}
