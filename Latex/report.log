@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.28)  30 MAY 2024 19:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.28)  30 MAY 2024 19:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -605,48 +605,48 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 19--20
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (Models/RNN/content/RNN.tex) (Models/GRU/content/GRU.tex) (Models/LSTM/content/LSTM.tex) (Models/MLP/content/MLP.tex) (Models/Autoformer/content/Autoformer.tex)) (sections/experiment.tex (Models/LinearRegression/results/LinearRegressionResult.tex
-<img/LN_7_3_HN.png, id=23, 469.755pt x 371.13657pt>
+) (Models/RNN/content/RNN.tex [4]) (Models/GRU/content/GRU.tex) (Models/LSTM/content/LSTM.tex) (Models/MLP/content/MLP.tex) (Models/Autoformer/content/Autoformer.tex)) (sections/experiment.tex (Models/LinearRegression/results/LinearRegressionResult.tex
+<img/LN_7_3_HN.png, id=26, 469.755pt x 371.13657pt>
 File: img/LN_7_3_HN.png Graphic file (type png)
 <use img/LN_7_3_HN.png>
 Package pdftex.def Info: img/LN_7_3_HN.png  used on input line 6.
 (pdftex.def)             Requested size: 113.39923pt x 89.58992pt.
-<img/LN_8_2_HN.png, id=25, 469.755pt x 365.11406pt>
+<img/LN_8_2_HN.png, id=28, 469.755pt x 365.11406pt>
 File: img/LN_8_2_HN.png Graphic file (type png)
 <use img/LN_8_2_HN.png>
 Package pdftex.def Info: img/LN_8_2_HN.png  used on input line 12.
 (pdftex.def)             Requested size: 113.39923pt x 88.13614pt.
-<img/LN_9_1_HN.png, id=26, 469.755pt x 366.61969pt>
+<img/LN_9_1_HN.png, id=29, 469.755pt x 366.61969pt>
 File: img/LN_9_1_HN.png Graphic file (type png)
 <use img/LN_9_1_HN.png>
 Package pdftex.def Info: img/LN_9_1_HN.png  used on input line 18.
 (pdftex.def)             Requested size: 113.39923pt x 88.49959pt.
-<img/LN_7_3_HL.png, id=27, 469.755pt x 353.06906pt>
+<img/LN_7_3_HL.png, id=30, 469.755pt x 353.06906pt>
 File: img/LN_7_3_HL.png Graphic file (type png)
 <use img/LN_7_3_HL.png>
 Package pdftex.def Info: img/LN_7_3_HL.png  used on input line 24.
 (pdftex.def)             Requested size: 113.39923pt x 85.22855pt.
-<img/LN_8_2_HL.png, id=28, 469.755pt x 360.59718pt>
+<img/LN_8_2_HL.png, id=31, 469.755pt x 360.59718pt>
 File: img/LN_8_2_HL.png Graphic file (type png)
 <use img/LN_8_2_HL.png>
 Package pdftex.def Info: img/LN_8_2_HL.png  used on input line 30.
 (pdftex.def)             Requested size: 113.39923pt x 87.04579pt.
-<img/LN_9_1_HL.png, id=29, 469.755pt x 368.1253pt>
+<img/LN_9_1_HL.png, id=32, 469.755pt x 368.1253pt>
 File: img/LN_9_1_HL.png Graphic file (type png)
 <use img/LN_9_1_HL.png>
 Package pdftex.def Info: img/LN_9_1_HL.png  used on input line 36.
 (pdftex.def)             Requested size: 113.39923pt x 88.86304pt.
-<img/LN_7_3_VT.png, id=30, 469.755pt x 367.3725pt>
+<img/LN_7_3_VT.png, id=33, 469.755pt x 367.3725pt>
 File: img/LN_7_3_VT.png Graphic file (type png)
 <use img/LN_7_3_VT.png>
 Package pdftex.def Info: img/LN_7_3_VT.png  used on input line 42.
 (pdftex.def)             Requested size: 113.39923pt x 88.6813pt.
-<img/LN_8_2_VT.png, id=31, 469.755pt x 371.13657pt>
+<img/LN_8_2_VT.png, id=34, 469.755pt x 371.13657pt>
 File: img/LN_8_2_VT.png Graphic file (type png)
 <use img/LN_8_2_VT.png>
 Package pdftex.def Info: img/LN_8_2_VT.png  used on input line 48.
 (pdftex.def)             Requested size: 113.39923pt x 89.58992pt.
-<img/LN_9_1_VT.png, id=32, 469.755pt x 359.84438pt>
+<img/LN_9_1_VT.png, id=35, 469.755pt x 359.84438pt>
 File: img/LN_9_1_VT.png Graphic file (type png)
 <use img/LN_9_1_VT.png>
 Package pdftex.def Info: img/LN_9_1_VT.png  used on input line 54.
@@ -656,7 +656,6 @@ Underfull \hbox (badness 1817) in paragraph at lines 55--55
 \T5/ptm/m/n/8 H¼nh 10.  \T5/ptm/m/n/7 Lin-ear Re-gres-sion (9:1)
  []
 
-[4]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -759,7 +758,7 @@ Package pdftex.def Info: img/VAR_9_1_VT.png  used on input line 55.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (Models/RandomForest/results/RandomForestResult.tex) (Models/TiDE/results/TiDEResult.tex) (Models/RNN/results/RNNResult.tex) (Models/GRU/results/GRUResult.tex) (Models/LSTM/results/LSTMResult.tex) (Models/MLP/results/MLPResult.tex) (Models/Autoformer/results/AutoformerResult.tex)) (sections/conclusion.tex)
+) (Models/RandomForest/results/RandomForestResult.tex) (Models/TiDE/results/TiDEResult.tex) (Models/RNN/results/RNNResult.tex) (Models/GRU/results/GRUResult.tex) (Models/LSTM/results/LSTMResult.tex) (Models/MLP/results/MLPResult.tex) (Models/Autoformer/results/AutoformerResult.tex)) (sections/conclusion.tex) [5 <./img/TiDE.png> <./img/LN_7_3_HN.png> <./img/LN_8_2_HN.png> <./img/LN_9_1_HN.png> <./img/LN_7_3_HL.png> <./img/LN_8_2_HL.png> <./img/LN_9_1_HL.png> <./img/LN_7_3_VT.png> <./img/LN_8_2_VT.png> <./img/LN_9_1_VT.png>]
 Underfull \hbox (badness 3449) in paragraph at lines 91--95
 []\T5/ptm/m/n/8 A. Das, W. Kong, A. Leach, S. Mathur, R. Sen, and R. Yu,
  []
@@ -774,7 +773,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 91--95
 \T5/ptm/m/it/8 arXiv:2304.08424 [stat.ML]\T5/ptm/m/n/8 , April 2023. [On-line]. Avail-able:
  []
 
-[5 <./img/TiDE.png> <./img/LN_7_3_HN.png> <./img/LN_8_2_HN.png> <./img/LN_9_1_HN.png> <./img/LN_7_3_HL.png> <./img/LN_8_2_HL.png> <./img/LN_9_1_HL.png> <./img/LN_7_3_VT.png> <./img/LN_8_2_VT.png> <./img/LN_9_1_VT.png>]
+
+Underfull \vbox (badness 1515) has occurred while \output is active []
+
+
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -805,7 +807,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  57i,11n,75p,1917b,355s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <D:/LATEX/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/LATEX/fonts/type1/vntex/urwvn/utmb8v.pfb><D:/LATEX/fonts/type1/vntex/urwvn/utmbi8v.pfb><D:/LATEX/fonts/type1/vntex/urwvn/utmr8v.pfb><D:/LATEX/fonts/type1/vntex/urwvn/utmri8v.pfb>
-Output written on report.pdf (6 pages, 1918258 bytes).
+Output written on report.pdf (6 pages, 1919572 bytes).
 PDF statistics:
  131 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
