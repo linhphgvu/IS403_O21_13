@@ -1,0 +1,33 @@
+\subsection{ARIMA}
+
+Phương pháp ARIMA (Autoregressive Integrated Moving Average) sử dụng một mô hình AR (Autoregressive) kết hợp với một mô hình MA (Moving Average) để thực hiện dự báo chuỗi thời gian. Các tham số chính cần xem xét bao gồm:
+
+\begin{itemize}
+  \item Số lượng quan sát trước đó (p);
+  \item Độ chênh lệch (d);
+  \item Kích thước của trung bình chuyển động (q).
+\end{itemize}
+
+Mô hình AR hiển thị sự phụ thuộc của một quan sát vào một giai đoạn thời gian trước đó. Mô hình AR thu được p quan sát trước đó như sau:
+
+\[
+y_t = \alpha + \sum_{i=1}^{p} \phi_i y_{t-i} + e_t \quad \text{(5)}
+\]
+
+trong đó \(y_t\) là biến dự đoán cho thời điểm t từ phân phối chuẩn và \(y_{t-i}\) xác định p quan sát trước của cùng một chuỗi thời gian. \(\phi_i\) biểu thị các hệ số hồi quy, \(\alpha\) là một hằng số và \(e_t\) là thuật ngữ lỗi ngẫu nhiên. Thứ tự p cho mô hình AR(p) được lựa chọn dựa trên các đỉnh quan trọng của PACF (Partial Autocorrelation Function). Một chỉ báo bổ sung là sự giảm chậm chạp của ACF (Autocorrelation Function).
+
+MA thực hiện dự báo dựa trên các trung bình chuyển động của các thuật ngữ lỗi ngẫu nhiên trước đó như sau:
+
+\[
+y_t = \mu + \sum_{i=1}^{q} \theta_i e_{t-i}
+\]
+
+trong đó \(\theta_t\) đại diện cho các hệ số hồi quy, q là thứ tự của trung bình chuyển động, và \(\mu\) là một hằng số. Thứ tự q cho mô hình MA(q) được lấy từ ACF, nếu nó có một đoạn cắt sắc sau lags q. PACF giảm chậm trong trường hợp này.
+
+Mô hình ARIMA có thể được xác định như sau:
+
+\[
+\phi_p(B)(1 - B)^d y_t = \theta_q(B) e_t \quad \text{(7)}
+\]
+
+trong đó B là toán tử backshift, p là thứ tự tự hồi quy, d là thứ tự chênh lệch và q là thứ tự của trung bình chuyển động.
