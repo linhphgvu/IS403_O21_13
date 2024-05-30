@@ -236,12 +236,12 @@ INPUT .\Models\RandomForest\content\RandomForest.tex
 INPUT .\Models\RandomForest\content\RandomForest.tex
 INPUT .\Models\RandomForest\content\RandomForest.tex
 INPUT Models\RandomForest\content\RandomForest.tex
+INPUT D:\LATEX\fonts\tfm\vntex\urwvn\utmb8v.tfm
 INPUT .\Models\TiDE\content\TiDE.tex
 INPUT .\Models\TiDE\content\TiDE.tex
 INPUT .\Models\TiDE\content\TiDE.tex
 INPUT .\Models\TiDE\content\TiDE.tex
 INPUT Models\TiDE\content\TiDE.tex
-INPUT D:\LATEX\fonts\tfm\vntex\urwvn\utmb8v.tfm
 INPUT .\img\TiDE.png
 INPUT .\img\TiDE.png
 INPUT .\img\TiDE.png
