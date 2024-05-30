@@ -1,0 +1,12 @@
+\subsection{VAR}
+Mô hình Vector Autoregression (VAR) là một công cụ mạnh mẽ trong phân tích dữ liệu thời gian đa biến. Thay vì chỉ tập trung vào một biến duy nhất như các mô hình hồi quy tuyến tính thông thường, VAR cho phép chúng ta đánh giá các tương tác phức tạp giữa nhiều biến số cùng một lúc. Điều này giúp chúng ta hiểu rõ hơn về cách các biến ảnh hưởng lẫn nhau qua thời gian, và tạo ra dự báo linh hoạt dựa trên các kịch bản khác nhau của tương lai. VAR đã trở thành một công cụ không thể thiếu trong lĩnh vực kinh tế lượng, tài chính và các lĩnh vực khác đòi hỏi sự hiểu biết sâu sắc về mối quan hệ giữa các biến số thời gian. Công thức chung của mô hình VAR với \( p \) lags (trễ) được biểu diễn như sau:
+
+\[ Y_t = c + A_1 Y_{t-1} + A_2 Y_{t-2} + \ldots + A_p Y_{t-p} + \epsilon_t \]
+
+Trong đó:
+\begin{itemize}
+  \item \( Y_t \): là một vector chứa các biến phụ thuộc tại thời điểm \( t \);
+  \item \( c \): là một vector hằng số;
+  \item \( A_1, A_2, \ldots, A_p \): là các ma trận hệ số tương ứng với các lags;
+  \item \( \epsilon_t \): là vector của thành phần sai số tại thời điểm \( t \).
+\end{itemize}
