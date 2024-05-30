@@ -1,6 +1,6 @@
-PWD c:\Users\TRIEU VY\Downloads\GIT\IS403_O21_13\Latex
+PWD c:\Users\TRIEU VY\Downloads\GIT\W3\IS403_O21_13\Latex
 INPUT C:\Users\TRIEU VY\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\TRIEU VY\Downloads\GIT\IS403_O21_13\Latex\report.tex
+INPUT c:\Users\TRIEU VY\Downloads\GIT\W3\IS403_O21_13\Latex\report.tex
 OUTPUT report.log
 INPUT .\IEEEtran.cls
 INPUT IEEEtran.cls
@@ -241,6 +241,14 @@ INPUT .\Models\TiDE\content\TiDE.tex
 INPUT .\Models\TiDE\content\TiDE.tex
 INPUT .\Models\TiDE\content\TiDE.tex
 INPUT Models\TiDE\content\TiDE.tex
+INPUT C:\Users\TRIEU VY\AppData\Local\Programs\MiKTeX\fonts\tfm\vntex\urwvn\utmb8v.tfm
+INPUT .\img\TiDE.png
+INPUT .\img\TiDE.png
+INPUT .\img\TiDE.png
+INPUT .\img\TiDE.png
+INPUT .\img\TiDE.png
+INPUT .\img\TiDE.png
+INPUT .\img\TiDE.png
 INPUT .\Models\RNN\content\RNN.tex
 INPUT .\Models\RNN\content\RNN.tex
 INPUT .\Models\RNN\content\RNN.tex

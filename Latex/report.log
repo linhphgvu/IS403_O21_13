@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.30)  30 MAY 2024 18:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.30)  30 MAY 2024 19:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/TRIEU VY/Downloads/GIT/IS403_O21_13/Latex/report.tex"
-(c:/Users/TRIEU VY/Downloads/GIT/IS403_O21_13/Latex/report.tex
+**"c:/Users/TRIEU VY/Downloads/GIT/W3/IS403_O21_13/Latex/report.tex"
+(c:/Users/TRIEU VY/Downloads/GIT/W3/IS403_O21_13/Latex/report.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (IEEEtran.cls
@@ -591,58 +591,70 @@ LaTeX Font Info:    Calculating math sizes for size <11> on input line 53.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[2]) (sections/method.tex (Models/LinearRegression/content/LinearRegression.tex) (Models/Arima/content/Arima.tex [3]) (Models/Var/content/Var.tex) (Models/RandomForest/content/RandomForest.tex) (Models/TiDE/content/TiDE.tex) (Models/RNN/content/RNN.tex) (Models/GRU/content/GRU.tex) (Models/LSTM/content/LSTM.tex) (Models/MLP/content/MLP.tex) (Models/Autoformer/content/Autoformer.tex)) (sections/experiment.tex (Models/LinearRegression/results/LinearRegressionResult.tex
-<img/LN_7_3_HN.png, id=22, 469.755pt x 371.13657pt>
+[2]) (sections/method.tex (Models/LinearRegression/content/LinearRegression.tex) (Models/Arima/content/Arima.tex [3]) (Models/Var/content/Var.tex) (Models/RandomForest/content/RandomForest.tex) (Models/TiDE/content/TiDE.tex
+<img/TiDE.png, id=22, 447.60774pt x 386.2171pt>
+File: img/TiDE.png Graphic file (type png)
+<use img/TiDE.png>
+Package pdftex.def Info: img/TiDE.png  used on input line 19.
+(pdftex.def)             Requested size: 258.0pt x 222.61526pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 19--20
+ [][] 
+ []
+
+[4 <./img/TiDE.png>]) (Models/RNN/content/RNN.tex) (Models/GRU/content/GRU.tex) (Models/LSTM/content/LSTM.tex) (Models/MLP/content/MLP.tex) (Models/Autoformer/content/Autoformer.tex)) (sections/experiment.tex (Models/LinearRegression/results/LinearRegressionResult.tex
+<img/LN_7_3_HN.png, id=26, 469.755pt x 371.13657pt>
 File: img/LN_7_3_HN.png Graphic file (type png)
 <use img/LN_7_3_HN.png>
 Package pdftex.def Info: img/LN_7_3_HN.png  used on input line 6.
 (pdftex.def)             Requested size: 113.39923pt x 89.58992pt.
-<img/LN_8_2_HN.png, id=24, 469.755pt x 365.11406pt>
+<img/LN_8_2_HN.png, id=28, 469.755pt x 365.11406pt>
 File: img/LN_8_2_HN.png Graphic file (type png)
 <use img/LN_8_2_HN.png>
 Package pdftex.def Info: img/LN_8_2_HN.png  used on input line 12.
 (pdftex.def)             Requested size: 113.39923pt x 88.13614pt.
-<img/LN_9_1_HN.png, id=25, 469.755pt x 366.61969pt>
+<img/LN_9_1_HN.png, id=29, 469.755pt x 366.61969pt>
 File: img/LN_9_1_HN.png Graphic file (type png)
 <use img/LN_9_1_HN.png>
 Package pdftex.def Info: img/LN_9_1_HN.png  used on input line 18.
 (pdftex.def)             Requested size: 113.39923pt x 88.49959pt.
-<img/LN_7_3_HL.png, id=26, 469.755pt x 353.06906pt>
+<img/LN_7_3_HL.png, id=30, 469.755pt x 353.06906pt>
 File: img/LN_7_3_HL.png Graphic file (type png)
 <use img/LN_7_3_HL.png>
 Package pdftex.def Info: img/LN_7_3_HL.png  used on input line 24.
 (pdftex.def)             Requested size: 113.39923pt x 85.22855pt.
-<img/LN_8_2_HL.png, id=27, 469.755pt x 360.59718pt>
+<img/LN_8_2_HL.png, id=31, 469.755pt x 360.59718pt>
 File: img/LN_8_2_HL.png Graphic file (type png)
 <use img/LN_8_2_HL.png>
 Package pdftex.def Info: img/LN_8_2_HL.png  used on input line 30.
 (pdftex.def)             Requested size: 113.39923pt x 87.04579pt.
-<img/LN_9_1_HL.png, id=28, 469.755pt x 368.1253pt>
+<img/LN_9_1_HL.png, id=32, 469.755pt x 368.1253pt>
 File: img/LN_9_1_HL.png Graphic file (type png)
 <use img/LN_9_1_HL.png>
 Package pdftex.def Info: img/LN_9_1_HL.png  used on input line 36.
 (pdftex.def)             Requested size: 113.39923pt x 88.86304pt.
-<img/LN_7_3_VT.png, id=29, 469.755pt x 367.3725pt>
+<img/LN_7_3_VT.png, id=33, 469.755pt x 367.3725pt>
 File: img/LN_7_3_VT.png Graphic file (type png)
 <use img/LN_7_3_VT.png>
 Package pdftex.def Info: img/LN_7_3_VT.png  used on input line 42.
 (pdftex.def)             Requested size: 113.39923pt x 88.6813pt.
-<img/LN_8_2_VT.png, id=30, 469.755pt x 371.13657pt>
+<img/LN_8_2_VT.png, id=34, 469.755pt x 371.13657pt>
 File: img/LN_8_2_VT.png Graphic file (type png)
 <use img/LN_8_2_VT.png>
 Package pdftex.def Info: img/LN_8_2_VT.png  used on input line 48.
 (pdftex.def)             Requested size: 113.39923pt x 89.58992pt.
-<img/LN_9_1_VT.png, id=31, 469.755pt x 359.84438pt>
+<img/LN_9_1_VT.png, id=35, 469.755pt x 359.84438pt>
 File: img/LN_9_1_VT.png Graphic file (type png)
 <use img/LN_9_1_VT.png>
 Package pdftex.def Info: img/LN_9_1_VT.png  used on input line 54.
 (pdftex.def)             Requested size: 113.39923pt x 86.86407pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
+Underfull \hbox (badness 1817) in paragraph at lines 55--55
+\T5/ptm/m/n/8 H¼nh 10.  \T5/ptm/m/n/7 Lin-ear Re-gres-sion (9:1)
+ []
 
 ) (Models/Arima/results/ArimaResult.tex
-<img/ARIMA_8_2_HN.png, id=32, 450.9347pt x 325.215pt>
+<img/ARIMA_8_2_HN.png, id=36, 450.9347pt x 325.215pt>
 File: img/ARIMA_8_2_HN.png Graphic file (type png)
 <use img/ARIMA_8_2_HN.png>
 Package pdftex.def Info: img/ARIMA_8_2_HN.png  used on input line 6.
@@ -651,37 +663,37 @@ File: img/ARIMA_8_2_HN.png Graphic file (type png)
 <use img/ARIMA_8_2_HN.png>
 Package pdftex.def Info: img/ARIMA_8_2_HN.png  used on input line 12.
 (pdftex.def)             Requested size: 113.39923pt x 81.77994pt.
-<img/ARIMA_9_1_HN.png, id=33, 433.62pt x 326.72063pt>
+<img/ARIMA_9_1_HN.png, id=37, 433.62pt x 326.72063pt>
 File: img/ARIMA_9_1_HN.png Graphic file (type png)
 <use img/ARIMA_9_1_HN.png>
 Package pdftex.def Info: img/ARIMA_9_1_HN.png  used on input line 18.
 (pdftex.def)             Requested size: 113.39923pt x 85.4389pt.
-<img/ARIMA_7_3_HL.png, id=34, 456.95718pt x 329.73187pt>
+<img/ARIMA_7_3_HL.png, id=38, 456.95718pt x 329.73187pt>
 File: img/ARIMA_7_3_HL.png Graphic file (type png)
 <use img/ARIMA_7_3_HL.png>
 Package pdftex.def Info: img/ARIMA_7_3_HL.png  used on input line 24.
 (pdftex.def)             Requested size: 113.39923pt x 81.82397pt.
-<img/ARIMA_8_2_HL.png, id=35, 447.92343pt x 328.22626pt>
+<img/ARIMA_8_2_HL.png, id=39, 447.92343pt x 328.22626pt>
 File: img/ARIMA_8_2_HL.png Graphic file (type png)
 <use img/ARIMA_8_2_HL.png>
 Package pdftex.def Info: img/ARIMA_8_2_HL.png  used on input line 30.
 (pdftex.def)             Requested size: 113.39923pt x 83.09308pt.
-<img/ARIMA_9_1_HL.png, id=36, 447.17062pt x 327.47343pt>
+<img/ARIMA_9_1_HL.png, id=40, 447.17062pt x 327.47343pt>
 File: img/ARIMA_9_1_HL.png Graphic file (type png)
 <use img/ARIMA_9_1_HL.png>
 Package pdftex.def Info: img/ARIMA_9_1_HL.png  used on input line 36.
 (pdftex.def)             Requested size: 113.39923pt x 83.0424pt.
-<img/ARIMA_7_3_VT.png, id=37, 445.665pt x 331.99031pt>
+<img/ARIMA_7_3_VT.png, id=41, 445.665pt x 331.99031pt>
 File: img/ARIMA_7_3_VT.png Graphic file (type png)
 <use img/ARIMA_7_3_VT.png>
 Package pdftex.def Info: img/ARIMA_7_3_VT.png  used on input line 42.
 (pdftex.def)             Requested size: 113.39923pt x 84.4715pt.
-<img/ARIMA_8_2_VT.png, id=38, 441.90094pt x 330.48468pt>
+<img/ARIMA_8_2_VT.png, id=42, 441.90094pt x 330.48468pt>
 File: img/ARIMA_8_2_VT.png Graphic file (type png)
 <use img/ARIMA_8_2_VT.png>
 Package pdftex.def Info: img/ARIMA_8_2_VT.png  used on input line 48.
 (pdftex.def)             Requested size: 113.39923pt x 84.80449pt.
-<img/ARIMA_9_1_VT.png, id=39, 454.69875pt x 330.48468pt>
+<img/ARIMA_9_1_VT.png, id=43, 454.69875pt x 330.48468pt>
 File: img/ARIMA_9_1_VT.png Graphic file (type png)
 <use img/ARIMA_9_1_VT.png>
 Package pdftex.def Info: img/ARIMA_9_1_VT.png  used on input line 54.
@@ -691,47 +703,47 @@ Package pdftex.def Info: img/ARIMA_9_1_VT.png  used on input line 54.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 ) (Models/Var/results/VarResult.tex
-<img/VAR_7_3_HN.png, id=40, 432.86719pt x 328.97906pt>
+<img/VAR_7_3_HN.png, id=44, 432.86719pt x 328.97906pt>
 File: img/VAR_7_3_HN.png Graphic file (type png)
 <use img/VAR_7_3_HN.png>
 Package pdftex.def Info: img/VAR_7_3_HN.png  used on input line 6.
 (pdftex.def)             Requested size: 113.39923pt x 86.18008pt.
-<img/VAR_8_2_HN.png, id=41, 441.14813pt x 328.22626pt>
+<img/VAR_8_2_HN.png, id=45, 441.14813pt x 328.22626pt>
 File: img/VAR_8_2_HN.png Graphic file (type png)
 <use img/VAR_8_2_HN.png>
 Package pdftex.def Info: img/VAR_8_2_HN.png  used on input line 12.
 (pdftex.def)             Requested size: 113.39923pt x 84.3702pt.
-<img/VAR_9_1_HN.png, id=42, 446.41782pt x 324.46219pt>
+<img/VAR_9_1_HN.png, id=46, 446.41782pt x 324.46219pt>
 File: img/VAR_9_1_HN.png Graphic file (type png)
 <use img/VAR_9_1_HN.png>
 Package pdftex.def Info: img/VAR_9_1_HN.png  used on input line 18.
 (pdftex.def)             Requested size: 113.39923pt x 82.41742pt.
-<img/VAR_7_3_HL.png, id=43, 454.69875pt x 328.22626pt>
+<img/VAR_7_3_HL.png, id=47, 454.69875pt x 328.22626pt>
 File: img/VAR_7_3_HL.png Graphic file (type png)
 <use img/VAR_7_3_HL.png>
 Package pdftex.def Info: img/VAR_7_3_HL.png  used on input line 24.
 (pdftex.def)             Requested size: 113.39923pt x 81.85602pt.
-<img/VAR_8_2_HL.png, id=44, 438.13687pt x 330.48468pt>
+<img/VAR_8_2_HL.png, id=48, 438.13687pt x 330.48468pt>
 File: img/VAR_8_2_HL.png Graphic file (type png)
 <use img/VAR_8_2_HL.png>
 Package pdftex.def Info: img/VAR_8_2_HL.png  used on input line 30.
 (pdftex.def)             Requested size: 113.39923pt x 85.53569pt.
-<img/VAR_9_1_HL.png, id=45, 447.92343pt x 326.72063pt>
+<img/VAR_9_1_HL.png, id=49, 447.92343pt x 326.72063pt>
 File: img/VAR_9_1_HL.png Graphic file (type png)
 <use img/VAR_9_1_HL.png>
 Package pdftex.def Info: img/VAR_9_1_HL.png  used on input line 36.
 (pdftex.def)             Requested size: 113.39923pt x 82.71191pt.
-<img/VAR_7_3_VT.png, id=46, 464.4853pt x 330.48468pt>
+<img/VAR_7_3_VT.png, id=50, 464.4853pt x 330.48468pt>
 File: img/VAR_7_3_VT.png Graphic file (type png)
 <use img/VAR_7_3_VT.png>
 Package pdftex.def Info: img/VAR_7_3_VT.png  used on input line 42.
 (pdftex.def)             Requested size: 113.39923pt x 80.68452pt.
-<img/VAR_8_2_Vt.png, id=47, 436.63126pt x 328.22626pt>
+<img/VAR_8_2_Vt.png, id=51, 436.63126pt x 328.22626pt>
 File: img/VAR_8_2_Vt.png Graphic file (type png)
 <use img/VAR_8_2_Vt.png>
 Package pdftex.def Info: img/VAR_8_2_Vt.png  used on input line 48.
 (pdftex.def)             Requested size: 113.39923pt x 85.24165pt.
-<img/VAR_9_1_VT.png, id=48, 434.37282pt x 325.215pt>
+<img/VAR_9_1_VT.png, id=52, 434.37282pt x 325.215pt>
 File: img/VAR_9_1_VT.png Graphic file (type png)
 <use img/VAR_9_1_VT.png>
 Package pdftex.def Info: img/VAR_9_1_VT.png  used on input line 55.
@@ -741,6 +753,9 @@ Package pdftex.def Info: img/VAR_9_1_VT.png  used on input line 55.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 ) (Models/RandomForest/results/RandomForestResult.tex) (Models/TiDE/results/TiDEResult.tex) (Models/RNN/results/RNNResult.tex) (Models/GRU/results/GRUResult.tex) (Models/LSTM/results/LSTMResult.tex) (Models/MLP/results/MLPResult.tex) (Models/Autoformer/results/AutoformerResult.tex)) (sections/conclusion.tex)
+Underfull \vbox (badness 1931) has occurred while \output is active []
+
+ [5 <./img/LN_7_3_HN.png> <./img/LN_8_2_HN.png> <./img/LN_9_1_HN.png> <./img/LN_7_3_HL.png> <./img/LN_8_2_HL.png> <./img/LN_9_1_HL.png> <./img/LN_7_3_VT.png> <./img/LN_8_2_VT.png> <./img/LN_9_1_VT.png> <./img/ARIMA_8_2_HN.png> <./img/ARIMA_9_1_HN.png> <./img/ARIMA_7_3_HL.png> <./img/ARIMA_8_2_HL.png> <./img/ARIMA_9_1_HL.png> <./img/ARIMA_7_3_VT.png> <./img/ARIMA_8_2_VT.png> <./img/ARIMA_9_1_VT.png>]
 Underfull \hbox (badness 3449) in paragraph at lines 91--95
 []\T5/ptm/m/n/8 A. Das, W. Kong, A. Leach, S. Mathur, R. Sen, and R. Yu,
  []
@@ -766,9 +781,7 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[4] [5 <./img/LN_7_3_HN.png> <./img/LN_8_2_HN.png> <./img/LN_9_1_HN.png> <./img/LN_7_3_HL.png> <./img/LN_8_2_HL.png> <./img/LN_9_1_HL.png> <./img/LN_7_3_VT.png> <./img/LN_8_2_VT.png> <./img/LN_9_1_VT.png> <./img/ARIMA_8_2_HN.png> <./img/ARIMA_9_1_HN.png> <./img/ARIMA_7_3_HL.png> <./img/ARIMA_8_2_HL.png> <./img/ARIMA_9_1_HL.png> <./img/ARIMA_7_3_VT.png> <./img/ARIMA_8_2_VT.png> <./img/ARIMA_9_1_VT.png>] [6
-
- <./img/VAR_7_3_HN.png> <./img/VAR_8_2_HN.png> <./img/VAR_9_1_HN.png> <./img/VAR_7_3_HL.png> <./img/VAR_8_2_HL.png> <./img/VAR_9_1_HL.png> <./img/VAR_7_3_VT.png> <./img/VAR_8_2_Vt.png> <./img/VAR_9_1_VT.png>] (report.aux)
+[6 <./img/VAR_7_3_HN.png> <./img/VAR_8_2_HN.png> <./img/VAR_9_1_HN.png> <./img/VAR_7_3_HL.png> <./img/VAR_8_2_HL.png> <./img/VAR_9_1_HL.png> <./img/VAR_7_3_VT.png> <./img/VAR_8_2_Vt.png> <./img/VAR_9_1_VT.png>] (report.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -779,17 +792,17 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 6387 strings out of 474486
- 111960 string characters out of 5742303
- 1953542 words of memory out of 5000000
- 28480 multiletter control sequences out of 15000+600000
- 627257 words of font info for 125 fonts, out of 8000000 for 9000
+ 6396 strings out of 474486
+ 112293 string characters out of 5742303
+ 1951542 words of memory out of 5000000
+ 28489 multiletter control sequences out of 15000+600000
+ 629521 words of font info for 126 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,75p,1915b,355s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,11n,75p,1918b,355s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/TRIEU VY/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/TRIEU VY/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/TRIEU VY/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/TRIEU VY/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/TRIEU VY/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/TRIEU VY/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/TRIEU VY/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/TRIEU VY/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/urwvn/utmb8v.pfb><C:/Users/TRIEU VY/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/urwvn/utmbi8v.pfb><C:/Users/TRIEU VY/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/urwvn/utmr8v.pfb><C:/Users/TRIEU VY/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/urwvn/utmri8v.pfb>
-Output written on report.pdf (6 pages, 1859691 bytes).
+Output written on report.pdf (6 pages, 1916692 bytes).
 PDF statistics:
- 130 PDF objects out of 1000 (max. 8388607)
+ 131 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 131 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 136 words of extra memory for PDF output out of 10000 (max. 10000000)
 
