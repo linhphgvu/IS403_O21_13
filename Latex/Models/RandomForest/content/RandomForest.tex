@@ -1,0 +1,14 @@
+\subsection{Random Forest}
+\textbf{Định nghĩa}
+
+Random Forest là phương pháp xây dựng một tập hợp (ensemble) cây quyết định (decision tree) cho các bài toán phân lớp (classification) và hồi quy (regression). Cây quyết định thường có độ lệch thấp và phương sai cao, và Random Forest khai thác điều này bằng cách lấy trung bình các cây để cải thiện hiệu suất.
+
+\textbf{Thách thức}
+
+Thách thức chính của Random Forest là tạo ra tính ngẫu nhiên để giảm mối tương quan giữa các cây ($\rho(x)$) và duy trì độ lệch thấp.
+
+\textbf{Thuật toán}
+
+Thuật toán “Bagging” (Bootstrap Aggregating) là cơ chế chính của Random Forest. Mỗi cây quyết định được xây dựng từ một tập dữ liệu huấn luyện khác nhau và không bị cắt tỉa, tăng tính đa dạng và giảm lỗi.
+\textit{Dự đoán hồi quy:} Lấy giá trị trung bình của dự đoán từ tất cả các cây để giảm phương sai và cải thiện hiệu suất.
+\textit{Dự đoán phân lớp:} Lấy đa số phiếu bầu cho nhãn lớp từ tất cả các cây, giúp khắc phục sai sót của từng cây và tăng độ chính xác.
