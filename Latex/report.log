@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.28)  30 MAY 2024 19:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.28)  6 JUN 2024 23:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/21521/OneDrive/Desktop/GIT/IS403_O21_13/Latex/report.tex
-(c:/Users/21521/OneDrive/Desktop/GIT/IS403_O21_13/Latex/report.tex
+**d:/PTDLKD_MODELS/IS403_O21_13/Latex/report.tex
+(d:/PTDLKD_MODELS/IS403_O21_13/Latex/report.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (IEEEtran.cls
@@ -438,152 +438,81 @@ Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \everycr=\toks27
 \minrowclearance=\skip58
 \rownum=\count286
+) (D:\LATEX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count287
+\float@exts=\toks28
+\float@box=\box57
+\@float@everytoks=\toks29
+\@floatcapt=\box58
 ) (D:\LATEX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count287
-\l__pdf_internal_box=\box57
+\l__color_backend_stack_int=\count288
+\l__pdf_internal_box=\box59
 ) (report.aux
 LaTeX Font Info:    Trying to load font information for T5+ptm on input line 5.
  (D:\LATEX\tex/latex/vntex\t5ptm.fd
 File: t5utm.fd 2005/08/24 Fontinst v1.929 font definitions for T5/ptm.
 )
 
-LaTeX Warning: Label `fig1' multiply defined.
+LaTeX Warning: Label `fig:linear_regression' multiply defined.
 
 
-LaTeX Warning: Label `fig2' multiply defined.
-
-
-LaTeX Warning: Label `fig1' multiply defined.
-
-
-LaTeX Warning: Label `fig2' multiply defined.
-
-
-LaTeX Warning: Label `fig1' multiply defined.
-
-
-LaTeX Warning: Label `fig2' multiply defined.
-
-
-LaTeX Warning: Label `fig1' multiply defined.
-
-
-LaTeX Warning: Label `fig2' multiply defined.
-
-
-LaTeX Warning: Label `fig1' multiply defined.
-
-
-LaTeX Warning: Label `fig2' multiply defined.
-
-
-LaTeX Warning: Label `fig1' multiply defined.
-
-
-LaTeX Warning: Label `fig2' multiply defined.
-
-
-LaTeX Warning: Label `fig1' multiply defined.
-
-
-LaTeX Warning: Label `fig2' multiply defined.
-
-
-LaTeX Warning: Label `fig1' multiply defined.
-
-
-LaTeX Warning: Label `fig2' multiply defined.
-
-
-LaTeX Warning: Label `fig1' multiply defined.
-
-
-LaTeX Warning: Label `fig2' multiply defined.
-
-
-LaTeX Warning: Label `fig1' multiply defined.
-
-
-LaTeX Warning: Label `fig2' multiply defined.
-
-
-LaTeX Warning: Label `fig1' multiply defined.
-
-
-LaTeX Warning: Label `fig2' multiply defined.
-
-
-LaTeX Warning: Label `fig1' multiply defined.
-
-
-LaTeX Warning: Label `fig2' multiply defined.
-
-
-LaTeX Warning: Label `fig1' multiply defined.
-
-
-LaTeX Warning: Label `fig2' multiply defined.
-
-
-LaTeX Warning: Label `fig1' multiply defined.
-
-
-LaTeX Warning: Label `fig2' multiply defined.
+LaTeX Warning: Label `fig:TiDE' multiply defined.
 
 )
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 17.
-LaTeX Font Info:    Trying to load font information for T5+cmr on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 18.
+LaTeX Font Info:    Trying to load font information for T5+cmr on input line 18.
  (D:\LATEX\tex/latex/vntex\t5cmr.fd
 File: t5cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    ... okay on input line 18.
 
 -- Lines per column: 56 (exact).
 (D:\LATEX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count288
+\scratchcounter=\count289
 \scratchdimen=\dimen178
-\scratchbox=\box58
-\nofMPsegments=\count289
-\nofMParguments=\count290
-\everyMPshowfont=\toks28
-\MPscratchCnt=\count291
+\scratchbox=\box60
+\nofMPsegments=\count290
+\nofMParguments=\count291
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count292
 \MPscratchDim=\dimen179
-\MPnumerator=\count292
-\makeMPintoPDFobject=\count293
-\everyMPtoPDFconversion=\toks29
+\MPnumerator=\count293
+\makeMPintoPDFobject=\count294
+\everyMPtoPDFconversion=\toks31
 ) (D:\LATEX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (D:\LATEX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Font Info:    Trying to load font information for U+msa on input line 53.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 54.
  (D:\LATEX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 53.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 54.
  (D:\LATEX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 53.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 54.
  (sections/introduction.tex) (sections/relatedwork.tex [1{C:/Users/21521/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{D:/LATEX/fonts/enc/dvips/vntex/t5.enc}
 
 
@@ -605,178 +534,213 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 19--20
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (Models/RNN/content/RNN.tex [4]) (Models/GRU/content/GRU.tex) (Models/LSTM/content/LSTM.tex) (Models/MLP/content/MLP.tex) (Models/Autoformer/content/Autoformer.tex)) (sections/experiment.tex (Models/LinearRegression/results/LinearRegressionResult.tex
-<img/LN_7_3_HN.png, id=26, 469.755pt x 371.13657pt>
-File: img/LN_7_3_HN.png Graphic file (type png)
-<use img/LN_7_3_HN.png>
-Package pdftex.def Info: img/LN_7_3_HN.png  used on input line 6.
-(pdftex.def)             Requested size: 113.39923pt x 89.58992pt.
-<img/LN_8_2_HN.png, id=28, 469.755pt x 365.11406pt>
-File: img/LN_8_2_HN.png Graphic file (type png)
-<use img/LN_8_2_HN.png>
-Package pdftex.def Info: img/LN_8_2_HN.png  used on input line 12.
-(pdftex.def)             Requested size: 113.39923pt x 88.13614pt.
-<img/LN_9_1_HN.png, id=29, 469.755pt x 366.61969pt>
-File: img/LN_9_1_HN.png Graphic file (type png)
-<use img/LN_9_1_HN.png>
-Package pdftex.def Info: img/LN_9_1_HN.png  used on input line 18.
-(pdftex.def)             Requested size: 113.39923pt x 88.49959pt.
-<img/LN_7_3_HL.png, id=30, 469.755pt x 353.06906pt>
-File: img/LN_7_3_HL.png Graphic file (type png)
-<use img/LN_7_3_HL.png>
-Package pdftex.def Info: img/LN_7_3_HL.png  used on input line 24.
-(pdftex.def)             Requested size: 113.39923pt x 85.22855pt.
-<img/LN_8_2_HL.png, id=31, 469.755pt x 360.59718pt>
-File: img/LN_8_2_HL.png Graphic file (type png)
-<use img/LN_8_2_HL.png>
-Package pdftex.def Info: img/LN_8_2_HL.png  used on input line 30.
-(pdftex.def)             Requested size: 113.39923pt x 87.04579pt.
-<img/LN_9_1_HL.png, id=32, 469.755pt x 368.1253pt>
-File: img/LN_9_1_HL.png Graphic file (type png)
-<use img/LN_9_1_HL.png>
-Package pdftex.def Info: img/LN_9_1_HL.png  used on input line 36.
-(pdftex.def)             Requested size: 113.39923pt x 88.86304pt.
-<img/LN_7_3_VT.png, id=33, 469.755pt x 367.3725pt>
-File: img/LN_7_3_VT.png Graphic file (type png)
-<use img/LN_7_3_VT.png>
-Package pdftex.def Info: img/LN_7_3_VT.png  used on input line 42.
-(pdftex.def)             Requested size: 113.39923pt x 88.6813pt.
-<img/LN_8_2_VT.png, id=34, 469.755pt x 371.13657pt>
-File: img/LN_8_2_VT.png Graphic file (type png)
-<use img/LN_8_2_VT.png>
-Package pdftex.def Info: img/LN_8_2_VT.png  used on input line 48.
-(pdftex.def)             Requested size: 113.39923pt x 89.58992pt.
-<img/LN_9_1_VT.png, id=35, 469.755pt x 359.84438pt>
-File: img/LN_9_1_VT.png Graphic file (type png)
-<use img/LN_9_1_VT.png>
-Package pdftex.def Info: img/LN_9_1_VT.png  used on input line 54.
-(pdftex.def)             Requested size: 113.39923pt x 86.86407pt.
-
-Underfull \hbox (badness 1817) in paragraph at lines 55--55
-\T5/ptm/m/n/8 H¼nh 10.  \T5/ptm/m/n/7 Lin-ear Re-gres-sion (9:1)
+) (Models/RNN/content/RNN.tex [4]) (Models/GRU/content/GRU.tex) (Models/LSTM/content/LSTM.tex [5 <./img/TiDE.png>]) (Models/MLP/content/MLP.tex) (Models/Autoformer/content/Autoformer.tex [6])) (sections/experiment.tex (Models/LinearRegression/results/LinearRegressionResult.tex
+Overfull \hbox (264.0pt too wide) in paragraph at lines 3--4
+[][] 
  []
 
+<img/final/Linear Regression/LN_7_3_HN.png, id=32, 444.91219pt x 324.46219pt>
+File: img/final/Linear Regression/LN_7_3_HN.png Graphic file (type png)
+<use img/final/Linear Regression/LN_7_3_HN.png>
+Package pdftex.def Info: img/final/Linear Regression/LN_7_3_HN.png  used on input line 13.
+(pdftex.def)             Requested size: 77.39685pt x 56.44011pt.
+<img/final/Linear Regression/LN_8_2_HN.png, id=34, 450.18187pt x 325.215pt>
+File: img/final/Linear Regression/LN_8_2_HN.png Graphic file (type png)
+<use img/final/Linear Regression/LN_8_2_HN.png>
+Package pdftex.def Info: img/final/Linear Regression/LN_8_2_HN.png  used on input line 18.
+(pdftex.def)             Requested size: 77.39685pt x 55.91107pt.
+<img/final/Linear Regression/LN_9_1_HN.png, id=35, 462.22687pt x 324.46219pt>
+File: img/final/Linear Regression/LN_9_1_HN.png Graphic file (type png)
+<use img/final/Linear Regression/LN_9_1_HN.png>
+Package pdftex.def Info: img/final/Linear Regression/LN_9_1_HN.png  used on input line 23.
+(pdftex.def)             Requested size: 77.39685pt x 54.32608pt.
+File: img/final/Linear Regression/LN_7_3_HN.png Graphic file (type png)
+<use img/final/Linear Regression/LN_7_3_HN.png>
+Package pdftex.def Info: img/final/Linear Regression/LN_7_3_HN.png  used on input line 29.
+(pdftex.def)             Requested size: 77.39685pt x 56.44011pt.
+File: img/final/Linear Regression/LN_7_3_HN.png Graphic file (type png)
+<use img/final/Linear Regression/LN_7_3_HN.png>
+Package pdftex.def Info: img/final/Linear Regression/LN_7_3_HN.png  used on input line 34.
+(pdftex.def)             Requested size: 77.39685pt x 56.44011pt.
+File: img/final/Linear Regression/LN_7_3_HN.png Graphic file (type png)
+<use img/final/Linear Regression/LN_7_3_HN.png>
+Package pdftex.def Info: img/final/Linear Regression/LN_7_3_HN.png  used on input line 39.
+(pdftex.def)             Requested size: 77.39685pt x 56.44011pt.
+File: img/final/Linear Regression/LN_7_3_HN.png Graphic file (type png)
+<use img/final/Linear Regression/LN_7_3_HN.png>
+Package pdftex.def Info: img/final/Linear Regression/LN_7_3_HN.png  used on input line 45.
+(pdftex.def)             Requested size: 77.39685pt x 56.44011pt.
+File: img/final/Linear Regression/LN_7_3_HN.png Graphic file (type png)
+<use img/final/Linear Regression/LN_7_3_HN.png>
+Package pdftex.def Info: img/final/Linear Regression/LN_7_3_HN.png  used on input line 50.
+(pdftex.def)             Requested size: 77.39685pt x 56.44011pt.
+File: img/final/Linear Regression/LN_7_3_HN.png Graphic file (type png)
+<use img/final/Linear Regression/LN_7_3_HN.png>
+Package pdftex.def Info: img/final/Linear Regression/LN_7_3_HN.png  used on input line 55.
+(pdftex.def)             Requested size: 77.39685pt x 56.44011pt.
+) (Models/Arima/results/ArimaResult.tex) (Models/Var/results/VarResult.tex) (Models/RandomForest/results/RandomForestResult.tex) (Models/TiDE/results/TiDEResult.tex
+Overfull \hbox (264.0pt too wide) in paragraph at lines 2--3
+[][] 
+ []
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+<img/final/TiDE/TiDE_7_3_HN.png, id=36, 891.8118pt x 351.2322pt>
+File: img/final/TiDE/TiDE_7_3_HN.png Graphic file (type png)
+<use img/final/TiDE/TiDE_7_3_HN.png>
+Package pdftex.def Info: img/final/TiDE/TiDE_7_3_HN.png  used on input line 12.
+(pdftex.def)             Requested size: 77.39685pt x 30.4787pt.
+<img/final/TiDE/TiDE_8_2_HN.png, id=37, 891.8118pt x 351.2322pt>
+File: img/final/TiDE/TiDE_8_2_HN.png Graphic file (type png)
+<use img/final/TiDE/TiDE_8_2_HN.png>
+Package pdftex.def Info: img/final/TiDE/TiDE_8_2_HN.png  used on input line 17.
+(pdftex.def)             Requested size: 77.39685pt x 30.4787pt.
+<img/final/TiDE/TiDE_9_1_HN.png, id=38, 891.8118pt x 351.2322pt>
+File: img/final/TiDE/TiDE_9_1_HN.png Graphic file (type png)
+<use img/final/TiDE/TiDE_9_1_HN.png>
+Package pdftex.def Info: img/final/TiDE/TiDE_9_1_HN.png  used on input line 22.
+(pdftex.def)             Requested size: 77.39685pt x 30.4787pt.
+File: img/final/TiDE/TiDE_7_3_HN.png Graphic file (type png)
+<use img/final/TiDE/TiDE_7_3_HN.png>
+Package pdftex.def Info: img/final/TiDE/TiDE_7_3_HN.png  used on input line 28.
+(pdftex.def)             Requested size: 77.39685pt x 30.4787pt.
+File: img/final/TiDE/TiDE_7_3_HN.png Graphic file (type png)
+<use img/final/TiDE/TiDE_7_3_HN.png>
+Package pdftex.def Info: img/final/TiDE/TiDE_7_3_HN.png  used on input line 33.
+(pdftex.def)             Requested size: 77.39685pt x 30.4787pt.
+File: img/final/TiDE/TiDE_7_3_HN.png Graphic file (type png)
+<use img/final/TiDE/TiDE_7_3_HN.png>
+Package pdftex.def Info: img/final/TiDE/TiDE_7_3_HN.png  used on input line 38.
+(pdftex.def)             Requested size: 77.39685pt x 30.4787pt.
+File: img/final/TiDE/TiDE_7_3_HN.png Graphic file (type png)
+<use img/final/TiDE/TiDE_7_3_HN.png>
+Package pdftex.def Info: img/final/TiDE/TiDE_7_3_HN.png  used on input line 44.
+(pdftex.def)             Requested size: 77.39685pt x 30.4787pt.
+File: img/final/TiDE/TiDE_7_3_HN.png Graphic file (type png)
+<use img/final/TiDE/TiDE_7_3_HN.png>
+Package pdftex.def Info: img/final/TiDE/TiDE_7_3_HN.png  used on input line 49.
+(pdftex.def)             Requested size: 77.39685pt x 30.4787pt.
+File: img/final/TiDE/TiDE_7_3_HN.png Graphic file (type png)
+<use img/final/TiDE/TiDE_7_3_HN.png>
+Package pdftex.def Info: img/final/TiDE/TiDE_7_3_HN.png  used on input line 54.
+(pdftex.def)             Requested size: 77.39685pt x 30.4787pt.
+) (Models/RNN/results/RNNResult.tex) (Models/GRU/results/GRUResult.tex) (Models/LSTM/results/LSTMResult.tex) (Models/MLP/results/MLPResult.tex) (Models/Autoformer/results/AutoformerResult.tex) (Models/EVALUATION/HaNoi.Tex
 
-) (Models/Arima/results/ArimaResult.tex
-<img/ARIMA_8_2_HN.png, id=36, 450.9347pt x 325.215pt>
-File: img/ARIMA_8_2_HN.png Graphic file (type png)
-<use img/ARIMA_8_2_HN.png>
-Package pdftex.def Info: img/ARIMA_8_2_HN.png  used on input line 6.
-(pdftex.def)             Requested size: 113.39923pt x 81.77994pt.
-File: img/ARIMA_8_2_HN.png Graphic file (type png)
-<use img/ARIMA_8_2_HN.png>
-Package pdftex.def Info: img/ARIMA_8_2_HN.png  used on input line 12.
-(pdftex.def)             Requested size: 113.39923pt x 81.77994pt.
-<img/ARIMA_9_1_HN.png, id=37, 433.62pt x 326.72063pt>
-File: img/ARIMA_9_1_HN.png Graphic file (type png)
-<use img/ARIMA_9_1_HN.png>
-Package pdftex.def Info: img/ARIMA_9_1_HN.png  used on input line 18.
-(pdftex.def)             Requested size: 113.39923pt x 85.4389pt.
-<img/ARIMA_7_3_HL.png, id=38, 456.95718pt x 329.73187pt>
-File: img/ARIMA_7_3_HL.png Graphic file (type png)
-<use img/ARIMA_7_3_HL.png>
-Package pdftex.def Info: img/ARIMA_7_3_HL.png  used on input line 24.
-(pdftex.def)             Requested size: 113.39923pt x 81.82397pt.
-<img/ARIMA_8_2_HL.png, id=39, 447.92343pt x 328.22626pt>
-File: img/ARIMA_8_2_HL.png Graphic file (type png)
-<use img/ARIMA_8_2_HL.png>
-Package pdftex.def Info: img/ARIMA_8_2_HL.png  used on input line 30.
-(pdftex.def)             Requested size: 113.39923pt x 83.09308pt.
-<img/ARIMA_9_1_HL.png, id=40, 447.17062pt x 327.47343pt>
-File: img/ARIMA_9_1_HL.png Graphic file (type png)
-<use img/ARIMA_9_1_HL.png>
-Package pdftex.def Info: img/ARIMA_9_1_HL.png  used on input line 36.
-(pdftex.def)             Requested size: 113.39923pt x 83.0424pt.
-<img/ARIMA_7_3_VT.png, id=41, 445.665pt x 331.99031pt>
-File: img/ARIMA_7_3_VT.png Graphic file (type png)
-<use img/ARIMA_7_3_VT.png>
-Package pdftex.def Info: img/ARIMA_7_3_VT.png  used on input line 42.
-(pdftex.def)             Requested size: 113.39923pt x 84.4715pt.
-<img/ARIMA_8_2_VT.png, id=42, 441.90094pt x 330.48468pt>
-File: img/ARIMA_8_2_VT.png Graphic file (type png)
-<use img/ARIMA_8_2_VT.png>
-Package pdftex.def Info: img/ARIMA_8_2_VT.png  used on input line 48.
-(pdftex.def)             Requested size: 113.39923pt x 84.80449pt.
-<img/ARIMA_9_1_VT.png, id=43, 454.69875pt x 330.48468pt>
-File: img/ARIMA_9_1_VT.png Graphic file (type png)
-<use img/ARIMA_9_1_VT.png>
-Package pdftex.def Info: img/ARIMA_9_1_VT.png  used on input line 54.
-(pdftex.def)             Requested size: 113.39923pt x 82.41925pt.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+) (Models/EVALUATION/HaLong.Tex
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) (Models/Var/results/VarResult.tex
-<img/VAR_7_3_HN.png, id=44, 432.86719pt x 328.97906pt>
-File: img/VAR_7_3_HN.png Graphic file (type png)
-<use img/VAR_7_3_HN.png>
-Package pdftex.def Info: img/VAR_7_3_HN.png  used on input line 6.
-(pdftex.def)             Requested size: 113.39923pt x 86.18008pt.
-<img/VAR_8_2_HN.png, id=45, 441.14813pt x 328.22626pt>
-File: img/VAR_8_2_HN.png Graphic file (type png)
-<use img/VAR_8_2_HN.png>
-Package pdftex.def Info: img/VAR_8_2_HN.png  used on input line 12.
-(pdftex.def)             Requested size: 113.39923pt x 84.3702pt.
-<img/VAR_9_1_HN.png, id=46, 446.41782pt x 324.46219pt>
-File: img/VAR_9_1_HN.png Graphic file (type png)
-<use img/VAR_9_1_HN.png>
-Package pdftex.def Info: img/VAR_9_1_HN.png  used on input line 18.
-(pdftex.def)             Requested size: 113.39923pt x 82.41742pt.
-<img/VAR_7_3_HL.png, id=47, 454.69875pt x 328.22626pt>
-File: img/VAR_7_3_HL.png Graphic file (type png)
-<use img/VAR_7_3_HL.png>
-Package pdftex.def Info: img/VAR_7_3_HL.png  used on input line 24.
-(pdftex.def)             Requested size: 113.39923pt x 81.85602pt.
-<img/VAR_8_2_HL.png, id=48, 438.13687pt x 330.48468pt>
-File: img/VAR_8_2_HL.png Graphic file (type png)
-<use img/VAR_8_2_HL.png>
-Package pdftex.def Info: img/VAR_8_2_HL.png  used on input line 30.
-(pdftex.def)             Requested size: 113.39923pt x 85.53569pt.
-<img/VAR_9_1_HL.png, id=49, 447.92343pt x 326.72063pt>
-File: img/VAR_9_1_HL.png Graphic file (type png)
-<use img/VAR_9_1_HL.png>
-Package pdftex.def Info: img/VAR_9_1_HL.png  used on input line 36.
-(pdftex.def)             Requested size: 113.39923pt x 82.71191pt.
-<img/VAR_7_3_VT.png, id=50, 464.4853pt x 330.48468pt>
-File: img/VAR_7_3_VT.png Graphic file (type png)
-<use img/VAR_7_3_VT.png>
-Package pdftex.def Info: img/VAR_7_3_VT.png  used on input line 42.
-(pdftex.def)             Requested size: 113.39923pt x 80.68452pt.
-<img/VAR_8_2_Vt.png, id=51, 436.63126pt x 328.22626pt>
-File: img/VAR_8_2_Vt.png Graphic file (type png)
-<use img/VAR_8_2_Vt.png>
-Package pdftex.def Info: img/VAR_8_2_Vt.png  used on input line 48.
-(pdftex.def)             Requested size: 113.39923pt x 85.24165pt.
-<img/VAR_9_1_VT.png, id=52, 434.37282pt x 325.215pt>
-File: img/VAR_9_1_VT.png Graphic file (type png)
-<use img/VAR_9_1_VT.png>
-Package pdftex.def Info: img/VAR_9_1_VT.png  used on input line 55.
-(pdftex.def)             Requested size: 113.39923pt x 84.90126pt.
+) (Models/EVALUATION/VietTri.tex
 
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+) (Models/LinearRegression/results/30Days/LinearRegressionResult.tex
+Overfull \hbox (264.0pt too wide) in paragraph at lines 3--4
+[][] 
+ []
 
-) (Models/RandomForest/results/RandomForestResult.tex) (Models/TiDE/results/TiDEResult.tex) (Models/RNN/results/RNNResult.tex) (Models/GRU/results/GRUResult.tex) (Models/LSTM/results/LSTMResult.tex) (Models/MLP/results/MLPResult.tex) (Models/Autoformer/results/AutoformerResult.tex)) (sections/conclusion.tex) [5 <./img/TiDE.png> <./img/LN_7_3_HN.png> <./img/LN_8_2_HN.png> <./img/LN_9_1_HN.png> <./img/LN_7_3_HL.png> <./img/LN_8_2_HL.png> <./img/LN_9_1_HL.png> <./img/LN_7_3_VT.png> <./img/LN_8_2_VT.png> <./img/LN_9_1_VT.png>]
-Underfull \hbox (badness 3449) in paragraph at lines 91--95
+<img/final/Linear Regression/LN_7_3_HN_30D.png, id=39, 469.755pt x 276.28218pt>
+File: img/final/Linear Regression/LN_7_3_HN_30D.png Graphic file (type png)
+<use img/final/Linear Regression/LN_7_3_HN_30D.png>
+Package pdftex.def Info: img/final/Linear Regression/LN_7_3_HN_30D.png  used on input line 13.
+(pdftex.def)             Requested size: 77.39685pt x 45.51714pt.
+<img/final/Linear Regression/LN_8_2_HN_30D.png, id=40, 469.755pt x 277.78781pt>
+File: img/final/Linear Regression/LN_8_2_HN_30D.png Graphic file (type png)
+<use img/final/Linear Regression/LN_8_2_HN_30D.png>
+Package pdftex.def Info: img/final/Linear Regression/LN_8_2_HN_30D.png  used on input line 18.
+(pdftex.def)             Requested size: 77.39685pt x 45.76518pt.
+<img/final/Linear Regression/LN_9_1_HN_30D.png, id=41, 469.755pt x 277.035pt>
+File: img/final/Linear Regression/LN_9_1_HN_30D.png Graphic file (type png)
+<use img/final/Linear Regression/LN_9_1_HN_30D.png>
+Package pdftex.def Info: img/final/Linear Regression/LN_9_1_HN_30D.png  used on input line 23.
+(pdftex.def)             Requested size: 77.39685pt x 45.64116pt.
+File: img/final/Linear Regression/LN_7_3_HN_30D.png Graphic file (type png)
+<use img/final/Linear Regression/LN_7_3_HN_30D.png>
+Package pdftex.def Info: img/final/Linear Regression/LN_7_3_HN_30D.png  used on input line 29.
+(pdftex.def)             Requested size: 77.39685pt x 45.51714pt.
+File: img/final/Linear Regression/LN_7_3_HN_30D.png Graphic file (type png)
+<use img/final/Linear Regression/LN_7_3_HN_30D.png>
+Package pdftex.def Info: img/final/Linear Regression/LN_7_3_HN_30D.png  used on input line 34.
+(pdftex.def)             Requested size: 77.39685pt x 45.51714pt.
+File: img/final/Linear Regression/LN_7_3_HN_30D.png Graphic file (type png)
+<use img/final/Linear Regression/LN_7_3_HN_30D.png>
+Package pdftex.def Info: img/final/Linear Regression/LN_7_3_HN_30D.png  used on input line 39.
+(pdftex.def)             Requested size: 77.39685pt x 45.51714pt.
+File: img/final/Linear Regression/LN_7_3_HN_30D.png Graphic file (type png)
+<use img/final/Linear Regression/LN_7_3_HN_30D.png>
+Package pdftex.def Info: img/final/Linear Regression/LN_7_3_HN_30D.png  used on input line 45.
+(pdftex.def)             Requested size: 77.39685pt x 45.51714pt.
+File: img/final/Linear Regression/LN_7_3_HN_30D.png Graphic file (type png)
+<use img/final/Linear Regression/LN_7_3_HN_30D.png>
+Package pdftex.def Info: img/final/Linear Regression/LN_7_3_HN_30D.png  used on input line 50.
+(pdftex.def)             Requested size: 77.39685pt x 45.51714pt.
+File: img/final/Linear Regression/LN_7_3_HN_30D.png Graphic file (type png)
+<use img/final/Linear Regression/LN_7_3_HN_30D.png>
+Package pdftex.def Info: img/final/Linear Regression/LN_7_3_HN_30D.png  used on input line 55.
+(pdftex.def)             Requested size: 77.39685pt x 45.51714pt.
+) (Models/Arima/results/30Days/ArimaResult.tex [7 <./img/final/Linear Regression/LN_7_3_HN.png> <./img/final/Linear Regression/LN_8_2_HN.png> <./img/final/Linear Regression/LN_9_1_HN.png> <./img/final/TiDE/TiDE_7_3_HN.png> <./img/final/TiDE/TiDE_8_2_HN.png> <./img/final/TiDE/TiDE_9_1_HN.png>]) (Models/Var/results/30Days/VarResult.tex) (Models/RandomForest/results/30Days/RandomForestResult.tex) (Models/TiDE/results/30Days/TiDEResult.tex
+Overfull \hbox (264.0pt too wide) in paragraph at lines 2--3
+[][] 
+ []
+
+<img/final/TiDE/TiDE_7_3_HN_30D.png, id=53, 886.0302pt x 351.2322pt>
+File: img/final/TiDE/TiDE_7_3_HN_30D.png Graphic file (type png)
+<use img/final/TiDE/TiDE_7_3_HN_30D.png>
+Package pdftex.def Info: img/final/TiDE/TiDE_7_3_HN_30D.png  used on input line 12.
+(pdftex.def)             Requested size: 77.39685pt x 30.677pt.
+<img/final/TiDE/TiDE_8_2_HN_30D.png, id=54, 891.8118pt x 351.2322pt>
+File: img/final/TiDE/TiDE_8_2_HN_30D.png Graphic file (type png)
+<use img/final/TiDE/TiDE_8_2_HN_30D.png>
+Package pdftex.def Info: img/final/TiDE/TiDE_8_2_HN_30D.png  used on input line 17.
+(pdftex.def)             Requested size: 77.39685pt x 30.4787pt.
+<img/final/TiDE/TiDE_9_1_HN_30D.png, id=55, 891.8118pt x 351.2322pt>
+File: img/final/TiDE/TiDE_9_1_HN_30D.png Graphic file (type png)
+<use img/final/TiDE/TiDE_9_1_HN_30D.png>
+Package pdftex.def Info: img/final/TiDE/TiDE_9_1_HN_30D.png  used on input line 22.
+(pdftex.def)             Requested size: 77.39685pt x 30.4787pt.
+File: img/final/TiDE/TiDE_7_3_HN_30D.png Graphic file (type png)
+<use img/final/TiDE/TiDE_7_3_HN_30D.png>
+Package pdftex.def Info: img/final/TiDE/TiDE_7_3_HN_30D.png  used on input line 28.
+(pdftex.def)             Requested size: 77.39685pt x 30.677pt.
+File: img/final/TiDE/TiDE_7_3_HN_30D.png Graphic file (type png)
+<use img/final/TiDE/TiDE_7_3_HN_30D.png>
+Package pdftex.def Info: img/final/TiDE/TiDE_7_3_HN_30D.png  used on input line 33.
+(pdftex.def)             Requested size: 77.39685pt x 30.677pt.
+File: img/final/TiDE/TiDE_7_3_HN_30D.png Graphic file (type png)
+<use img/final/TiDE/TiDE_7_3_HN_30D.png>
+Package pdftex.def Info: img/final/TiDE/TiDE_7_3_HN_30D.png  used on input line 38.
+(pdftex.def)             Requested size: 77.39685pt x 30.677pt.
+File: img/final/TiDE/TiDE_7_3_HN_30D.png Graphic file (type png)
+<use img/final/TiDE/TiDE_7_3_HN_30D.png>
+Package pdftex.def Info: img/final/TiDE/TiDE_7_3_HN_30D.png  used on input line 44.
+(pdftex.def)             Requested size: 77.39685pt x 30.677pt.
+File: img/final/TiDE/TiDE_7_3_HN_30D.png Graphic file (type png)
+<use img/final/TiDE/TiDE_7_3_HN_30D.png>
+Package pdftex.def Info: img/final/TiDE/TiDE_7_3_HN_30D.png  used on input line 49.
+(pdftex.def)             Requested size: 77.39685pt x 30.677pt.
+File: img/final/TiDE/TiDE_7_3_HN_30D.png Graphic file (type png)
+<use img/final/TiDE/TiDE_7_3_HN_30D.png>
+Package pdftex.def Info: img/final/TiDE/TiDE_7_3_HN_30D.png  used on input line 54.
+(pdftex.def)             Requested size: 77.39685pt x 30.677pt.
+) (Models/RNN/results/30Days/RNNResult.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+) (Models/GRU/results/30Days/GRUResult.tex) (Models/LSTM/results/30Days/LSTMResult.tex) (Models/MLP/results/30Days/MLPResult.tex) (Models/Autoformer/results/30Days/AutoformerResult.tex)) (sections/conclusion.tex)
+Underfull \hbox (badness 3449) in paragraph at lines 92--96
 []\T5/ptm/m/n/8 A. Das, W. Kong, A. Leach, S. Mathur, R. Sen, and R. Yu,
  []
 
 
-Underfull \hbox (badness 3417) in paragraph at lines 91--95
+Underfull \hbox (badness 3417) in paragraph at lines 92--96
 \T5/ptm/m/n/8 ``Long-term Fore-cast-ing with TiDE: Time-series Dense En-coder,''
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--95
+Underfull \hbox (badness 10000) in paragraph at lines 92--96
 \T5/ptm/m/it/8 arXiv:2304.08424 [stat.ML]\T5/ptm/m/n/8 , April 2023. [On-line]. Avail-able:
  []
 
-
-Underfull \vbox (badness 1515) has occurred while \output is active []
-
-
+[8 <./img/final/Linear Regression/LN_7_3_HN_30D.png> <./img/final/Linear Regression/LN_8_2_HN_30D.png> <./img/final/Linear Regression/LN_9_1_HN_30D.png> <./img/final/TiDE/TiDE_7_3_HN_30D.png> <./img/final/TiDE/TiDE_8_2_HN_30D.png> <./img/final/TiDE/TiDE_9_1_HN_30D.png>]
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -788,7 +752,9 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[6 <./img/ARIMA_8_2_HN.png> <./img/ARIMA_9_1_HN.png> <./img/ARIMA_7_3_HL.png> <./img/ARIMA_8_2_HL.png> <./img/ARIMA_9_1_HL.png> <./img/ARIMA_7_3_VT.png> <./img/ARIMA_8_2_VT.png> <./img/ARIMA_9_1_VT.png> <./img/VAR_7_3_HN.png> <./img/VAR_8_2_HN.png> <./img/VAR_9_1_HN.png> <./img/VAR_7_3_HL.png> <./img/VAR_8_2_HL.png> <./img/VAR_9_1_HL.png> <./img/VAR_7_3_VT.png> <./img/VAR_8_2_Vt.png> <./img/VAR_9_1_VT.png>] (report.aux)
+[9
+
+] (report.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -799,17 +765,17 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 6396 strings out of 474485
- 108479 string characters out of 5760618
- 1951542 words of memory out of 5000000
- 28490 multiletter control sequences out of 15000+600000
+ 6486 strings out of 474485
+ 113348 string characters out of 5760618
+ 2014542 words of memory out of 5000000
+ 28524 multiletter control sequences out of 15000+600000
  629521 words of font info for 126 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,75p,1917b,355s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<D:/LATEX/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/LATEX/fonts/type1/vntex/urwvn/utmb8v.pfb><D:/LATEX/fonts/type1/vntex/urwvn/utmbi8v.pfb><D:/LATEX/fonts/type1/vntex/urwvn/utmr8v.pfb><D:/LATEX/fonts/type1/vntex/urwvn/utmri8v.pfb>
-Output written on report.pdf (6 pages, 1919572 bytes).
+ 57i,11n,75p,1898b,355s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<D:/LATEX/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/LATEX/fonts/type1/vntex/urwvn/utmb8v.pfb><D:/LATEX/fonts/type1/vntex/urwvn/utmbi8v.pfb><D:/LATEX/fonts/type1/vntex/urwvn/utmr8v.pfb><D:/LATEX/fonts/type1/vntex/urwvn/utmri8v.pfb>
+Output written on report.pdf (9 pages, 1013413 bytes).
 PDF statistics:
- 131 PDF objects out of 1000 (max. 8388607)
+ 119 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 136 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
 
