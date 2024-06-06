@@ -1,6 +1,6 @@
-PWD C:\Users\21521\OneDrive\Desktop\GIT\IS403_O21_13\Latex
+PWD d:\PTDLKD_MODELS\IS403_O21_13\Latex
 INPUT C:\Users\21521\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\21521\OneDrive\Desktop\GIT\IS403_O21_13\Latex\report.tex
+INPUT d:\PTDLKD_MODELS\IS403_O21_13\Latex\report.tex
 OUTPUT report.log
 INPUT .\IEEEtran.cls
 INPUT IEEEtran.cls
@@ -117,6 +117,8 @@ INPUT D:\LATEX\tex\latex\colortbl\colortbl.sty
 INPUT D:\LATEX\tex\latex\tools\array.sty
 INPUT D:\LATEX\tex\latex\tools\array.sty
 INPUT D:\LATEX\tex\latex\graphics\color.sty
+INPUT D:\LATEX\tex\latex\float\float.sty
+INPUT D:\LATEX\tex\latex\float\float.sty
 INPUT D:\LATEX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT D:\LATEX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT .\report.aux
@@ -284,202 +286,61 @@ INPUT .\Models\LinearRegression\results\LinearRegressionResult.tex
 INPUT .\Models\LinearRegression\results\LinearRegressionResult.tex
 INPUT .\Models\LinearRegression\results\LinearRegressionResult.tex
 INPUT Models\LinearRegression\results\LinearRegressionResult.tex
-INPUT .\img\LN_7_3_HN.png
-INPUT .\img\LN_7_3_HN.png
-INPUT .\img\LN_7_3_HN.png
-INPUT .\img\LN_7_3_HN.png
-INPUT .\img\LN_7_3_HN.png
-INPUT .\img\LN_7_3_HN.png
-INPUT .\img\LN_7_3_HN.png
-INPUT .\img\LN_8_2_HN.png
-INPUT .\img\LN_8_2_HN.png
-INPUT .\img\LN_8_2_HN.png
-INPUT .\img\LN_8_2_HN.png
-INPUT .\img\LN_8_2_HN.png
-INPUT .\img\LN_8_2_HN.png
-INPUT .\img\LN_8_2_HN.png
-INPUT .\img\LN_9_1_HN.png
-INPUT .\img\LN_9_1_HN.png
-INPUT .\img\LN_9_1_HN.png
-INPUT .\img\LN_9_1_HN.png
-INPUT .\img\LN_9_1_HN.png
-INPUT .\img\LN_9_1_HN.png
-INPUT .\img\LN_9_1_HN.png
-INPUT .\img\LN_7_3_HL.png
-INPUT .\img\LN_7_3_HL.png
-INPUT .\img\LN_7_3_HL.png
-INPUT .\img\LN_7_3_HL.png
-INPUT .\img\LN_7_3_HL.png
-INPUT .\img\LN_7_3_HL.png
-INPUT .\img\LN_7_3_HL.png
-INPUT .\img\LN_8_2_HL.png
-INPUT .\img\LN_8_2_HL.png
-INPUT .\img\LN_8_2_HL.png
-INPUT .\img\LN_8_2_HL.png
-INPUT .\img\LN_8_2_HL.png
-INPUT .\img\LN_8_2_HL.png
-INPUT .\img\LN_8_2_HL.png
-INPUT .\img\LN_9_1_HL.png
-INPUT .\img\LN_9_1_HL.png
-INPUT .\img\LN_9_1_HL.png
-INPUT .\img\LN_9_1_HL.png
-INPUT .\img\LN_9_1_HL.png
-INPUT .\img\LN_9_1_HL.png
-INPUT .\img\LN_9_1_HL.png
-INPUT .\img\LN_7_3_VT.png
-INPUT .\img\LN_7_3_VT.png
-INPUT .\img\LN_7_3_VT.png
-INPUT .\img\LN_7_3_VT.png
-INPUT .\img\LN_7_3_VT.png
-INPUT .\img\LN_7_3_VT.png
-INPUT .\img\LN_7_3_VT.png
-INPUT .\img\LN_8_2_VT.png
-INPUT .\img\LN_8_2_VT.png
-INPUT .\img\LN_8_2_VT.png
-INPUT .\img\LN_8_2_VT.png
-INPUT .\img\LN_8_2_VT.png
-INPUT .\img\LN_8_2_VT.png
-INPUT .\img\LN_8_2_VT.png
-INPUT .\img\LN_9_1_VT.png
-INPUT .\img\LN_9_1_VT.png
-INPUT .\img\LN_9_1_VT.png
-INPUT .\img\LN_9_1_VT.png
-INPUT .\img\LN_9_1_VT.png
-INPUT .\img\LN_9_1_VT.png
-INPUT .\img\LN_9_1_VT.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\LN_8_2_HN.png
+INPUT .\img\final\Linear Regression\LN_8_2_HN.png
+INPUT .\img\final\Linear Regression\LN_8_2_HN.png
+INPUT .\img\final\Linear Regression\LN_8_2_HN.png
+INPUT .\img\final\Linear Regression\LN_8_2_HN.png
+INPUT .\img\final\Linear Regression\LN_8_2_HN.png
+INPUT .\img\final\Linear Regression\LN_8_2_HN.png
+INPUT .\img\final\Linear Regression\LN_9_1_HN.png
+INPUT .\img\final\Linear Regression\LN_9_1_HN.png
+INPUT .\img\final\Linear Regression\LN_9_1_HN.png
+INPUT .\img\final\Linear Regression\LN_9_1_HN.png
+INPUT .\img\final\Linear Regression\LN_9_1_HN.png
+INPUT .\img\final\Linear Regression\LN_9_1_HN.png
+INPUT .\img\final\Linear Regression\LN_9_1_HN.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN.png
 INPUT .\Models\Arima\results\ArimaResult.tex
 INPUT .\Models\Arima\results\ArimaResult.tex
 INPUT .\Models\Arima\results\ArimaResult.tex
 INPUT .\Models\Arima\results\ArimaResult.tex
 INPUT Models\Arima\results\ArimaResult.tex
-INPUT .\img\ARIMA_8_2_HN.png
-INPUT .\img\ARIMA_8_2_HN.png
-INPUT .\img\ARIMA_8_2_HN.png
-INPUT .\img\ARIMA_8_2_HN.png
-INPUT .\img\ARIMA_8_2_HN.png
-INPUT .\img\ARIMA_8_2_HN.png
-INPUT .\img\ARIMA_8_2_HN.png
-INPUT .\img\ARIMA_8_2_HN.png
-INPUT .\img\ARIMA_8_2_HN.png
-INPUT .\img\ARIMA_8_2_HN.png
-INPUT .\img\ARIMA_8_2_HN.png
-INPUT .\img\ARIMA_9_1_HN.png
-INPUT .\img\ARIMA_9_1_HN.png
-INPUT .\img\ARIMA_9_1_HN.png
-INPUT .\img\ARIMA_9_1_HN.png
-INPUT .\img\ARIMA_9_1_HN.png
-INPUT .\img\ARIMA_9_1_HN.png
-INPUT .\img\ARIMA_9_1_HN.png
-INPUT .\img\ARIMA_7_3_HL.png
-INPUT .\img\ARIMA_7_3_HL.png
-INPUT .\img\ARIMA_7_3_HL.png
-INPUT .\img\ARIMA_7_3_HL.png
-INPUT .\img\ARIMA_7_3_HL.png
-INPUT .\img\ARIMA_7_3_HL.png
-INPUT .\img\ARIMA_7_3_HL.png
-INPUT .\img\ARIMA_8_2_HL.png
-INPUT .\img\ARIMA_8_2_HL.png
-INPUT .\img\ARIMA_8_2_HL.png
-INPUT .\img\ARIMA_8_2_HL.png
-INPUT .\img\ARIMA_8_2_HL.png
-INPUT .\img\ARIMA_8_2_HL.png
-INPUT .\img\ARIMA_8_2_HL.png
-INPUT .\img\ARIMA_9_1_HL.png
-INPUT .\img\ARIMA_9_1_HL.png
-INPUT .\img\ARIMA_9_1_HL.png
-INPUT .\img\ARIMA_9_1_HL.png
-INPUT .\img\ARIMA_9_1_HL.png
-INPUT .\img\ARIMA_9_1_HL.png
-INPUT .\img\ARIMA_9_1_HL.png
-INPUT .\img\ARIMA_7_3_VT.png
-INPUT .\img\ARIMA_7_3_VT.png
-INPUT .\img\ARIMA_7_3_VT.png
-INPUT .\img\ARIMA_7_3_VT.png
-INPUT .\img\ARIMA_7_3_VT.png
-INPUT .\img\ARIMA_7_3_VT.png
-INPUT .\img\ARIMA_7_3_VT.png
-INPUT .\img\ARIMA_8_2_VT.png
-INPUT .\img\ARIMA_8_2_VT.png
-INPUT .\img\ARIMA_8_2_VT.png
-INPUT .\img\ARIMA_8_2_VT.png
-INPUT .\img\ARIMA_8_2_VT.png
-INPUT .\img\ARIMA_8_2_VT.png
-INPUT .\img\ARIMA_8_2_VT.png
-INPUT .\img\ARIMA_9_1_VT.png
-INPUT .\img\ARIMA_9_1_VT.png
-INPUT .\img\ARIMA_9_1_VT.png
-INPUT .\img\ARIMA_9_1_VT.png
-INPUT .\img\ARIMA_9_1_VT.png
-INPUT .\img\ARIMA_9_1_VT.png
-INPUT .\img\ARIMA_9_1_VT.png
 INPUT .\Models\Var\results\VarResult.tex
 INPUT .\Models\Var\results\VarResult.tex
 INPUT .\Models\Var\results\VarResult.tex
 INPUT .\Models\Var\results\VarResult.tex
 INPUT Models\Var\results\VarResult.tex
-INPUT .\img\VAR_7_3_HN.png
-INPUT .\img\VAR_7_3_HN.png
-INPUT .\img\VAR_7_3_HN.png
-INPUT .\img\VAR_7_3_HN.png
-INPUT .\img\VAR_7_3_HN.png
-INPUT .\img\VAR_7_3_HN.png
-INPUT .\img\VAR_7_3_HN.png
-INPUT .\img\VAR_8_2_HN.png
-INPUT .\img\VAR_8_2_HN.png
-INPUT .\img\VAR_8_2_HN.png
-INPUT .\img\VAR_8_2_HN.png
-INPUT .\img\VAR_8_2_HN.png
-INPUT .\img\VAR_8_2_HN.png
-INPUT .\img\VAR_8_2_HN.png
-INPUT .\img\VAR_9_1_HN.png
-INPUT .\img\VAR_9_1_HN.png
-INPUT .\img\VAR_9_1_HN.png
-INPUT .\img\VAR_9_1_HN.png
-INPUT .\img\VAR_9_1_HN.png
-INPUT .\img\VAR_9_1_HN.png
-INPUT .\img\VAR_9_1_HN.png
-INPUT .\img\VAR_7_3_HL.png
-INPUT .\img\VAR_7_3_HL.png
-INPUT .\img\VAR_7_3_HL.png
-INPUT .\img\VAR_7_3_HL.png
-INPUT .\img\VAR_7_3_HL.png
-INPUT .\img\VAR_7_3_HL.png
-INPUT .\img\VAR_7_3_HL.png
-INPUT .\img\VAR_8_2_HL.png
-INPUT .\img\VAR_8_2_HL.png
-INPUT .\img\VAR_8_2_HL.png
-INPUT .\img\VAR_8_2_HL.png
-INPUT .\img\VAR_8_2_HL.png
-INPUT .\img\VAR_8_2_HL.png
-INPUT .\img\VAR_8_2_HL.png
-INPUT .\img\VAR_9_1_HL.png
-INPUT .\img\VAR_9_1_HL.png
-INPUT .\img\VAR_9_1_HL.png
-INPUT .\img\VAR_9_1_HL.png
-INPUT .\img\VAR_9_1_HL.png
-INPUT .\img\VAR_9_1_HL.png
-INPUT .\img\VAR_9_1_HL.png
-INPUT .\img\VAR_7_3_VT.png
-INPUT .\img\VAR_7_3_VT.png
-INPUT .\img\VAR_7_3_VT.png
-INPUT .\img\VAR_7_3_VT.png
-INPUT .\img\VAR_7_3_VT.png
-INPUT .\img\VAR_7_3_VT.png
-INPUT .\img\VAR_7_3_VT.png
-INPUT .\img\VAR_8_2_Vt.png
-INPUT .\img\VAR_8_2_Vt.png
-INPUT .\img\VAR_8_2_Vt.png
-INPUT .\img\VAR_8_2_Vt.png
-INPUT .\img\VAR_8_2_Vt.png
-INPUT .\img\VAR_8_2_Vt.png
-INPUT .\img\VAR_8_2_Vt.png
-INPUT .\img\VAR_9_1_VT.png
-INPUT .\img\VAR_9_1_VT.png
-INPUT .\img\VAR_9_1_VT.png
-INPUT .\img\VAR_9_1_VT.png
-INPUT .\img\VAR_9_1_VT.png
-INPUT .\img\VAR_9_1_VT.png
-INPUT .\img\VAR_9_1_VT.png
 INPUT .\Models\RandomForest\results\RandomForestResult.tex
 INPUT .\Models\RandomForest\results\RandomForestResult.tex
 INPUT .\Models\RandomForest\results\RandomForestResult.tex
@@ -490,6 +351,51 @@ INPUT .\Models\TiDE\results\TiDEResult.tex
 INPUT .\Models\TiDE\results\TiDEResult.tex
 INPUT .\Models\TiDE\results\TiDEResult.tex
 INPUT Models\TiDE\results\TiDEResult.tex
+INPUT .\img\final\TiDE\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\TiDE_8_2_HN.png
+INPUT .\img\final\TiDE\TiDE_8_2_HN.png
+INPUT .\img\final\TiDE\TiDE_8_2_HN.png
+INPUT .\img\final\TiDE\TiDE_8_2_HN.png
+INPUT .\img\final\TiDE\TiDE_8_2_HN.png
+INPUT .\img\final\TiDE\TiDE_8_2_HN.png
+INPUT .\img\final\TiDE\TiDE_8_2_HN.png
+INPUT .\img\final\TiDE\TiDE_9_1_HN.png
+INPUT .\img\final\TiDE\TiDE_9_1_HN.png
+INPUT .\img\final\TiDE\TiDE_9_1_HN.png
+INPUT .\img\final\TiDE\TiDE_9_1_HN.png
+INPUT .\img\final\TiDE\TiDE_9_1_HN.png
+INPUT .\img\final\TiDE\TiDE_9_1_HN.png
+INPUT .\img\final\TiDE\TiDE_9_1_HN.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN.png
 INPUT .\Models\RNN\results\RNNResult.tex
 INPUT .\Models\RNN\results\RNNResult.tex
 INPUT .\Models\RNN\results\RNNResult.tex
@@ -515,6 +421,155 @@ INPUT .\Models\Autoformer\results\AutoformerResult.tex
 INPUT .\Models\Autoformer\results\AutoformerResult.tex
 INPUT .\Models\Autoformer\results\AutoformerResult.tex
 INPUT Models\Autoformer\results\AutoformerResult.tex
+INPUT .\Models\EVALUATION\HaNoi.Tex
+INPUT .\Models\EVALUATION\HaNoi.Tex
+INPUT Models\EVALUATION\HaNoi.Tex
+INPUT .\Models\EVALUATION\HaLong.Tex
+INPUT .\Models\EVALUATION\HaLong.Tex
+INPUT Models\EVALUATION\HaLong.Tex
+INPUT .\Models\EVALUATION\VietTri.tex
+INPUT .\Models\EVALUATION\VietTri.tex
+INPUT Models\EVALUATION\VietTri.tex
+INPUT .\Models\LinearRegression\results\30Days\LinearRegressionResult.tex
+INPUT .\Models\LinearRegression\results\30Days\LinearRegressionResult.tex
+INPUT .\Models\LinearRegression\results\30Days\LinearRegressionResult.tex
+INPUT .\Models\LinearRegression\results\30Days\LinearRegressionResult.tex
+INPUT Models\LinearRegression\results\30Days\LinearRegressionResult.tex
+INPUT .\img\final\Linear Regression\LN_7_3_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_8_2_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_8_2_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_8_2_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_8_2_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_8_2_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_8_2_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_8_2_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_9_1_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_9_1_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_9_1_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_9_1_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_9_1_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_9_1_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_9_1_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN_30D.png
+INPUT .\img\final\Linear Regression\LN_7_3_HN_30D.png
+INPUT .\Models\Arima\results\30Days\ArimaResult.tex
+INPUT .\Models\Arima\results\30Days\ArimaResult.tex
+INPUT .\Models\Arima\results\30Days\ArimaResult.tex
+INPUT .\Models\Arima\results\30Days\ArimaResult.tex
+INPUT Models\Arima\results\30Days\ArimaResult.tex
+INPUT .\Models\Var\results\30Days\VarResult.tex
+INPUT .\Models\Var\results\30Days\VarResult.tex
+INPUT .\Models\Var\results\30Days\VarResult.tex
+INPUT .\Models\Var\results\30Days\VarResult.tex
+INPUT Models\Var\results\30Days\VarResult.tex
+INPUT .\Models\RandomForest\results\30Days\RandomForestResult.tex
+INPUT .\Models\RandomForest\results\30Days\RandomForestResult.tex
+INPUT .\Models\RandomForest\results\30Days\RandomForestResult.tex
+INPUT .\Models\RandomForest\results\30Days\RandomForestResult.tex
+INPUT Models\RandomForest\results\30Days\RandomForestResult.tex
+INPUT .\Models\TiDE\results\30Days\TiDEResult.tex
+INPUT .\Models\TiDE\results\30Days\TiDEResult.tex
+INPUT .\Models\TiDE\results\30Days\TiDEResult.tex
+INPUT .\Models\TiDE\results\30Days\TiDEResult.tex
+INPUT Models\TiDE\results\30Days\TiDEResult.tex
+INPUT .\img\final\TiDE\TiDE_7_3_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_8_2_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_8_2_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_8_2_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_8_2_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_8_2_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_8_2_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_8_2_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_9_1_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_9_1_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_9_1_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_9_1_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_9_1_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_9_1_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_9_1_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN_30D.png
+INPUT .\img\final\TiDE\TiDE_7_3_HN_30D.png
+INPUT .\Models\RNN\results\30Days\RNNResult.tex
+INPUT .\Models\RNN\results\30Days\RNNResult.tex
+INPUT .\Models\RNN\results\30Days\RNNResult.tex
+INPUT .\Models\RNN\results\30Days\RNNResult.tex
+INPUT Models\RNN\results\30Days\RNNResult.tex
+INPUT .\Models\GRU\results\30Days\GRUResult.tex
+INPUT .\Models\GRU\results\30Days\GRUResult.tex
+INPUT .\Models\GRU\results\30Days\GRUResult.tex
+INPUT .\Models\GRU\results\30Days\GRUResult.tex
+INPUT Models\GRU\results\30Days\GRUResult.tex
+INPUT .\Models\LSTM\results\30Days\LSTMResult.tex
+INPUT .\Models\LSTM\results\30Days\LSTMResult.tex
+INPUT .\Models\LSTM\results\30Days\LSTMResult.tex
+INPUT .\Models\LSTM\results\30Days\LSTMResult.tex
+INPUT Models\LSTM\results\30Days\LSTMResult.tex
+INPUT .\Models\MLP\results\30Days\MLPResult.tex
+INPUT .\Models\MLP\results\30Days\MLPResult.tex
+INPUT .\Models\MLP\results\30Days\MLPResult.tex
+INPUT .\Models\MLP\results\30Days\MLPResult.tex
+INPUT Models\MLP\results\30Days\MLPResult.tex
+INPUT .\Models\Autoformer\results\30Days\AutoformerResult.tex
+INPUT .\Models\Autoformer\results\30Days\AutoformerResult.tex
+INPUT .\Models\Autoformer\results\30Days\AutoformerResult.tex
+INPUT .\Models\Autoformer\results\30Days\AutoformerResult.tex
+INPUT Models\Autoformer\results\30Days\AutoformerResult.tex
 INPUT .\sections\conclusion.tex
 INPUT .\sections\conclusion.tex
 INPUT .\sections\conclusion.tex
@@ -526,6 +581,8 @@ INPUT D:\LATEX\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT D:\LATEX\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT D:\LATEX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT D:\LATEX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT D:\LATEX\fonts\type1\public\amsfonts\cm\cmmi5.pfb
+INPUT D:\LATEX\fonts\type1\public\amsfonts\cm\cmmi5.pfb
 INPUT D:\LATEX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
 INPUT D:\LATEX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
 INPUT D:\LATEX\fonts\type1\public\amsfonts\cm\cmr10.pfb
