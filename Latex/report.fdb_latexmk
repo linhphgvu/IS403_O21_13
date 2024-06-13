@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1718273809.18923 "d:/UIT_2023-2024/Phân tích dữ liệu kinh doanh/W7/IS403_O21_13/Latex/report.tex" "report.pdf" "report" 1718273816.94652 0
+["pdflatex"] 1718274390.65596 "d:/UIT_2023-2024/Phân tích dữ liệu kinh doanh/7/IS403_O21_13/Latex/report.tex" "report.pdf" "report" 1718274399.0781 0
   "C:/Users/TRIEU" 1705321533.14333 18905 98eea8c2482ac3d006c941383e24e5f3 ""
   "C:/Users/TRIEU VY/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1718272970.61997 89969 e95579120a3aa0ebc21d2737ca2ba701 ""
   "C:/Users/TRIEU VY/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718272951.06095 24264574 aab96ae5f923cdcb8793a889199be161 ""
@@ -93,9 +93,9 @@
   "Models/Autoformer/content/Autoformer.tex" 1718272090.87272 3994 02f12990362e94f302832e2e2a1d31bc ""
   "Models/Autoformer/results/30Days/AutoformerResult.tex" 1718272090.87372 0 d41d8cd98f00b204e9800998ecf8427e ""
   "Models/Autoformer/results/AutoformerResult.tex" 1718272090.87372 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "Models/EVALUATION/HaLong.Tex" 1718273800.39976 2273 10245a43b895491bef89b8da04b3b87d ""
-  "Models/EVALUATION/HaNoi.Tex" 1718273800.40077 2054 da179027eb36f2c9581786f7df366f34 ""
-  "Models/EVALUATION/VietTri.tex" 1718273800.40077 2056 a88a458fd2195ed953a7a0b78f513f49 ""
+  "Models/EVALUATION/HaLong.Tex" 1718274358.1543 2318 3050d9985d12cc5e08270f05a8574872 ""
+  "Models/EVALUATION/HaNoi.Tex" 1718274376.50698 2099 86717079587d78f77f85da859bd9be3a ""
+  "Models/EVALUATION/VietTri.tex" 1718274389.86631 2101 aca72477c9867d95cd1f082ce3d685b3 ""
   "Models/GRU/content/GRU.tex" 1718272090.87572 3021 8eff9e2d78da6bf68e21b92705ab7c47 ""
   "Models/GRU/results/30Days/GRUResult.tex" 1718272090.87572 1704 77fbb65c67f1f75190baa642b88e9a36 ""
   "Models/GRU/results/GRUResult.tex" 1718272090.87572 0 d41d8cd98f00b204e9800998ecf8427e ""
@@ -120,7 +120,7 @@
   "Models/Var/content/Var.tex" 1718272090.88272 1385 084e8433944a3a56fafec686091a9d21 ""
   "Models/Var/results/30Days/VarResult.tex" 1718272090.88272 1712 63fb0493e3c0570fa64d8e90a59768c4 ""
   "Models/Var/results/VarResult.tex" 1718272090.88374 1676 01aa4d1e47a5fd26cb489aad483b785e ""
-  "d:/UIT_2023-2024/Phân tích dữ liệu kinh doanh/W7/IS403_O21_13/Latex/report.tex" 1718272091.11158 6931 3c11b5cb4e765e456447c8970589fef6 ""
+  "d:/UIT_2023-2024/Phân tích dữ liệu kinh doanh/7/IS403_O21_13/Latex/report.tex" 1718272091.11158 6931 3c11b5cb4e765e456447c8970589fef6 ""
   "img/TiDE.png" 1718272090.90872 50612 b763490c4135f6955905c1c2f1d6946f ""
   "img/final/ARIMA/ARIMA_7_3_HN.png" 1718272090.92973 61405 b087ffca9e4dca643e4e91834b6b8f57 ""
   "img/final/ARIMA/ARIMA_7_3_HN_30D.png" 1718272090.92973 18825 ac1bff42a7960a20693eb022c26a2c6b ""
@@ -175,7 +175,7 @@
   "img/final/VAR/VAR_8_2_HN_30D.png" 1718272091.07048 20926 d3ca73f2240184c73af2d66ca62dd193 ""
   "img/final/VAR/VAR_9_1_HN.png" 1718272091.07248 61674 518207ea6610e0ea5f0ed65464a3041a ""
   "img/final/VAR/VAR_9_1_HN_30D.png" 1718272091.07348 19403 0a47cf6afd5d561dcccb8ca499b5a06e ""
-  "report.aux" 1718273815.86878 9470 a08bb2c9ab6fce0fb098d44819f021a6 "pdflatex"
+  "report.aux" 1718274398.49848 9470 a08bb2c9ab6fce0fb098d44819f021a6 "pdflatex"
   "sections/conclusion.tex" 1718272091.11253 22 a5ebb9e86b0c8524c7376f8e24107b7d ""
   "sections/experiment.tex" 1718272091.11253 1236 38819136aae7435fa2fb84b4f5209cb5 ""
   "sections/introduction.tex" 1718272091.11253 3948 b040d54f66f534a9d170821a23192c21 ""
