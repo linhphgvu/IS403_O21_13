@@ -2,8 +2,6 @@
 
 Long Short-Term Memory (LSTM) là một loại mạng nơ-ron tái hiện (RNN) được thiết kế để xử lý và dự báo chuỗi thời gian, khắc phục các vấn đề gradient biến mất và gradient bùng nổ trong các RNN truyền thống. LSTM bao gồm các đơn vị nhớ (memory cell) có khả năng lưu trữ thông tin trong một khoảng thời gian dài.
 
-\subsubsection{Cấu Trúc LSTM}
-
 Mỗi đơn vị LSTM bao gồm ba cổng chính: cổng quên (forget gate), cổng đầu vào (input gate), và cổng đầu ra (output gate). Các cổng này điều khiển dòng thông tin qua đơn vị nhớ.
 
 \paragraph{Cổng Quên (Forget Gate)}
@@ -43,13 +41,3 @@ o_t = \sigma(W_o \cdot [h_{t-1}, x_t] + b_o)
 h_t = o_t \cdot \tanh(C_t)
 \]
 trong đó, $o_t$ là giá trị của cổng đầu ra, $W_o$ là trọng số của cổng đầu ra, $b_o$ là bias của cổng đầu ra, và $h_t$ là đầu ra của đơn vị LSTM tại thời điểm $t$.
-
-\subsubsection{Quá Trình Hoạt Động của LSTM}
-
-Quá trình hoạt động của LSTM bao gồm ba bước chính:
-
-\begin{enumerate}
-    \item \textbf{Tính toán cổng quên:} Xác định lượng thông tin từ trạng thái nhớ trước đó cần được giữ lại.
-    \item \textbf{Tính toán cổng đầu vào và cập nhật trạng thái nhớ:} Xác định lượng thông tin mới được thêm vào và cập nhật trạng thái nhớ.
-    \item \textbf{Tính toán cổng đầu ra:} Xác định đầu ra của đơn vị LSTM dựa trên trạng thái nhớ cập nhật.
-\end{enumerate}
