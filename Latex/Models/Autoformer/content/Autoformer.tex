@@ -17,7 +17,7 @@ trong đó, $X_s$ và $X_t$ lần lượt là các phần mùa vụ và xu hư�
 
 Cơ chế tự tương quan được thiết kế để phát hiện các phụ thuộc dựa trên chu kỳ và tập hợp các chuỗi con tương tự từ các chu kỳ ngầm. Cơ chế này thay thế cho self-attention trong Transformer và có độ phức tạp $O(L \log L)$, trong đó $L$ là chiều dài chuỗi.
 
-\paragraph{Công Thức Tự Tương Quan}
+Công Thức Tự Tương Quan: 
 
 Cơ chế tự tương quan bao gồm hai bước chính: tính toán tự tương quan và tổng hợp các giá trị tương quan.
 
@@ -58,13 +58,3 @@ Bộ giải mã nhận các thành phần xu hướng và mùa vụ từ bộ m�
 \[
 \hat{X}^{(l)} = \text{AutoCorrelation}(\hat{Y}^{(l)})
 \]
-
-\subsubsection{Quá Trình Hoạt Động}
-
-Autoformer hoạt động theo quy trình sau:
-
-\begin{enumerate}
-    \item \textbf{Đầu vào và Phân Rã Chuỗi:} Chuỗi thời gian quá khứ $X_{en}$ được đưa vào bộ mã hóa. Bộ mã hóa phân rã chuỗi này thành các thành phần xu hướng và mùa vụ.
-    \item \textbf{Bộ mã hóa (Encoder):} Áp dụng các khối phân rã và cơ chế tự tương quan để xử lý và trích xuất các thông tin cần thiết từ chuỗi đầu vào.
-    \item \textbf{Bộ giải mã (Decoder):} Nhận các thành phần xu hướng và mùa vụ từ bộ mã hóa và tiếp tục tinh chỉnh. Sử dụng các khối phân rã và cơ chế tự tương quan để dự báo chuỗi thời gian trong tương lai.
-\end{enumerate}
