@@ -1,5 +1,3 @@
-markdown
-Copy code
 # IS403_O21_13
 
 # GVHD: PGS.TS Nguyễn Đình Thuân
