@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.28)  20 JUN 2024 11:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.28)  20 JUN 2024 13:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -568,8 +568,8 @@ Package pdftex.def Info: img/final/Dataset/boxplot_vt.png  used on input line 82
 
 Underfull \vbox (badness 5316) has occurred while \output is active []
 
- [2]) (sections/method.tex (Models/LinearRegression/content/LinearRegression.tex) (Models/Arima/content/Arima.tex [3 <./img/final/Dataset/histogram.png> <./img/final/Dataset/boxplot.png> <./img/final/Dataset/histogram_hn.png> <./img/final/Dataset/boxplot_hn.png> <./img/final/Dataset/histogram_vt.png> <./img/final/Dataset/boxplot_vt.png>]) (Models/Var/content/Var.tex) (Models/RandomForest/content/RandomForest.tex) (Models/TiDE/content/TiDE.tex
-<img/TiDE.png, id=35, 447.60774pt x 386.2171pt>
+ [2]) (sections/method.tex (Models/LinearRegression/content/LinearRegression.tex [3 <./img/final/Dataset/histogram.png> <./img/final/Dataset/boxplot.png> <./img/final/Dataset/histogram_hn.png> <./img/final/Dataset/boxplot_hn.png> <./img/final/Dataset/histogram_vt.png> <./img/final/Dataset/boxplot_vt.png>]) (Models/Arima/content/Arima.tex) (Models/Var/content/Var.tex) (Models/RandomForest/content/RandomForest.tex) (Models/TiDE/content/TiDE.tex [4]
+<img/TiDE.png, id=38, 447.60774pt x 386.2171pt>
 File: img/TiDE.png Graphic file (type png)
 <use img/TiDE.png>
 Package pdftex.def Info: img/TiDE.png  used on input line 19.
@@ -579,10 +579,7 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 19--20
  [][] 
  []
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) (Models/RNN/content/RNN.tex [4]) (Models/GRU/content/GRU.tex) (Models/LSTM/content/LSTM.tex [5 <./img/TiDE.png>]) (Models/MLP/content/MLP.tex) (Models/Autoformer/content/Autoformer.tex [6])) (sections/experiment.tex (Models/LinearRegression/results/LinearRegressionResult.tex
+) (Models/RNN/content/RNN.tex) (Models/GRU/content/GRU.tex) (Models/LSTM/content/LSTM.tex [5 <./img/TiDE.png>]) (Models/MLP/content/MLP.tex [6]) (Models/Autoformer/content/Autoformer.tex)) (sections/experiment.tex (Models/LinearRegression/results/LinearRegressionResult.tex
 Overfull \hbox (264.0pt too wide) in paragraph at lines 3--4
 [][] 
  []
@@ -785,7 +782,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  57i,11n,75p,1829b,355s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <D:/LATEX/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/LATEX/fonts/type1/vntex/urwvn/utmb8v.pfb><D:/LATEX/fonts/type1/vntex/urwvn/utmbi8v.pfb><D:/LATEX/fonts/type1/vntex/urwvn/utmr8v.pfb><D:/LATEX/fonts/type1/vntex/urwvn/utmri8v.pfb>
-Output written on report.pdf (9 pages, 2323505 bytes).
+Output written on report.pdf (9 pages, 2324157 bytes).
 PDF statistics:
  143 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1718859287.07511 "c:/Users/21521/OneDrive/Desktop/W8/IS403_O21_13/Latex/report.tex" "report.pdf" "report" 1718859292.91864 0
+["pdflatex"] 1718865723.33097 "c:/Users/21521/OneDrive/Desktop/W8/IS403_O21_13/Latex/report.tex" "report.pdf" "report" 1718865728.66609 0
   "C:/Users/21521/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1718855438 89969 e95579120a3aa0ebc21d2737ca2ba701 ""
   "C:/Users/21521/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1716903662 24208203 a116eda291faa07fe23890c1306342dd ""
   "D:/LATEX/fonts/enc/dvips/vntex/t5.enc" 1368738347 7824 21ade6c3c7fd67cb4ace8dbc91c53118 ""
@@ -95,7 +95,7 @@
   "Models/Autoformer/results/90Days/AutoformerResult.tex" 1718815510 0 d41d8cd98f00b204e9800998ecf8427e ""
   "Models/Autoformer/results/AutoformerResult.tex" 1718853945 82 f2f8c9a97f056b312458e61620c013bd ""
   "Models/EVALUATION/HaLong.Tex" 1718859241 1890 3064e5b81b3dcb661ae8162c0a8b29bf ""
-  "Models/EVALUATION/HaNoi.Tex" 1718859248 1891 4b50fef378b7f15ac9efcc4ae6a588d7 ""
+  "Models/EVALUATION/HaNoi.Tex" 1718860359 1891 4b50fef378b7f15ac9efcc4ae6a588d7 ""
   "Models/EVALUATION/VietTri.tex" 1718859285 1895 daec43eb0e16f9fed1ba42a5dd6474c3 ""
   "Models/GRU/content/GRU.tex" 1718801342 3021 ab6b72c6de07f9e9f6f6e62b645a7cc1 ""
   "Models/GRU/results/90Days/GRUResult.tex" 1718853436 0 d41d8cd98f00b204e9800998ecf8427e ""
@@ -103,7 +103,7 @@
   "Models/LSTM/content/LSTM.tex" 1718801342 3224 bb0fccc32475edfb98b78eb2f06813f1 ""
   "Models/LSTM/results/90Days/LSTMResult.tex" 1718815502 0 d41d8cd98f00b204e9800998ecf8427e ""
   "Models/LSTM/results/LSTMResult.tex" 1718853813 75 e83d5661671f5036ce7f77a749d94ac5 ""
-  "Models/LinearRegression/content/LinearRegression.tex" 1718801342 1028 837926f790d83147ccbc27fae516fe61 ""
+  "Models/LinearRegression/content/LinearRegression.tex" 1718865722 1024 fb3d1acb83c29aeea6595eb03886e2f9 ""
   "Models/LinearRegression/results/90Days/LinearRegressionResult.tex" 1718815598 0 d41d8cd98f00b204e9800998ecf8427e ""
   "Models/LinearRegression/results/LinearRegressionResult.tex" 1718853476 94 bd6b59520006d865bd29516bb523bf47 ""
   "Models/MLP/content/MLP.tex" 1718801342 4576 241bea23749fec449fed99ee00f10245 ""
@@ -147,12 +147,12 @@
   "img/final/RNN/90D/RNN_9_1_HL.png" 1718812109 105029 a031df6ecf0901be55d1b986d9471c88 ""
   "img/final/RNN/90D/RNN_9_1_HN.png" 1718812169 112690 a34d21cb4a6efaf85fe587ba57993c3b ""
   "img/final/RNN/90D/RNN_9_1_VT.png" 1718812221 106483 5dbbadcbeb1793b7d9ec998a00aacc89 ""
-  "report.aux" 1718859292 7721 383a01f5cd410b18278b749c2e09f749 "pdflatex"
+  "report.aux" 1718865728 7721 da24db982054390231c2c774b4a0c1ce "pdflatex"
   "report.tex" 1718857361 7032 4c79d81265f833b3860ee60c0b739695 ""
   "sections/conclusion.tex" 1718855240 105 f2001d03eeecbd287f73020d106e406e ""
   "sections/experiment.tex" 1718819505 1236 5e5e166e2685f30097b682f3256e5cbb ""
   "sections/introduction.tex" 1718818205 3073 a18ce3d0e25524305f1d81e5fa9abf80 ""
-  "sections/materials.tex" 1718858111 7083 6536b25acbac0a3835fccf7769b17765 ""
+  "sections/materials.tex" 1718865646 9588 0e45ab59142da2ba0ce42022f2d1eef0 ""
   "sections/method.tex" 1718801343 410 5ce66012e18b22c3ebe094dd92adf5d9 ""
   "sections/relatedwork.tex" 1718801343 5693 051a3aef0847e9aead5edd985bef03f2 ""
   (generated)

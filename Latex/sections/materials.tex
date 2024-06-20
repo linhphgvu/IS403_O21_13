@@ -88,12 +88,32 @@ CV & 0.572 & 0.638 & 0.74 \\
   \label{fig:Random_Forest}
 \end{figure}
 
+Dựa vào bảng thống kê mô tả cho Hạ Long, Hà Nội và Việt Trì, chúng ta có thể rút ra các nhận xét sau:
+
+\textbf{Trung bình:} Hà Nội có giá trị trung bình cao nhất (63.09), tiếp theo là Việt Trì (42.39) và Hạ Long (40.08).
+
+\textbf{Độ lệch chuẩn:} Hà Nội có độ lệch chuẩn cao nhất (40.26), cho thấy mức độ biến động lớn hơn so với Hạ Long (22.95) và Việt Trì (31.66).
+
+\textbf{Phân vị:} Các giá trị phân vị (Q1, Q2, Q3) của Hà Nội đều cao hơn so với Hạ Long và Việt Trì, phản ánh sự phân phối dữ liệu cao hơn.
+
+\textbf{Giá trị cực đại:} Hà Nội có giá trị cực đại cao nhất (217), trong khi Hạ Long và Việt Trì lần lượt là 163 và 178.
+
+\textbf{Phương sai:} Hà Nội có phương sai lớn nhất (1620.88), tiếp theo là Việt Trì (1002.69) và Hạ Long (527.01).
+
+\textbf{Độ nhọn và Độ lệch:} Việt Trì có độ nhọn (1.92) và độ lệch (1.24) cao nhất, cho thấy phân phối dữ liệu lệch về phía phải và có đỉnh cao hơn.
+
+\textbf{Hệ số biến thiên (CV):} Việt Trì có hệ số biến thiên cao nhất (0.74), chỉ ra mức độ biến động dữ liệu lớn hơn so với Hà Nội (0.638) và Hạ Long (0.572).
+
+\textbf{Tổng quan:} Hà Nội có giá trị trung bình cao nhất nhưng mức độ biến động và phân tán cũng lớn nhất, thể hiện sự đa dạng trong các giá trị đo lường. Việt Trì có sự biến động và phân tán dữ liệu khá cao, trong khi Hạ Long có dữ liệu ổn định hơn.
+
 
 \subsection{Công cụ}
 Trong quá trình nghiên cứu và phân tích dữ liệu, Nhóm đã tận dụng một loạt các công cụ phân tích thống kê trong Python để khám phá sâu hơn các mẫu dữ liệu và rút ra những kết luận có ý nghĩa. Các công cụ chính bao gồm: Darts, numpy, pandas, sklearn, matplotlib.pyplot,... Sử dụng các công cụ phân tích thống kê này đã giúp Nhóm em hiểu sâu hơn về dữ liệu và đưa ra dự báo. Chi tiết các kết quả có thể được tìm thấy trong bảng mô tả và biểu đồ đi kèm.
 
+% \subsection{Tỷ lệ phân chia dữ liệu}
+% Trong quá trình phân tích dữ liệu chuỗi thời gian, Nhóm em đã chia tập dữ liệu thành hai phần: tập huấn luyện và tập kiểm tra, với các tỷ lệ khác nhau như 70\% cho huấn luyện và 30\% cho kiểm tra, 80\% cho huấn luyện và 20\% cho kiểm tra, và 90\% cho huấn luyện và 10\% cho kiểm tra. Những tỷ lệ này giúp Nhóm đánh giá cách mà chúng ảnh hưởng đến hiệu suất của mô hình bằng cách xem xét sự phân phối của dữ liệu trong mỗi tập. Tỷ lệ phổ biến nhất là 7:3, chia 70\% dữ liệu cho huấn luyện và 30\% cho kiểm tra, tạo ra sự cân bằng giữa việc cung cấp đủ dữ liệu huấn luyện và đảm bảo các tập riêng biệt để điều chỉnh và đánh giá. Một lựa chọn khác là tỷ lệ 8:2, ưa chuộng việc sử dụng 80\% dữ liệu cho huấn luyện, có ích cho các mô hình phức tạp yêu cầu tập dữ liệu huấn luyện lớn hơn. Trong một số trường hợp cụ thể, một cách tiếp cận thận trọng như tỷ lệ 9:1 có thể được ưa chuộng, đặc biệt khi xử lý tập dữ liệu lớn và một mô hình đơn giản. Tỷ lệ này đảm bảo có đủ dữ liệu huấn luyện trong khi vẫn giữ được một tập kiểm tra đáng kể để đánh giá hiệu suất. 
 \subsection{Tỷ lệ phân chia dữ liệu}
-Trong quá trình phân tích dữ liệu chuỗi thời gian, Nhóm em đã chia tập dữ liệu thành hai phần: tập huấn luyện và tập kiểm tra, với các tỷ lệ khác nhau như 70\% cho huấn luyện và 30\% cho kiểm tra, 80\% cho huấn luyện và 20\% cho kiểm tra, và 90\% cho huấn luyện và 10\% cho kiểm tra. Những tỷ lệ này giúp Nhóm đánh giá cách mà chúng ảnh hưởng đến hiệu suất của mô hình bằng cách xem xét sự phân phối của dữ liệu trong mỗi tập. Tỷ lệ phổ biến nhất là 7:3, chia 70\% dữ liệu cho huấn luyện và 30\% cho kiểm tra, tạo ra sự cân bằng giữa việc cung cấp đủ dữ liệu huấn luyện và đảm bảo các tập riêng biệt để điều chỉnh và đánh giá. Một lựa chọn khác là tỷ lệ 8:2, ưa chuộng việc sử dụng 80\% dữ liệu cho huấn luyện, có ích cho các mô hình phức tạp yêu cầu tập dữ liệu huấn luyện lớn hơn. Trong một số trường hợp cụ thể, một cách tiếp cận thận trọng như tỷ lệ 9:1 có thể được ưa chuộng, đặc biệt khi xử lý tập dữ liệu lớn và một mô hình đơn giản. Tỷ lệ này đảm bảo có đủ dữ liệu huấn luyện trong khi vẫn giữ được một tập kiểm tra đáng kể để đánh giá hiệu suất. 
+Trong quá trình phân tích dữ liệu chuỗi thời gian, Nhóm đã chia tập dữ liệu thành hai phần: tập huấn luyện và tập kiểm tra, với các tỷ lệ khác nhau như 70\% cho huấn luyện và 30\% cho kiểm tra, 80\% cho huấn luyện và 20\% cho kiểm tra, và 90\% cho huấn luyện và 10\% cho kiểm tra. Tỷ lệ phổ biến nhất là 7:3, tạo sự cân bằng giữa việc cung cấp đủ dữ liệu huấn luyện và đảm bảo các tập riêng biệt để điều chỉnh và đánh giá. Tỷ lệ 8:2 phù hợp cho các mô hình phức tạp cần nhiều dữ liệu huấn luyện, trong khi tỷ lệ 9:1 được ưa chuộng khi xử lý tập dữ liệu lớn và mô hình đơn giản.
 
 \subsection{Đánh giá mô hình}
 Trong việc đánh giá hiệu suất của các mô hình, Nhóm em sử dụng ba chỉ số là Mean Absolute Error (MAE), Mean Absolute Percentage Error (MAPE), và Root Mean Squared Error (RMSE). Thuật toán có giá trị thấp nhất trong ba chỉ số này sẽ cho thấy mức độ chính xác tốt nhất. Dưới đây là các công thức để tính MAE, MAPE và RMSE.

@@ -256,6 +256,7 @@ INPUT .\img\final\Dataset\boxplot_vt.png
 INPUT .\img\final\Dataset\boxplot_vt.png
 INPUT D:\LATEX\fonts\vf\vntex\urwvn\utmrc8v.vf
 INPUT D:\LATEX\fonts\tfm\vntex\urwvn\utmr8v.tfm
+INPUT D:\LATEX\fonts\tfm\vntex\urwvn\utmb8v.tfm
 INPUT D:\LATEX\fonts\tfm\vntex\urwvn\utmr8v.tfm
 INPUT D:\LATEX\fonts\tfm\vntex\urwvn\utmr8v.tfm
 INPUT .\sections\method.tex
@@ -283,7 +284,6 @@ INPUT .\Models\RandomForest\content\RandomForest.tex
 INPUT .\Models\RandomForest\content\RandomForest.tex
 INPUT .\Models\RandomForest\content\RandomForest.tex
 INPUT Models\RandomForest\content\RandomForest.tex
-INPUT D:\LATEX\fonts\tfm\vntex\urwvn\utmb8v.tfm
 INPUT .\Models\TiDE\content\TiDE.tex
 INPUT .\Models\TiDE\content\TiDE.tex
 INPUT .\Models\TiDE\content\TiDE.tex
