@@ -1,7 +1,7 @@
 \section{Tài nguyên}
 
 \subsection{Bộ dữ liệu}
-Bài viết sử dụng 3 bộ dữ liệu lấy từ dữ liệu chất lượng không khí trên trang web aqicn.org từ 01/03/2019 - 01/03/2024 bao gồm 3 thành phố Hà Nội, Hạ Long và Việt Trì. Bộ dữ liệu bao gồm các thuộc tính cụ thể sau:
+Bài viết sử dụng 3 bộ dữ liệu lấy từ dữ liệu chất lượng không khí trên trang web aqicn.org từ 01/03/2019 - 01/06/2024 ở 3 thành phố Hà Nội, Hạ Long và Việt Trì. Bộ dữ liệu bao gồm các thuộc tính cụ thể sau:
 \begin{table}[h]
   \centering
   \caption{Mô tả thuộc tính}
@@ -26,22 +26,68 @@ Bài viết sử dụng 3 bộ dữ liệu lấy từ dữ liệu chất lượn
 \hline
 \textbf{Thống kê} & \textbf{Hạ Long} & \textbf{Hà Nội} & \textbf{Việt Trì} \\
 \hline
-Count & 1828 & 1828 & 1828 \\
-Mean & 39.89 & 62.03 & 42.13 \\
-Std Dev & 23.21 & 40.14 & 32.02 \\
+Count & 1920 & 1920 & 1920 \\
+Mean & 40.08 & 63.09 & 42.39 \\
+Std Dev & 22.95 & 40.26 & 31.66 \\
 Min & 5 & 2 & 1 \\
 Q1 & 22 & 31 & 19 \\
-Q2 (Median) & 37 & 53 & 34 \\
-Q3 & 54 & 86 & 59 \\
+Q2 (Median) & 38 & 54.5 & 35 \\
+Q3 & 54 & 88 & 59 \\
 Max & 163 & 217 & 178 \\
 Mode & 5 & 24 & 1 \\
-Variance & 538.861 & 1611.963 & 1025.602 \\
-Kurtosis & 0.398 & 0.411 & 1.934 \\
-Skewness & 0.705 & 0.943 & 1.263 \\
-CV & 0.581 & 0.647 & 0.76 \\
+Variance & 527.01 & 1620.88 & 1002.69 \\
+Kurtosis & 0.41 & 0.334 & 1.92 \\
+Skewness & 0.685 & 0.902 & 1.24 \\
+CV & 0.572 & 0.638 & 0.74 \\
 \hline
 \end{tabular}
 \end{table}
+
+
+\begin{figure}[H]
+  \centering
+  \begin{minipage}{0.15\textwidth}
+  \centering
+  \end{minipage}
+  \hfill
+
+  \begin{minipage}{0.15\textwidth}
+      \centering
+      \includegraphics[width=1\textwidth]{img/final/Dataset/histogram.png}
+      \end{minipage}
+      \hfill
+      \begin{minipage}{0.15\textwidth}
+      \centering
+      \includegraphics[width=1\textwidth]{img/final/Dataset/boxplot.png}
+      \end{minipage}
+      \hfill
+      \begin{minipage}{0.15\textwidth}
+      \centering
+      \includegraphics[width=1\textwidth]{img/final/Dataset/histogram_hn.png}
+      \end{minipage}
+      \hfill
+
+  \begin{minipage}{0.15\textwidth}
+      \centering
+      \includegraphics[width=1\textwidth]{img/final/Dataset/boxplot_hn.png}
+      \end{minipage}
+      \hfill
+      \begin{minipage}{0.15\textwidth}
+      \centering
+      \includegraphics[width=1\textwidth]{img/final/Dataset/histogram_vt.png}
+      \end{minipage}
+      \hfill
+      \begin{minipage}{0.15\textwidth}
+      \centering
+      \includegraphics[width=1\textwidth]{img/final/Dataset/boxplot_vt.png}
+      
+      \end{minipage}
+      \hfill
+  
+  \caption{Biểu đồ histogram và boxplot}
+  \label{fig:Random_Forest}
+\end{figure}
+
 
 \subsection{Công cụ}
 Trong quá trình nghiên cứu và phân tích dữ liệu, Nhóm đã tận dụng một loạt các công cụ phân tích thống kê trong Python để khám phá sâu hơn các mẫu dữ liệu và rút ra những kết luận có ý nghĩa. Các công cụ chính bao gồm: Darts, numpy, pandas, sklearn, matplotlib.pyplot,... Sử dụng các công cụ phân tích thống kê này đã giúp Nhóm em hiểu sâu hơn về dữ liệu và đưa ra dự báo. Chi tiết các kết quả có thể được tìm thấy trong bảng mô tả và biểu đồ đi kèm.
