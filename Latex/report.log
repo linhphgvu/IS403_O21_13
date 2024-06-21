@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.28)  20 JUN 2024 17:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.28)  21 JUN 2024 14:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -467,756 +467,950 @@ Package: titlesec 2023/10/27 v2.16 Sectioning titles
 Package titlesec Warning: Non standard sectioning command \subparagraph
 (titlesec)                detected. Using default spacing and no format.
 
-) (D:\LATEX\tex/latex/l3backend\l3backend-pdftex.def
+) (D:\LATEX\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
+ (D:\LATEX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (D:\LATEX\tex/generic/xkeyval\xkeyval.tex (D:\LATEX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks31
+\XKV@tempa@toks=\toks32
+)
+\XKV@depth=\count289
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (D:\LATEX\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
+) (D:\LATEX\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+ (D:\LATEX\tex/latex/collectbox\collectbox.sty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box60
+)
+\tc@llx=\dimen184
+\tc@lly=\dimen185
+\tc@urx=\dimen186
+\tc@ury=\dimen187
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+ (D:\LATEX\tex/latex/adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen188
+\adjbox@Height=\dimen189
+\adjbox@Depth=\dimen190
+\adjbox@Totalheight=\dimen191
+\adjbox@pwidth=\dimen192
+\adjbox@pheight=\dimen193
+\adjbox@pdepth=\dimen194
+\adjbox@ptotalheight=\dimen195
+ (D:\LATEX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count290
+) (D:\LATEX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box61
+\sift@deathcycles=\count291
+\@vwid@loff=\dimen196
+\@vwid@roff=\dimen197
+)) (D:\LATEX\tex/latex/pgf/frontendlayer\tikz.sty (D:\LATEX\tex/latex/pgf/basiclayer\pgf.sty (D:\LATEX\tex/latex/pgf/utilities\pgfrcs.sty (D:\LATEX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks33
+\pgfutil@tempdima=\dimen198
+\pgfutil@tempdimb=\dimen199
+) (D:\LATEX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box62
+) (D:\LATEX\tex/generic/pgf/utilities\pgfrcs.code.tex (D:\LATEX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+ (D:\LATEX\tex/latex/pgf/basiclayer\pgfcore.sty (D:\LATEX\tex/latex/pgf/systemlayer\pgfsys.sty (D:\LATEX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+ (D:\LATEX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks34
+\pgfkeys@temptoks=\toks35
+ (D:\LATEX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks36
+))
+\pgf@x=\dimen256
+\pgf@y=\dimen257
+\pgf@xa=\dimen258
+\pgf@ya=\dimen259
+\pgf@xb=\dimen260
+\pgf@yb=\dimen261
+\pgf@xc=\dimen262
+\pgf@yc=\dimen263
+\pgf@xd=\dimen264
+\pgf@yd=\dimen265
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count292
+\c@pgf@countb=\count293
+\c@pgf@countc=\count294
+\c@pgf@countd=\count295
+\t@pgf@toka=\toks37
+\t@pgf@tokb=\toks38
+\t@pgf@tokc=\toks39
+\pgf@sys@id@count=\count296
+ (D:\LATEX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (D:\LATEX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+ (D:\LATEX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+))) (D:\LATEX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count297
+\pgfsyssoftpath@bigbuffer@items=\count298
+) (D:\LATEX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (D:\LATEX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+ (D:\LATEX\tex/generic/pgf/math\pgfmath.code.tex (D:\LATEX\tex/generic/pgf/math\pgfmathutil.code.tex) (D:\LATEX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen266
+\pgfmath@count=\count299
+\pgfmath@box=\box63
+\pgfmath@toks=\toks40
+\pgfmath@stack@operand=\toks41
+\pgfmath@stack@operation=\toks42
+) (D:\LATEX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (D:\LATEX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (D:\LATEX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (D:\LATEX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (D:\LATEX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (D:\LATEX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (D:\LATEX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (D:\LATEX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (D:\LATEX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (D:\LATEX\tex/generic/pgf/math\pgfmathcalc.code.tex) (D:\LATEX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count300
+)) (D:\LATEX\tex/generic/pgf/math\pgfint.code.tex) (D:\LATEX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen267
+\pgf@picmaxx=\dimen268
+\pgf@picminy=\dimen269
+\pgf@picmaxy=\dimen270
+\pgf@pathminx=\dimen271
+\pgf@pathmaxx=\dimen272
+\pgf@pathminy=\dimen273
+\pgf@pathmaxy=\dimen274
+\pgf@xx=\dimen275
+\pgf@xy=\dimen276
+\pgf@yx=\dimen277
+\pgf@yy=\dimen278
+\pgf@zx=\dimen279
+\pgf@zy=\dimen280
+) (D:\LATEX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen281
+\pgf@path@lasty=\dimen282
+) (D:\LATEX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen283
+\pgf@shorten@start@additional=\dimen284
+) (D:\LATEX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box64
+\pgf@hbox=\box65
+\pgf@layerbox@main=\box66
+\pgf@picture@serial@count=\count301
+) (D:\LATEX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen285
+) (D:\LATEX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen286
+\pgf@pt@y=\dimen287
+\pgf@pt@temp=\dimen288
+) (D:\LATEX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (D:\LATEX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (D:\LATEX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (D:\LATEX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen289
+) (D:\LATEX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen290
+\pgf@sys@shading@range@num=\count302
+\pgf@shadingcount=\count303
+) (D:\LATEX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (D:\LATEX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box67
+) (D:\LATEX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (D:\LATEX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (D:\LATEX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (D:\LATEX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (D:\LATEX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box68
+) (D:\LATEX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (D:\LATEX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen291
+\pgf@nodesepend=\dimen292
+) (D:\LATEX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (D:\LATEX\tex/latex/pgf/utilities\pgffor.sty (D:\LATEX\tex/latex/pgf/utilities\pgfkeys.sty (D:\LATEX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (D:\LATEX\tex/latex/pgf/math\pgfmath.sty (D:\LATEX\tex/generic/pgf/math\pgfmath.code.tex)) (D:\LATEX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen293
+\pgffor@skip=\dimen294
+\pgffor@stack=\toks43
+\pgffor@toks=\toks44
+)) (D:\LATEX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+ (D:\LATEX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count304
+\pgfplotmarksize=\dimen295
+)
+\tikz@lastx=\dimen296
+\tikz@lasty=\dimen297
+\tikz@lastxsaved=\dimen298
+\tikz@lastysaved=\dimen299
+\tikz@lastmovetox=\dimen300
+\tikz@lastmovetoy=\dimen301
+\tikzleveldistance=\dimen302
+\tikzsiblingdistance=\dimen303
+\tikz@figbox=\box69
+\tikz@figbox@bg=\box70
+\tikz@tempbox=\box71
+\tikz@tempbox@bg=\box72
+\tikztreelevel=\count305
+\tikznumberofchildren=\count306
+\tikznumberofcurrentchild=\count307
+\tikz@fig@count=\count308
+ (D:\LATEX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count309
+\pgfmatrixcurrentcolumn=\count310
+\pgf@matrix@numberofcolumns=\count311
+)
+\tikz@expandcount=\count312
+ (D:\LATEX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (D:\LATEX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count289
-\l__pdf_internal_box=\box60
+\l__color_backend_stack_int=\count313
+\l__pdf_internal_box=\box73
 ) (report.aux
-LaTeX Font Info:    Trying to load font information for T5+ptm on input line 6.
+LaTeX Font Info:    Trying to load font information for T5+ptm on input line 7.
  (D:\LATEX\tex/latex/vntex\t5ptm.fd
 File: t5utm.fd 2005/08/24 Fontinst v1.929 font definitions for T5/ptm.
 )
 
-LaTeX Warning: Label `fig:Random_Forest' multiply defined.
+LaTeX Warning: Label `fig:your_figure_label' multiply defined.
 
 
-LaTeX Warning: Label `fig:Random_Forest' multiply defined.
-
-
-LaTeX Warning: Label `fig:Random_Forest' multiply defined.
-
-
-LaTeX Warning: Label `fig:LN' multiply defined.
+LaTeX Warning: Label `fig:ARIMA' multiply defined.
 
 )
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 27.
-LaTeX Font Info:    Trying to load font information for T5+cmr on input line 27.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 25.
+LaTeX Font Info:    Trying to load font information for T5+cmr on input line 25.
  (D:\LATEX\tex/latex/vntex\t5cmr.fd
 File: t5cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    ... okay on input line 25.
 
 -- Lines per column: 56 (exact).
 (D:\LATEX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count290
-\scratchdimen=\dimen184
-\scratchbox=\box61
-\nofMPsegments=\count291
-\nofMParguments=\count292
-\everyMPshowfont=\toks31
-\MPscratchCnt=\count293
-\MPscratchDim=\dimen185
-\MPnumerator=\count294
-\makeMPintoPDFobject=\count295
-\everyMPtoPDFconversion=\toks32
+\scratchcounter=\count314
+\scratchdimen=\dimen304
+\scratchbox=\box74
+\nofMPsegments=\count315
+\nofMParguments=\count316
+\everyMPshowfont=\toks45
+\MPscratchCnt=\count317
+\MPscratchDim=\dimen305
+\MPnumerator=\count318
+\makeMPintoPDFobject=\count319
+\everyMPtoPDFconversion=\toks46
 ) (D:\LATEX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (D:\LATEX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 61.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 61.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 59.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 59.
  (D:\LATEX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 61.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 59.
  (D:\LATEX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (sections/introduction.tex) (sections/relatedwork.tex [1{C:/Users/21521/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{D:/LATEX/fonts/enc/dvips/vntex/t5.enc}
 
 
-]) (sections/materials.tex
-<img/final/Dataset/histogram.png, id=9, 469.755pt x 293.59688pt>
-File: img/final/Dataset/histogram.png Graphic file (type png)
-<use img/final/Dataset/histogram.png>
-Package pdftex.def Info: img/final/Dataset/histogram.png  used on input line 56.
-(pdftex.def)             Requested size: 118.6778pt x 74.17406pt.
-<img/final/Dataset/boxplot.png, id=11, 469.755pt x 268.75406pt>
-File: img/final/Dataset/boxplot.png Graphic file (type png)
-<use img/final/Dataset/boxplot.png>
-Package pdftex.def Info: img/final/Dataset/boxplot.png  used on input line 61.
-(pdftex.def)             Requested size: 123.84283pt x 70.8504pt.
-<img/final/Dataset/histogram_hn.png, id=12, 469.755pt x 299.61937pt>
-File: img/final/Dataset/histogram_hn.png Graphic file (type png)
-<use img/final/Dataset/histogram_hn.png>
-Package pdftex.def Info: img/final/Dataset/histogram_hn.png  used on input line 77.
-(pdftex.def)             Requested size: 118.6778pt x 75.69557pt.
-<img/final/Dataset/boxplot_hn.png, id=13, 469.755pt x 269.50688pt>
-File: img/final/Dataset/boxplot_hn.png Graphic file (type png)
-<use img/final/Dataset/boxplot_hn.png>
-Package pdftex.def Info: img/final/Dataset/boxplot_hn.png  used on input line 82.
-(pdftex.def)             Requested size: 123.84283pt x 71.04886pt.
- [2 <./img/final/Dataset/histogram.png> <./img/final/Dataset/boxplot.png>]
-<img/final/Dataset/histogram_vt.png, id=19, 469.755pt x 290.58563pt>
-File: img/final/Dataset/histogram_vt.png Graphic file (type png)
-<use img/final/Dataset/histogram_vt.png>
-Package pdftex.def Info: img/final/Dataset/histogram_vt.png  used on input line 98.
-(pdftex.def)             Requested size: 118.6778pt x 73.4133pt.
-<img/final/Dataset/boxplot_vt.png, id=20, 469.755pt x 271.0125pt>
-File: img/final/Dataset/boxplot_vt.png Graphic file (type png)
-<use img/final/Dataset/boxplot_vt.png>
-Package pdftex.def Info: img/final/Dataset/boxplot_vt.png  used on input line 103.
-(pdftex.def)             Requested size: 123.84283pt x 71.44579pt.
-) (sections/method.tex (Models/LinearRegression/content/LinearRegression.tex) (Models/Arima/content/Arima.tex [3 <./img/final/Dataset/histogram_hn.png> <./img/final/Dataset/boxplot_hn.png> <./img/final/Dataset/histogram_vt.png> <./img/final/Dataset/boxplot_vt.png>]) (Models/Var/content/Var.tex) (Models/RandomForest/content/RandomForest.tex) (Models/TiDE/content/TiDE.tex
-<img/TiDE.png, id=34, 447.60774pt x 386.2171pt>
+]) (sections/materials.tex [2]) (sections/method.tex (Models/LinearRegression/content/LinearRegression.tex) (Models/Arima/content/Arima.tex) (Models/Var/content/Var.tex
+Overfull \hbox (9.93983pt too wide) detected at line 7
+\OT1/cmr/bx/n/10 Y[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 c \OT1/cmr/m/n/10 + \OT1/cmr/bx/n/10 ^^E[]Y[] \OT1/cmr/m/n/10 + \OT1/cmr/bx/n/10 ^^E[]Y[] \OT1/cmr/m/n/10 + [] + \OT1/cmr/bx/n/10 ^^E[]Y[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 ^^O[];  t \OT1/cmr/m/n/10 = 1\OML/cmm/m/it/10 ; [] ; T
+ []
+
+) (Models/RandomForest/content/RandomForest.tex [3]) (Models/TiDE/content/TiDE.tex
+<img/TiDE.png, id=27, 447.60774pt x 386.2171pt>
 File: img/TiDE.png Graphic file (type png)
 <use img/TiDE.png>
-Package pdftex.def Info: img/TiDE.png  used on input line 19.
+Package pdftex.def Info: img/TiDE.png  used on input line 5.
 (pdftex.def)             Requested size: 258.0pt x 222.61526pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 19--20
+Overfull \hbox (6.0pt too wide) in paragraph at lines 5--6
  [][] 
  []
 
-) (Models/RNN/content/RNN.tex [4 <./img/TiDE.png>]) (Models/GRU/content/GRU.tex) (Models/LSTM/content/LSTM.tex) (Models/MLP/content/MLP.tex [5]) (Models/Autoformer/content/Autoformer.tex [6])) (sections/experiment.tex (Models/LinearRegression/results/LinearRegressionResult.tex
-Overfull \hbox (264.0pt too wide) in paragraph at lines 3--4
-[][] 
+LaTeX Font Info:    Trying to load font information for T5+pcr on input line 71.
+(D:\LATEX\tex/latex/vntex\t5pcr.fd
+File: t5ucr.fd 2005/08/24 Fontinst v1.929 font definitions for T5/pcr.
+)
+Underfull \hbox (badness 2418) in paragraph at lines 71--72
+\T5/ptm/m/n/10 vîi còng k½ch th÷îc lîp ©n, nhªn ^^_¦u v o l  m¢
  []
 
-<img/final/Linear Regression/90D/LN_7_3_HL.png, id=46, 469.755pt x 286.06876pt>
+[4 <./img/TiDE.png>]) (Models/RNN/content/RNN.tex) (Models/GRU/content/GRU.tex) (Models/LSTM/content/LSTM.tex [5]) (Models/MLP/content/MLP.tex
+<img/MLP.png, id=36, 574.145pt x 511.9125pt>
+File: img/MLP.png Graphic file (type png)
+<use img/MLP.png>
+Package pdftex.def Info: img/MLP.png  used on input line 9.
+(pdftex.def)             Requested size: 154.8022pt x 154.80128pt.
+ [6 <./img/MLP.png>]) (Models/Autoformer/content/Autoformer.tex)) (sections/experiment.tex (Models/ResultAll.tex
+<img/final/Linear Regression/90D/LN_7_3_HL.png, id=42, 469.755pt x 286.06876pt>
 File: img/final/Linear Regression/90D/LN_7_3_HL.png Graphic file (type png)
 <use img/final/Linear Regression/90D/LN_7_3_HL.png>
-Package pdftex.def Info: img/final/Linear Regression/90D/LN_7_3_HL.png  used on input line 13.
-(pdftex.def)             Requested size: 77.39685pt x 47.12946pt.
-<img/final/Linear Regression/90D/LN_7_3_HN.png, id=47, 469.755pt x 286.82156pt>
+Package pdftex.def Info: img/final/Linear Regression/90D/LN_7_3_HL.png  used on input line 25.
+(pdftex.def)             Requested size: 73.52806pt x 36.76247pt.
+<img/final/Linear Regression/90D/LN_8_2_HL.png, id=43, 469.755pt x 288.3272pt>
+File: img/final/Linear Regression/90D/LN_8_2_HL.png Graphic file (type png)
+<use img/final/Linear Regression/90D/LN_8_2_HL.png>
+Package pdftex.def Info: img/final/Linear Regression/90D/LN_8_2_HL.png  used on input line 25.
+(pdftex.def)             Requested size: 73.52806pt x 36.76233pt.
+<img/final/Linear Regression/90D/LN_9_1_HL.png, id=44, 469.755pt x 292.09125pt>
+File: img/final/Linear Regression/90D/LN_9_1_HL.png Graphic file (type png)
+<use img/final/Linear Regression/90D/LN_9_1_HL.png>
+Package pdftex.def Info: img/final/Linear Regression/90D/LN_9_1_HL.png  used on input line 25.
+(pdftex.def)             Requested size: 73.52806pt x 36.76535pt.
+<img/final/Linear Regression/90D/LN_7_3_HN.png, id=45, 469.755pt x 286.82156pt>
 File: img/final/Linear Regression/90D/LN_7_3_HN.png Graphic file (type png)
 <use img/final/Linear Regression/90D/LN_7_3_HN.png>
-Package pdftex.def Info: img/final/Linear Regression/90D/LN_7_3_HN.png  used on input line 18.
-(pdftex.def)             Requested size: 77.39685pt x 47.25348pt.
+Package pdftex.def Info: img/final/Linear Regression/90D/LN_7_3_HN.png  used on input line 25.
+(pdftex.def)             Requested size: 73.52806pt x 36.76292pt.
+<img/final/Linear Regression/90D/LN_8_2_HN.png, id=46, 469.755pt x 286.06876pt>
+File: img/final/Linear Regression/90D/LN_8_2_HN.png Graphic file (type png)
+<use img/final/Linear Regression/90D/LN_8_2_HN.png>
+Package pdftex.def Info: img/final/Linear Regression/90D/LN_8_2_HN.png  used on input line 25.
+(pdftex.def)             Requested size: 73.52806pt x 36.76247pt.
+<img/final/Linear Regression/90D/LN_9_1_HN.png, id=47, 469.755pt x 291.33844pt>
+File: img/final/Linear Regression/90D/LN_9_1_HN.png Graphic file (type png)
+<use img/final/Linear Regression/90D/LN_9_1_HN.png>
+Package pdftex.def Info: img/final/Linear Regression/90D/LN_9_1_HN.png  used on input line 25.
+(pdftex.def)             Requested size: 73.52806pt x 36.76395pt.
 <img/final/Linear Regression/90D/LN_7_3_VT.png, id=48, 469.755pt x 288.3272pt>
 File: img/final/Linear Regression/90D/LN_7_3_VT.png Graphic file (type png)
 <use img/final/Linear Regression/90D/LN_7_3_VT.png>
-Package pdftex.def Info: img/final/Linear Regression/90D/LN_7_3_VT.png  used on input line 23.
-(pdftex.def)             Requested size: 77.39685pt x 47.50153pt.
-<img/final/Linear Regression/90D/LN_8_2_HL.png, id=49, 469.755pt x 288.3272pt>
-File: img/final/Linear Regression/90D/LN_8_2_HL.png Graphic file (type png)
-<use img/final/Linear Regression/90D/LN_8_2_HL.png>
-Package pdftex.def Info: img/final/Linear Regression/90D/LN_8_2_HL.png  used on input line 29.
-(pdftex.def)             Requested size: 77.39685pt x 47.50153pt.
-<img/final/Linear Regression/90D/LN_8_2_HN.png, id=50, 469.755pt x 286.06876pt>
-File: img/final/Linear Regression/90D/LN_8_2_HN.png Graphic file (type png)
-<use img/final/Linear Regression/90D/LN_8_2_HN.png>
-Package pdftex.def Info: img/final/Linear Regression/90D/LN_8_2_HN.png  used on input line 34.
-(pdftex.def)             Requested size: 77.39685pt x 47.12946pt.
-<img/final/Linear Regression/90D/LN_8_2_VT.png, id=51, 469.755pt x 289.08pt>
+Package pdftex.def Info: img/final/Linear Regression/90D/LN_7_3_VT.png  used on input line 25.
+(pdftex.def)             Requested size: 73.52806pt x 36.76233pt.
+<img/final/Linear Regression/90D/LN_8_2_VT.png, id=49, 469.755pt x 289.08pt>
 File: img/final/Linear Regression/90D/LN_8_2_VT.png Graphic file (type png)
 <use img/final/Linear Regression/90D/LN_8_2_VT.png>
-Package pdftex.def Info: img/final/Linear Regression/90D/LN_8_2_VT.png  used on input line 39.
-(pdftex.def)             Requested size: 77.39685pt x 47.62556pt.
-<img/final/Linear Regression/90D/LN_9_1_HL.png, id=52, 469.755pt x 292.09125pt>
-File: img/final/Linear Regression/90D/LN_9_1_HL.png Graphic file (type png)
-<use img/final/Linear Regression/90D/LN_9_1_HL.png>
-Package pdftex.def Info: img/final/Linear Regression/90D/LN_9_1_HL.png  used on input line 45.
-(pdftex.def)             Requested size: 77.39685pt x 48.12166pt.
-<img/final/Linear Regression/90D/LN_9_1_HN.png, id=53, 469.755pt x 291.33844pt>
-File: img/final/Linear Regression/90D/LN_9_1_HN.png Graphic file (type png)
-<use img/final/Linear Regression/90D/LN_9_1_HN.png>
-Package pdftex.def Info: img/final/Linear Regression/90D/LN_9_1_HN.png  used on input line 50.
-(pdftex.def)             Requested size: 77.39685pt x 47.99763pt.
-<img/final/Linear Regression/90D/LN_9_1_VT.png, id=54, 469.755pt x 289.08pt>
+Package pdftex.def Info: img/final/Linear Regression/90D/LN_8_2_VT.png  used on input line 25.
+(pdftex.def)             Requested size: 73.52806pt x 36.76567pt.
+<img/final/Linear Regression/90D/LN_9_1_VT.png, id=50, 469.755pt x 289.08pt>
 File: img/final/Linear Regression/90D/LN_9_1_VT.png Graphic file (type png)
 <use img/final/Linear Regression/90D/LN_9_1_VT.png>
-Package pdftex.def Info: img/final/Linear Regression/90D/LN_9_1_VT.png  used on input line 55.
-(pdftex.def)             Requested size: 77.39685pt x 47.62556pt.
-) (Models/Arima/results/ArimaResult.tex
-Overfull \hbox (264.0pt too wide) in paragraph at lines 2--3
-[][] 
- []
-
-<img/final/ARIMA/90D/ARIMA_7_3_HL.png, id=55, 469.755pt x 284.56313pt>
+Package pdftex.def Info: img/final/Linear Regression/90D/LN_9_1_VT.png  used on input line 25.
+(pdftex.def)             Requested size: 73.5317pt x 45.24803pt.
+<img/final/ARIMA/90D/ARIMA_7_3_HL.png, id=51, 469.755pt x 284.56313pt>
 File: img/final/ARIMA/90D/ARIMA_7_3_HL.png Graphic file (type png)
 <use img/final/ARIMA/90D/ARIMA_7_3_HL.png>
-Package pdftex.def Info: img/final/ARIMA/90D/ARIMA_7_3_HL.png  used on input line 13.
-(pdftex.def)             Requested size: 77.39685pt x 46.88141pt.
-<img/final/ARIMA/90D/ARIMA_7_3_HN.png, id=56, 469.755pt x 285.31593pt>
+Package pdftex.def Info: img/final/ARIMA/90D/ARIMA_7_3_HL.png  used on input line 48.
+(pdftex.def)             Requested size: 74.30219pt x 37.15082pt.
+<img/final/ARIMA/90D/ARIMA_8_2_HL.png, id=52, 469.755pt x 284.56313pt>
+File: img/final/ARIMA/90D/ARIMA_8_2_HL.png Graphic file (type png)
+<use img/final/ARIMA/90D/ARIMA_8_2_HL.png>
+Package pdftex.def Info: img/final/ARIMA/90D/ARIMA_8_2_HL.png  used on input line 48.
+(pdftex.def)             Requested size: 74.30219pt x 37.15082pt.
+<img/final/ARIMA/90D/ARIMA_9_1_HL.png, id=53, 469.755pt x 289.08pt>
+File: img/final/ARIMA/90D/ARIMA_9_1_HL.png Graphic file (type png)
+<use img/final/ARIMA/90D/ARIMA_9_1_HL.png>
+Package pdftex.def Info: img/final/ARIMA/90D/ARIMA_9_1_HL.png  used on input line 48.
+(pdftex.def)             Requested size: 74.30219pt x 37.14943pt.
+<img/final/ARIMA/90D/ARIMA_7_3_HN.png, id=54, 469.755pt x 285.31593pt>
 File: img/final/ARIMA/90D/ARIMA_7_3_HN.png Graphic file (type png)
 <use img/final/ARIMA/90D/ARIMA_7_3_HN.png>
-Package pdftex.def Info: img/final/ARIMA/90D/ARIMA_7_3_HN.png  used on input line 18.
-(pdftex.def)             Requested size: 77.39685pt x 47.00543pt.
+Package pdftex.def Info: img/final/ARIMA/90D/ARIMA_7_3_HN.png  used on input line 48.
+(pdftex.def)             Requested size: 74.30219pt x 37.14896pt.
+<img/final/ARIMA/90D/ARIMA_8_2_HN.png, id=55, 469.755pt x 286.82156pt>
+File: img/final/ARIMA/90D/ARIMA_8_2_HN.png Graphic file (type png)
+<use img/final/ARIMA/90D/ARIMA_8_2_HN.png>
+Package pdftex.def Info: img/final/ARIMA/90D/ARIMA_8_2_HN.png  used on input line 48.
+(pdftex.def)             Requested size: 74.30219pt x 37.14806pt.
+<img/final/ARIMA/90D/ARIMA_9_1_HN.png, id=56, 469.755pt x 286.06876pt>
+File: img/final/ARIMA/90D/ARIMA_9_1_HN.png Graphic file (type png)
+<use img/final/ARIMA/90D/ARIMA_9_1_HN.png>
+Package pdftex.def Info: img/final/ARIMA/90D/ARIMA_9_1_HN.png  used on input line 48.
+(pdftex.def)             Requested size: 74.30219pt x 37.15096pt.
 <img/final/ARIMA/90D/ARIMA_7_3_VT.png, id=57, 469.755pt x 286.82156pt>
 File: img/final/ARIMA/90D/ARIMA_7_3_VT.png Graphic file (type png)
 <use img/final/ARIMA/90D/ARIMA_7_3_VT.png>
-Package pdftex.def Info: img/final/ARIMA/90D/ARIMA_7_3_VT.png  used on input line 23.
-(pdftex.def)             Requested size: 77.39685pt x 47.25348pt.
-<img/final/ARIMA/90D/ARIMA_8_2_HL.png, id=58, 469.755pt x 284.56313pt>
-File: img/final/ARIMA/90D/ARIMA_8_2_HL.png Graphic file (type png)
-<use img/final/ARIMA/90D/ARIMA_8_2_HL.png>
-Package pdftex.def Info: img/final/ARIMA/90D/ARIMA_8_2_HL.png  used on input line 29.
-(pdftex.def)             Requested size: 77.39685pt x 46.88141pt.
-<img/final/ARIMA/90D/ARIMA_8_2_HN.png, id=59, 469.755pt x 286.82156pt>
-File: img/final/ARIMA/90D/ARIMA_8_2_HN.png Graphic file (type png)
-<use img/final/ARIMA/90D/ARIMA_8_2_HN.png>
-Package pdftex.def Info: img/final/ARIMA/90D/ARIMA_8_2_HN.png  used on input line 34.
-(pdftex.def)             Requested size: 77.39685pt x 47.25348pt.
-<img/final/ARIMA/90D/ARIMA_8_2_VT.png, id=60, 469.755pt x 286.82156pt>
+Package pdftex.def Info: img/final/ARIMA/90D/ARIMA_7_3_VT.png  used on input line 48.
+(pdftex.def)             Requested size: 74.30219pt x 37.14806pt.
+<img/final/ARIMA/90D/ARIMA_8_2_VT.png, id=58, 469.755pt x 286.82156pt>
 File: img/final/ARIMA/90D/ARIMA_8_2_VT.png Graphic file (type png)
 <use img/final/ARIMA/90D/ARIMA_8_2_VT.png>
-Package pdftex.def Info: img/final/ARIMA/90D/ARIMA_8_2_VT.png  used on input line 39.
-(pdftex.def)             Requested size: 77.39685pt x 47.25348pt.
-<img/final/ARIMA/90D/ARIMA_9_1_HL.png, id=61, 469.755pt x 289.08pt>
-File: img/final/ARIMA/90D/ARIMA_9_1_HL.png Graphic file (type png)
-<use img/final/ARIMA/90D/ARIMA_9_1_HL.png>
-Package pdftex.def Info: img/final/ARIMA/90D/ARIMA_9_1_HL.png  used on input line 45.
-(pdftex.def)             Requested size: 77.39685pt x 47.62556pt.
-<img/final/ARIMA/90D/ARIMA_9_1_HN.png, id=62, 469.755pt x 286.06876pt>
-File: img/final/ARIMA/90D/ARIMA_9_1_HN.png Graphic file (type png)
-<use img/final/ARIMA/90D/ARIMA_9_1_HN.png>
-Package pdftex.def Info: img/final/ARIMA/90D/ARIMA_9_1_HN.png  used on input line 50.
-(pdftex.def)             Requested size: 77.39685pt x 47.12946pt.
-<img/final/ARIMA/90D/ARIMA_9_1_VT.png, id=63, 469.755pt x 290.58563pt>
+Package pdftex.def Info: img/final/ARIMA/90D/ARIMA_8_2_VT.png  used on input line 48.
+(pdftex.def)             Requested size: 74.30219pt x 37.14806pt.
+<img/final/ARIMA/90D/ARIMA_9_1_VT.png, id=59, 469.755pt x 290.58563pt>
 File: img/final/ARIMA/90D/ARIMA_9_1_VT.png Graphic file (type png)
 <use img/final/ARIMA/90D/ARIMA_9_1_VT.png>
-Package pdftex.def Info: img/final/ARIMA/90D/ARIMA_9_1_VT.png  used on input line 55.
-(pdftex.def)             Requested size: 77.39685pt x 47.87361pt.
-) (Models/Var/results/VarResult.tex
-Overfull \hbox (264.0pt too wide) in paragraph at lines 2--3
-[][] 
- []
-
-<img/final/VAR/90D/VAR_7_3_HL.png, id=64, 469.755pt x 286.06876pt>
+Package pdftex.def Info: img/final/ARIMA/90D/ARIMA_9_1_VT.png  used on input line 48.
+(pdftex.def)             Requested size: 74.3041pt x 45.96257pt.
+<img/final/VAR/90D/VAR_7_3_HL.png, id=60, 469.755pt x 286.06876pt>
 File: img/final/VAR/90D/VAR_7_3_HL.png Graphic file (type png)
 <use img/final/VAR/90D/VAR_7_3_HL.png>
-Package pdftex.def Info: img/final/VAR/90D/VAR_7_3_HL.png  used on input line 12.
-(pdftex.def)             Requested size: 77.39685pt x 47.12946pt.
-<img/final/VAR/90D/VAR_7_3_HN.png, id=65, 469.755pt x 288.3272pt>
+Package pdftex.def Info: img/final/VAR/90D/VAR_7_3_HL.png  used on input line 71.
+(pdftex.def)             Requested size: 74.3041pt x 45.24812pt.
+<img/final/VAR/90D/VAR_8_2_HL.png, id=61, 469.755pt x 281.55188pt>
+File: img/final/VAR/90D/VAR_8_2_HL.png Graphic file (type png)
+<use img/final/VAR/90D/VAR_8_2_HL.png>
+Package pdftex.def Info: img/final/VAR/90D/VAR_8_2_HL.png  used on input line 71.
+(pdftex.def)             Requested size: 74.3041pt x 44.53368pt.
+<img/final/VAR/90D/VAR_9_1_HL.png, id=62, 469.755pt x 289.08pt>
+File: img/final/VAR/90D/VAR_9_1_HL.png Graphic file (type png)
+<use img/final/VAR/90D/VAR_9_1_HL.png>
+Package pdftex.def Info: img/final/VAR/90D/VAR_9_1_HL.png  used on input line 71.
+(pdftex.def)             Requested size: 74.3041pt x 45.72441pt.
+<img/final/VAR/90D/VAR_7_3_HN.png, id=63, 469.755pt x 288.3272pt>
 File: img/final/VAR/90D/VAR_7_3_HN.png Graphic file (type png)
 <use img/final/VAR/90D/VAR_7_3_HN.png>
-Package pdftex.def Info: img/final/VAR/90D/VAR_7_3_HN.png  used on input line 17.
-(pdftex.def)             Requested size: 77.39685pt x 47.50153pt.
+Package pdftex.def Info: img/final/VAR/90D/VAR_7_3_HN.png  used on input line 71.
+(pdftex.def)             Requested size: 74.3041pt x 45.60535pt.
+<img/final/VAR/90D/VAR_8_2_HN.png, id=64, 469.755pt x 286.82156pt>
+File: img/final/VAR/90D/VAR_8_2_HN.png Graphic file (type png)
+<use img/final/VAR/90D/VAR_8_2_HN.png>
+Package pdftex.def Info: img/final/VAR/90D/VAR_8_2_HN.png  used on input line 71.
+(pdftex.def)             Requested size: 74.3041pt x 45.36719pt.
+<img/final/VAR/90D/VAR_9_1_HN.png, id=65, 469.755pt x 289.08pt>
+File: img/final/VAR/90D/VAR_9_1_HN.png Graphic file (type png)
+<use img/final/VAR/90D/VAR_9_1_HN.png>
+Package pdftex.def Info: img/final/VAR/90D/VAR_9_1_HN.png  used on input line 71.
+(pdftex.def)             Requested size: 74.3041pt x 45.72441pt.
 <img/final/VAR/90D/VAR_7_3_VT.png, id=66, 469.755pt x 286.82156pt>
 File: img/final/VAR/90D/VAR_7_3_VT.png Graphic file (type png)
 <use img/final/VAR/90D/VAR_7_3_VT.png>
-Package pdftex.def Info: img/final/VAR/90D/VAR_7_3_VT.png  used on input line 22.
-(pdftex.def)             Requested size: 77.39685pt x 47.25348pt.
-<img/final/VAR/90D/VAR_8_2_HL.png, id=67, 469.755pt x 281.55188pt>
-File: img/final/VAR/90D/VAR_8_2_HL.png Graphic file (type png)
-<use img/final/VAR/90D/VAR_8_2_HL.png>
-Package pdftex.def Info: img/final/VAR/90D/VAR_8_2_HL.png  used on input line 28.
-(pdftex.def)             Requested size: 77.39685pt x 46.38531pt.
-<img/final/VAR/90D/VAR_8_2_HN.png, id=68, 469.755pt x 286.82156pt>
-File: img/final/VAR/90D/VAR_8_2_HN.png Graphic file (type png)
-<use img/final/VAR/90D/VAR_8_2_HN.png>
-Package pdftex.def Info: img/final/VAR/90D/VAR_8_2_HN.png  used on input line 33.
-(pdftex.def)             Requested size: 77.39685pt x 47.25348pt.
-<img/final/VAR/90D/VAR_8_2_VT.png, id=69, 469.755pt x 287.57437pt>
+Package pdftex.def Info: img/final/VAR/90D/VAR_7_3_VT.png  used on input line 71.
+(pdftex.def)             Requested size: 74.3041pt x 45.36719pt.
+<img/final/VAR/90D/VAR_8_2_VT.png, id=67, 469.755pt x 287.57437pt>
 File: img/final/VAR/90D/VAR_8_2_VT.png Graphic file (type png)
 <use img/final/VAR/90D/VAR_8_2_VT.png>
-Package pdftex.def Info: img/final/VAR/90D/VAR_8_2_VT.png  used on input line 38.
-(pdftex.def)             Requested size: 77.39685pt x 47.3775pt.
-<img/final/VAR/90D/VAR_9_1_HL.png, id=70, 469.755pt x 289.08pt>
-File: img/final/VAR/90D/VAR_9_1_HL.png Graphic file (type png)
-<use img/final/VAR/90D/VAR_9_1_HL.png>
-Package pdftex.def Info: img/final/VAR/90D/VAR_9_1_HL.png  used on input line 43.
-(pdftex.def)             Requested size: 77.39685pt x 47.62556pt.
-<img/final/VAR/90D/VAR_9_1_HN.png, id=71, 469.755pt x 289.08pt>
-File: img/final/VAR/90D/VAR_9_1_HN.png Graphic file (type png)
-<use img/final/VAR/90D/VAR_9_1_HN.png>
-Package pdftex.def Info: img/final/VAR/90D/VAR_9_1_HN.png  used on input line 48.
-(pdftex.def)             Requested size: 77.39685pt x 47.62556pt.
-<img/final/VAR/90D/VAR_9_1_VT.png, id=72, 469.755pt x 287.57437pt>
+Package pdftex.def Info: img/final/VAR/90D/VAR_8_2_VT.png  used on input line 71.
+(pdftex.def)             Requested size: 74.3041pt x 45.48627pt.
+<img/final/VAR/90D/VAR_9_1_VT.png, id=68, 469.755pt x 287.57437pt>
 File: img/final/VAR/90D/VAR_9_1_VT.png Graphic file (type png)
 <use img/final/VAR/90D/VAR_9_1_VT.png>
-Package pdftex.def Info: img/final/VAR/90D/VAR_9_1_VT.png  used on input line 53.
-(pdftex.def)             Requested size: 77.39685pt x 47.3775pt.
-
-Underfull \vbox (badness 1270) has occurred while \output is active []
-
-) (Models/RandomForest/results/RandomForestResult.tex
-Overfull \hbox (264.0pt too wide) in paragraph at lines 3--4
-[][] 
- []
-
-<img/final/RF/90D/RF_7_3_HL.png, id=73, 614.295pt x 395.3169pt>
+Package pdftex.def Info: img/final/VAR/90D/VAR_9_1_VT.png  used on input line 71.
+(pdftex.def)             Requested size: 74.3041pt x 45.48627pt.
+<img/final/RF/90D/RF_7_3_HL.png, id=69, 614.295pt x 395.3169pt>
 File: img/final/RF/90D/RF_7_3_HL.png Graphic file (type png)
 <use img/final/RF/90D/RF_7_3_HL.png>
-Package pdftex.def Info: img/final/RF/90D/RF_7_3_HL.png  used on input line 13.
-(pdftex.def)             Requested size: 77.39685pt x 49.80656pt.
-<img/final/RF/90D/RF_7_3_HN.png, id=74, 614.295pt x 395.3169pt>
+Package pdftex.def Info: img/final/RF/90D/RF_7_3_HL.png  used on input line 94.
+(pdftex.def)             Requested size: 74.3041pt x 47.816pt.
+<img/final/RF/90D/RF_8_2_HL.png, id=70, 614.295pt x 395.3169pt>
+File: img/final/RF/90D/RF_8_2_HL.png Graphic file (type png)
+<use img/final/RF/90D/RF_8_2_HL.png>
+Package pdftex.def Info: img/final/RF/90D/RF_8_2_HL.png  used on input line 94.
+(pdftex.def)             Requested size: 74.3041pt x 47.816pt.
+<img/final/RF/90D/RF_9_1_HL.png, id=71, 614.295pt x 395.3169pt>
+File: img/final/RF/90D/RF_9_1_HL.png Graphic file (type png)
+<use img/final/RF/90D/RF_9_1_HL.png>
+Package pdftex.def Info: img/final/RF/90D/RF_9_1_HL.png  used on input line 94.
+(pdftex.def)             Requested size: 74.3041pt x 47.816pt.
+<img/final/RF/90D/RF_7_3_HN.png, id=72, 614.295pt x 395.3169pt>
 File: img/final/RF/90D/RF_7_3_HN.png Graphic file (type png)
 <use img/final/RF/90D/RF_7_3_HN.png>
-Package pdftex.def Info: img/final/RF/90D/RF_7_3_HN.png  used on input line 18.
-(pdftex.def)             Requested size: 77.39685pt x 49.80656pt.
+Package pdftex.def Info: img/final/RF/90D/RF_7_3_HN.png  used on input line 94.
+(pdftex.def)             Requested size: 74.3041pt x 47.816pt.
+<img/final/RF/90D/RF_8_2_HN.png, id=73, 614.295pt x 395.3169pt>
+File: img/final/RF/90D/RF_8_2_HN.png Graphic file (type png)
+<use img/final/RF/90D/RF_8_2_HN.png>
+Package pdftex.def Info: img/final/RF/90D/RF_8_2_HN.png  used on input line 94.
+(pdftex.def)             Requested size: 74.3041pt x 47.816pt.
+<img/final/RF/90D/RF_9_1_HN.png, id=74, 614.295pt x 395.3169pt>
+File: img/final/RF/90D/RF_9_1_HN.png Graphic file (type png)
+<use img/final/RF/90D/RF_9_1_HN.png>
+Package pdftex.def Info: img/final/RF/90D/RF_9_1_HN.png  used on input line 94.
+(pdftex.def)             Requested size: 74.3041pt x 47.816pt.
 <img/final/RF/90D/RF_7_3_VT.png, id=75, 614.295pt x 395.3169pt>
 File: img/final/RF/90D/RF_7_3_VT.png Graphic file (type png)
 <use img/final/RF/90D/RF_7_3_VT.png>
-Package pdftex.def Info: img/final/RF/90D/RF_7_3_VT.png  used on input line 23.
-(pdftex.def)             Requested size: 77.39685pt x 49.80656pt.
-<img/final/RF/90D/RF_8_2_HL.png, id=76, 614.295pt x 395.3169pt>
-File: img/final/RF/90D/RF_8_2_HL.png Graphic file (type png)
-<use img/final/RF/90D/RF_8_2_HL.png>
-Package pdftex.def Info: img/final/RF/90D/RF_8_2_HL.png  used on input line 29.
-(pdftex.def)             Requested size: 77.39685pt x 49.80656pt.
-<img/final/RF/90D/RF_8_2_HN.png, id=77, 614.295pt x 395.3169pt>
-File: img/final/RF/90D/RF_8_2_HN.png Graphic file (type png)
-<use img/final/RF/90D/RF_8_2_HN.png>
-Package pdftex.def Info: img/final/RF/90D/RF_8_2_HN.png  used on input line 34.
-(pdftex.def)             Requested size: 77.39685pt x 49.80656pt.
-<img/final/RF/90D/RF_8_2_VT.png, id=78, 838.332pt x 450.9648pt>
+Package pdftex.def Info: img/final/RF/90D/RF_7_3_VT.png  used on input line 94.
+(pdftex.def)             Requested size: 74.3041pt x 47.816pt.
+<img/final/RF/90D/RF_8_2_VT.png, id=76, 838.332pt x 450.9648pt>
 File: img/final/RF/90D/RF_8_2_VT.png Graphic file (type png)
 <use img/final/RF/90D/RF_8_2_VT.png>
-Package pdftex.def Info: img/final/RF/90D/RF_8_2_VT.png  used on input line 39.
-(pdftex.def)             Requested size: 77.39685pt x 41.63101pt.
-<img/final/RF/90D/RF_9_1_HL.png, id=79, 614.295pt x 395.3169pt>
-File: img/final/RF/90D/RF_9_1_HL.png Graphic file (type png)
-<use img/final/RF/90D/RF_9_1_HL.png>
-Package pdftex.def Info: img/final/RF/90D/RF_9_1_HL.png  used on input line 45.
-(pdftex.def)             Requested size: 77.39685pt x 49.80656pt.
-<img/final/RF/90D/RF_9_1_HN.png, id=80, 614.295pt x 395.3169pt>
-File: img/final/RF/90D/RF_9_1_HN.png Graphic file (type png)
-<use img/final/RF/90D/RF_9_1_HN.png>
-Package pdftex.def Info: img/final/RF/90D/RF_9_1_HN.png  used on input line 50.
-(pdftex.def)             Requested size: 77.39685pt x 49.80656pt.
-<img/final/RF/90D/RF_9_1_VT.png, id=81, 614.295pt x 395.3169pt>
+Package pdftex.def Info: img/final/RF/90D/RF_8_2_VT.png  used on input line 94.
+(pdftex.def)             Requested size: 74.3041pt x 39.96577pt.
+<img/final/RF/90D/RF_9_1_VT.png, id=77, 614.295pt x 395.3169pt>
 File: img/final/RF/90D/RF_9_1_VT.png Graphic file (type png)
 <use img/final/RF/90D/RF_9_1_VT.png>
-Package pdftex.def Info: img/final/RF/90D/RF_9_1_VT.png  used on input line 55.
-(pdftex.def)             Requested size: 77.39685pt x 49.80656pt.
-) (Models/RNN/results/RNNResult.tex
-Overfull \hbox (264.0pt too wide) in paragraph at lines 3--4
-[][] 
- []
-
-<img/final/RNN/90D/RNN_7_3_HL.png, id=82, 469.755pt x 287.57437pt>
+Package pdftex.def Info: img/final/RF/90D/RF_9_1_VT.png  used on input line 94.
+(pdftex.def)             Requested size: 74.3041pt x 47.816pt.
+<img/final/RNN/90D/RNN_7_3_HL.png, id=78, 469.755pt x 287.57437pt>
 File: img/final/RNN/90D/RNN_7_3_HL.png Graphic file (type png)
 <use img/final/RNN/90D/RNN_7_3_HL.png>
-Package pdftex.def Info: img/final/RNN/90D/RNN_7_3_HL.png  used on input line 13.
-(pdftex.def)             Requested size: 77.39685pt x 47.3775pt.
-<img/final/RNN/90D/RNN_7_3_HN.png, id=83, 469.755pt x 285.31593pt>
+Package pdftex.def Info: img/final/RNN/90D/RNN_7_3_HL.png  used on input line 117.
+(pdftex.def)             Requested size: 74.3041pt x 45.48627pt.
+<img/final/RNN/90D/RNN_8_2_HL.png, id=79, 469.755pt x 286.06876pt>
+File: img/final/RNN/90D/RNN_8_2_HL.png Graphic file (type png)
+<use img/final/RNN/90D/RNN_8_2_HL.png>
+Package pdftex.def Info: img/final/RNN/90D/RNN_8_2_HL.png  used on input line 117.
+(pdftex.def)             Requested size: 74.3041pt x 45.24812pt.
+<img/final/RNN/90D/RNN_9_1_HL.png, id=80, 469.755pt x 287.57437pt>
+File: img/final/RNN/90D/RNN_9_1_HL.png Graphic file (type png)
+<use img/final/RNN/90D/RNN_9_1_HL.png>
+Package pdftex.def Info: img/final/RNN/90D/RNN_9_1_HL.png  used on input line 117.
+(pdftex.def)             Requested size: 74.3041pt x 45.48627pt.
+<img/final/RNN/90D/RNN_7_3_HN.png, id=81, 469.755pt x 285.31593pt>
 File: img/final/RNN/90D/RNN_7_3_HN.png Graphic file (type png)
 <use img/final/RNN/90D/RNN_7_3_HN.png>
-Package pdftex.def Info: img/final/RNN/90D/RNN_7_3_HN.png  used on input line 18.
-(pdftex.def)             Requested size: 77.39685pt x 47.00543pt.
+Package pdftex.def Info: img/final/RNN/90D/RNN_7_3_HN.png  used on input line 117.
+(pdftex.def)             Requested size: 74.3041pt x 45.12904pt.
+<img/final/RNN/90D/RNN_8_2_HN.png, id=82, 469.755pt x 285.31593pt>
+File: img/final/RNN/90D/RNN_8_2_HN.png Graphic file (type png)
+<use img/final/RNN/90D/RNN_8_2_HN.png>
+Package pdftex.def Info: img/final/RNN/90D/RNN_8_2_HN.png  used on input line 117.
+(pdftex.def)             Requested size: 74.3041pt x 45.12904pt.
+<img/final/RNN/90D/RNN_9_1_HN.png, id=83, 469.755pt x 287.57437pt>
+File: img/final/RNN/90D/RNN_9_1_HN.png Graphic file (type png)
+<use img/final/RNN/90D/RNN_9_1_HN.png>
+Package pdftex.def Info: img/final/RNN/90D/RNN_9_1_HN.png  used on input line 117.
+(pdftex.def)             Requested size: 74.3041pt x 45.48627pt.
 <img/final/RNN/90D/RNN_7_3_VT.png, id=84, 469.755pt x 283.81032pt>
 File: img/final/RNN/90D/RNN_7_3_VT.png Graphic file (type png)
 <use img/final/RNN/90D/RNN_7_3_VT.png>
-Package pdftex.def Info: img/final/RNN/90D/RNN_7_3_VT.png  used on input line 23.
-(pdftex.def)             Requested size: 77.39685pt x 46.75739pt.
-<img/final/RNN/90D/RNN_8_2_HL.png, id=85, 469.755pt x 286.06876pt>
-File: img/final/RNN/90D/RNN_8_2_HL.png Graphic file (type png)
-<use img/final/RNN/90D/RNN_8_2_HL.png>
-Package pdftex.def Info: img/final/RNN/90D/RNN_8_2_HL.png  used on input line 29.
-(pdftex.def)             Requested size: 77.39685pt x 47.12946pt.
-<img/final/RNN/90D/RNN_8_2_HN.png, id=86, 469.755pt x 285.31593pt>
-File: img/final/RNN/90D/RNN_8_2_HN.png Graphic file (type png)
-<use img/final/RNN/90D/RNN_8_2_HN.png>
-Package pdftex.def Info: img/final/RNN/90D/RNN_8_2_HN.png  used on input line 34.
-(pdftex.def)             Requested size: 77.39685pt x 47.00543pt.
-<img/final/RNN/90D/RNN_8_2_VT.png, id=87, 469.755pt x 283.81032pt>
+Package pdftex.def Info: img/final/RNN/90D/RNN_7_3_VT.png  used on input line 117.
+(pdftex.def)             Requested size: 74.3041pt x 44.8909pt.
+<img/final/RNN/90D/RNN_8_2_VT.png, id=85, 469.755pt x 283.81032pt>
 File: img/final/RNN/90D/RNN_8_2_VT.png Graphic file (type png)
 <use img/final/RNN/90D/RNN_8_2_VT.png>
-Package pdftex.def Info: img/final/RNN/90D/RNN_8_2_VT.png  used on input line 39.
-(pdftex.def)             Requested size: 77.39685pt x 46.75739pt.
-<img/final/RNN/90D/RNN_9_1_HL.png, id=88, 469.755pt x 287.57437pt>
-File: img/final/RNN/90D/RNN_9_1_HL.png Graphic file (type png)
-<use img/final/RNN/90D/RNN_9_1_HL.png>
-Package pdftex.def Info: img/final/RNN/90D/RNN_9_1_HL.png  used on input line 45.
-(pdftex.def)             Requested size: 77.39685pt x 47.3775pt.
-<img/final/RNN/90D/RNN_9_1_HN.png, id=89, 469.755pt x 287.57437pt>
-File: img/final/RNN/90D/RNN_9_1_HN.png Graphic file (type png)
-<use img/final/RNN/90D/RNN_9_1_HN.png>
-Package pdftex.def Info: img/final/RNN/90D/RNN_9_1_HN.png  used on input line 50.
-(pdftex.def)             Requested size: 77.39685pt x 47.3775pt.
-<img/final/RNN/90D/RNN_9_1_VT.png, id=90, 469.755pt x 286.82156pt>
+Package pdftex.def Info: img/final/RNN/90D/RNN_8_2_VT.png  used on input line 117.
+(pdftex.def)             Requested size: 74.3041pt x 44.8909pt.
+<img/final/RNN/90D/RNN_9_1_VT.png, id=86, 469.755pt x 286.82156pt>
 File: img/final/RNN/90D/RNN_9_1_VT.png Graphic file (type png)
 <use img/final/RNN/90D/RNN_9_1_VT.png>
-Package pdftex.def Info: img/final/RNN/90D/RNN_9_1_VT.png  used on input line 55.
-(pdftex.def)             Requested size: 77.39685pt x 47.25348pt.
-) (Models/MLP/results/MLPResult.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Package pdftex.def Info: img/final/RNN/90D/RNN_9_1_VT.png  used on input line 117.
+(pdftex.def)             Requested size: 74.3041pt x 45.36719pt.
 
- [7 <./img/final/Linear Regression/90D/LN_7_3_HL.png> <./img/final/Linear Regression/90D/LN_7_3_HN.png> <./img/final/Linear Regression/90D/LN_7_3_VT.png> <./img/final/Linear Regression/90D/LN_8_2_HL.png> <./img/final/Linear Regression/90D/LN_8_2_HN.png> <./img/final/Linear Regression/90D/LN_8_2_VT.png> <./img/final/Linear Regression/90D/LN_9_1_HL.png> <./img/final/Linear Regression/90D/LN_9_1_HN.png> <./img/final/Linear Regression/90D/LN_9_1_VT.png> <./img/final/ARIMA/90D/ARIMA_7_3_HL.png> <./img/final/ARIMA/90D/ARIMA_7_3_HN.png> <./img/final/ARIMA/90D/ARIMA_7_3_VT.png> <./img/final/ARIMA/90D/ARIMA_8_2_HL.png> <./img/final/ARIMA/90D/ARIMA_8_2_HN.png> <./img/final/ARIMA/90D/ARIMA_8_2_VT.png> <./img/final/ARIMA/90D/ARIMA_9_1_HL.png> <./img/final/ARIMA/90D/ARIMA_9_1_HN.png> <./img/final/ARIMA/90D/ARIMA_9_1_VT.png> <./img/final/VAR/90D/VAR_7_3_HL.png> <./img/final/VAR/90D/VAR_7_3_HN.png> <./img/final/VAR/90D/VAR_7_3_VT.png> <./img/final/VAR/90D/VAR_8_2_HL.png> <./img/final/VAR/90D/VAR_8_2_HN.png> <./img/final/VAR/90D/VAR_8_2_VT.png> <./img/final/VAR/90D/VAR_9_1_HL.png> <./img/final/VAR/90D/VAR_9_1_HN.png> <./img/final/VAR/90D/VAR_9_1_VT.png> <./img/final/RF/90D/RF_7_3_HL.png> <./img/final/RF/90D/RF_7_3_HN.png> <./img/final/RF/90D/RF_7_3_VT.png> <./img/final/RF/90D/RF_8_2_HL.png> <./img/final/RF/90D/RF_8_2_HN.png> <./img/final/RF/90D/RF_8_2_VT.png> <./img/final/RF/90D/RF_9_1_HL.png> <./img/final/RF/90D/RF_9_1_HN.png> <./img/final/RF/90D/RF_9_1_VT.png>]
-Overfull \hbox (264.0pt too wide) in paragraph at lines 3--4
-[][] 
+Overfull \hbox (4.90314pt too wide) in paragraph at lines 25--118
+[][]
  []
 
-<img/final/MLP/90D/MLP_7_3_HL.png, id=131, 1144.275pt x 615.29875pt>
+
+Overfull \hbox (4.97778pt too wide) in paragraph at lines 25--118
+[]
+ []
+
+
+Overfull \hbox (4.97778pt too wide) in paragraph at lines 25--118
+[]
+ []
+
+
+Overfull \hbox (4.97778pt too wide) in paragraph at lines 25--118
+[]
+ []
+
+
+Overfull \hbox (4.97778pt too wide) in paragraph at lines 25--118
+[] 
+ []
+
+[7]
+Overfull \vbox (42.72827pt too high) has occurred while \output is active []
+
+<img/final/MLP/90D/MLP_7_3_HL.png, id=92, 1144.275pt x 615.29875pt>
 File: img/final/MLP/90D/MLP_7_3_HL.png Graphic file (type png)
 <use img/final/MLP/90D/MLP_7_3_HL.png>
-Package pdftex.def Info: img/final/MLP/90D/MLP_7_3_HL.png  used on input line 13.
-(pdftex.def)             Requested size: 77.38364pt x 46.43646pt.
-<img/final/MLP/90D/MLP_7_3_HN.png, id=132, 1145.27875pt x 610.28pt>
-File: img/final/MLP/90D/MLP_7_3_HN.png Graphic file (type png)
-<use img/final/MLP/90D/MLP_7_3_HN.png>
-Package pdftex.def Info: img/final/MLP/90D/MLP_7_3_HN.png  used on input line 18.
-(pdftex.def)             Requested size: 77.3816pt x 46.43018pt.
-<img/final/MLP/90D/MLP_7_3_VT.png, id=133, 1143.27126pt x 613.29124pt>
-File: img/final/MLP/90D/MLP_7_3_VT.png Graphic file (type png)
-<use img/final/MLP/90D/MLP_7_3_VT.png>
-Package pdftex.def Info: img/final/MLP/90D/MLP_7_3_VT.png  used on input line 23.
-(pdftex.def)             Requested size: 77.38553pt x 46.43468pt.
-<img/final/MLP/90D/MLP_8_2_HL.png, id=134, 1143.27126pt x 612.2875pt>
+Package pdftex.def Info: img/final/MLP/90D/MLP_7_3_HL.png  used on input line 147.
+(pdftex.def)             Requested size: 73.5317pt x 39.53577pt.
+<img/final/MLP/90D/MLP_8_2_HL.png, id=93, 1143.27126pt x 612.2875pt>
 File: img/final/MLP/90D/MLP_8_2_HL.png Graphic file (type png)
 <use img/final/MLP/90D/MLP_8_2_HL.png>
-Package pdftex.def Info: img/final/MLP/90D/MLP_8_2_HL.png  used on input line 29.
-(pdftex.def)             Requested size: 77.38553pt x 46.43343pt.
-<img/final/MLP/90D/MLP_8_2_HN.png, id=135, 1144.275pt x 613.29124pt>
-File: img/final/MLP/90D/MLP_8_2_HN.png Graphic file (type png)
-<use img/final/MLP/90D/MLP_8_2_HN.png>
-Package pdftex.def Info: img/final/MLP/90D/MLP_8_2_HN.png  used on input line 34.
-(pdftex.def)             Requested size: 77.38364pt x 46.43468pt.
-<img/final/MLP/90D/MLP_8_2_VT.png, id=136, 1143.27126pt x 611.28375pt>
-File: img/final/MLP/90D/MLP_8_2_VT.png Graphic file (type png)
-<use img/final/MLP/90D/MLP_8_2_VT.png>
-Package pdftex.def Info: img/final/MLP/90D/MLP_8_2_VT.png  used on input line 39.
-(pdftex.def)             Requested size: 77.38553pt x 46.43193pt.
-<img/final/MLP/90D/MLP_9_1_HL.png, id=137, 1142.2675pt x 613.29124pt>
+Package pdftex.def Info: img/final/MLP/90D/MLP_8_2_HL.png  used on input line 147.
+(pdftex.def)             Requested size: 73.5317pt x 39.37965pt.
+<img/final/MLP/90D/MLP_9_1_HL.png, id=94, 1142.2675pt x 613.29124pt>
 File: img/final/MLP/90D/MLP_9_1_HL.png Graphic file (type png)
 <use img/final/MLP/90D/MLP_9_1_HL.png>
-Package pdftex.def Info: img/final/MLP/90D/MLP_9_1_HL.png  used on input line 45.
-(pdftex.def)             Requested size: 77.38731pt x 46.43468pt.
-<img/final/MLP/90D/MLP_9_1_HN.png, id=138, 1139.25626pt x 609.27625pt>
+Package pdftex.def Info: img/final/MLP/90D/MLP_9_1_HL.png  used on input line 147.
+(pdftex.def)             Requested size: 73.5317pt x 39.47229pt.
+<img/final/MLP/90D/MLP_7_3_HN.png, id=95, 1145.27875pt x 610.28pt>
+File: img/final/MLP/90D/MLP_7_3_HN.png Graphic file (type png)
+<use img/final/MLP/90D/MLP_7_3_HN.png>
+Package pdftex.def Info: img/final/MLP/90D/MLP_7_3_HN.png  used on input line 147.
+(pdftex.def)             Requested size: 73.5317pt x 39.17604pt.
+<img/final/MLP/90D/MLP_8_2_HN.png, id=96, 1144.275pt x 613.29124pt>
+File: img/final/MLP/90D/MLP_8_2_HN.png Graphic file (type png)
+<use img/final/MLP/90D/MLP_8_2_HN.png>
+Package pdftex.def Info: img/final/MLP/90D/MLP_8_2_HN.png  used on input line 147.
+(pdftex.def)             Requested size: 73.5317pt x 39.40678pt.
+<img/final/MLP/90D/MLP_9_1_HN.png, id=97, 1139.25626pt x 609.27625pt>
 File: img/final/MLP/90D/MLP_9_1_HN.png Graphic file (type png)
 <use img/final/MLP/90D/MLP_9_1_HN.png>
-Package pdftex.def Info: img/final/MLP/90D/MLP_9_1_HN.png  used on input line 50.
-(pdftex.def)             Requested size: 77.3919pt x 46.43748pt.
-<img/final/MLP/90D/MLP_9_1_VT.png, id=139, 1144.275pt x 613.29124pt>
+Package pdftex.def Info: img/final/MLP/90D/MLP_9_1_HN.png  used on input line 147.
+(pdftex.def)             Requested size: 73.5317pt x 39.31613pt.
+<img/final/MLP/90D/MLP_7_3_VT.png, id=98, 1143.27126pt x 613.29124pt>
+File: img/final/MLP/90D/MLP_7_3_VT.png Graphic file (type png)
+<use img/final/MLP/90D/MLP_7_3_VT.png>
+Package pdftex.def Info: img/final/MLP/90D/MLP_7_3_VT.png  used on input line 147.
+(pdftex.def)             Requested size: 73.5317pt x 39.44421pt.
+<img/final/MLP/90D/MLP_8_2_VT.png, id=99, 1143.27126pt x 611.28375pt>
+File: img/final/MLP/90D/MLP_8_2_VT.png Graphic file (type png)
+<use img/final/MLP/90D/MLP_8_2_VT.png>
+Package pdftex.def Info: img/final/MLP/90D/MLP_8_2_VT.png  used on input line 147.
+(pdftex.def)             Requested size: 73.5317pt x 39.3151pt.
+<img/final/MLP/90D/MLP_9_1_VT.png, id=100, 1144.275pt x 613.29124pt>
 File: img/final/MLP/90D/MLP_9_1_VT.png Graphic file (type png)
 <use img/final/MLP/90D/MLP_9_1_VT.png>
-Package pdftex.def Info: img/final/MLP/90D/MLP_9_1_VT.png  used on input line 55.
-(pdftex.def)             Requested size: 77.38364pt x 46.43468pt.
-) (Models/GRU/results/GRUResult.tex
-Overfull \hbox (264.0pt too wide) in paragraph at lines 3--4
-[][] 
- []
-
-<img/final/GRU/90D/GRU_7_3_HL.png, id=140, 1142.2675pt x 595.22375pt>
+Package pdftex.def Info: img/final/MLP/90D/MLP_9_1_VT.png  used on input line 147.
+(pdftex.def)             Requested size: 73.5317pt x 39.40678pt.
+<img/final/GRU/90D/GRU_7_3_HL.png, id=101, 1142.2675pt x 595.22375pt>
 File: img/final/GRU/90D/GRU_7_3_HL.png Graphic file (type png)
 <use img/final/GRU/90D/GRU_7_3_HL.png>
-Package pdftex.def Info: img/final/GRU/90D/GRU_7_3_HL.png  used on input line 13.
-(pdftex.def)             Requested size: 77.38731pt x 54.17635pt.
-<img/final/GRU/90D/GRU_7_3_HN.png, id=141, 1141.26375pt x 593.21625pt>
-File: img/final/GRU/90D/GRU_7_3_HN.png Graphic file (type png)
-<use img/final/GRU/90D/GRU_7_3_HN.png>
-Package pdftex.def Info: img/final/GRU/90D/GRU_7_3_HN.png  used on input line 18.
-(pdftex.def)             Requested size: 77.38896pt x 54.17465pt.
-<img/final/GRU/90D/GRU_7_3_VT.png, id=142, 1142.2675pt x 592.2125pt>
-File: img/final/GRU/90D/GRU_7_3_VT.png Graphic file (type png)
-<use img/final/GRU/90D/GRU_7_3_VT.png>
-Package pdftex.def Info: img/final/GRU/90D/GRU_7_3_VT.png  used on input line 23.
-(pdftex.def)             Requested size: 77.38731pt x 54.17336pt.
-<img/final/GRU/90D/GRU_8_2_HL.png, id=143, 1143.27126pt x 591.20876pt>
+Package pdftex.def Info: img/final/GRU/90D/GRU_7_3_HL.png  used on input line 170.
+(pdftex.def)             Requested size: 74.3041pt x 38.71814pt.
+<img/final/GRU/90D/GRU_8_2_HL.png, id=102, 1143.27126pt x 591.20876pt>
 File: img/final/GRU/90D/GRU_8_2_HL.png Graphic file (type png)
 <use img/final/GRU/90D/GRU_8_2_HL.png>
-Package pdftex.def Info: img/final/GRU/90D/GRU_8_2_HL.png  used on input line 29.
-(pdftex.def)             Requested size: 77.38553pt x 46.43164pt.
-<img/final/GRU/90D/GRU_8_2_HN.png, id=144, 1143.27126pt x 591.20876pt>
-File: img/final/GRU/90D/GRU_8_2_HN.png Graphic file (type png)
-<use img/final/GRU/90D/GRU_8_2_HN.png>
-Package pdftex.def Info: img/final/GRU/90D/GRU_8_2_HN.png  used on input line 34.
-(pdftex.def)             Requested size: 77.38553pt x 46.43164pt.
-<img/final/GRU/90D/GRU_8_2_VT.png, id=145, 1142.2675pt x 593.21625pt>
-File: img/final/GRU/90D/GRU_8_2_VT.png Graphic file (type png)
-<use img/final/GRU/90D/GRU_8_2_VT.png>
-Package pdftex.def Info: img/final/GRU/90D/GRU_8_2_VT.png  used on input line 39.
-(pdftex.def)             Requested size: 77.38731pt x 46.43541pt.
-<img/final/GRU/90D/GRU_9_1_HL.png, id=146, 1142.2675pt x 591.20876pt>
+Package pdftex.def Info: img/final/GRU/90D/GRU_8_2_HL.png  used on input line 170.
+(pdftex.def)             Requested size: 74.3041pt x 38.42088pt.
+<img/final/GRU/90D/GRU_9_1_HL.png, id=103, 1142.2675pt x 591.20876pt>
 File: img/final/GRU/90D/GRU_9_1_HL.png Graphic file (type png)
 <use img/final/GRU/90D/GRU_9_1_HL.png>
-Package pdftex.def Info: img/final/GRU/90D/GRU_9_1_HL.png  used on input line 45.
-(pdftex.def)             Requested size: 77.38731pt x 46.43164pt.
-<img/final/GRU/90D/GRU_9_1_HN.png, id=147, 1138.2525pt x 591.20876pt>
+Package pdftex.def Info: img/final/GRU/90D/GRU_9_1_HL.png  used on input line 170.
+(pdftex.def)             Requested size: 74.3041pt x 38.45697pt.
+<img/final/GRU/90D/GRU_7_3_HN.png, id=104, 1141.26375pt x 593.21625pt>
+File: img/final/GRU/90D/GRU_7_3_HN.png Graphic file (type png)
+<use img/final/GRU/90D/GRU_7_3_HN.png>
+Package pdftex.def Info: img/final/GRU/90D/GRU_7_3_HN.png  used on input line 170.
+(pdftex.def)             Requested size: 74.3041pt x 38.61472pt.
+<img/final/GRU/90D/GRU_8_2_HN.png, id=105, 1143.27126pt x 591.20876pt>
+File: img/final/GRU/90D/GRU_8_2_HN.png Graphic file (type png)
+<use img/final/GRU/90D/GRU_8_2_HN.png>
+Package pdftex.def Info: img/final/GRU/90D/GRU_8_2_HN.png  used on input line 170.
+(pdftex.def)             Requested size: 74.3041pt x 38.42088pt.
+<img/final/GRU/90D/GRU_9_1_HN.png, id=106, 1138.2525pt x 591.20876pt>
 File: img/final/GRU/90D/GRU_9_1_HN.png Graphic file (type png)
 <use img/final/GRU/90D/GRU_9_1_HN.png>
-Package pdftex.def Info: img/final/GRU/90D/GRU_9_1_HN.png  used on input line 50.
-(pdftex.def)             Requested size: 77.39319pt x 46.43164pt.
-<img/final/GRU/90D/GRU_9_1_VT.png, id=148, 1139.25626pt x 595.22375pt>
+Package pdftex.def Info: img/final/GRU/90D/GRU_9_1_HN.png  used on input line 170.
+(pdftex.def)             Requested size: 74.3041pt x 38.59229pt.
+<img/final/GRU/90D/GRU_7_3_VT.png, id=107, 1142.2675pt x 592.2125pt>
+File: img/final/GRU/90D/GRU_7_3_VT.png Graphic file (type png)
+<use img/final/GRU/90D/GRU_7_3_VT.png>
+Package pdftex.def Info: img/final/GRU/90D/GRU_7_3_VT.png  used on input line 170.
+(pdftex.def)             Requested size: 74.3041pt x 38.52226pt.
+<img/final/GRU/90D/GRU_8_2_VT.png, id=108, 1142.2675pt x 593.21625pt>
+File: img/final/GRU/90D/GRU_8_2_VT.png Graphic file (type png)
+<use img/final/GRU/90D/GRU_8_2_VT.png>
+Package pdftex.def Info: img/final/GRU/90D/GRU_8_2_VT.png  used on input line 170.
+(pdftex.def)             Requested size: 74.3041pt x 38.58755pt.
+<img/final/GRU/90D/GRU_9_1_VT.png, id=109, 1139.25626pt x 595.22375pt>
 File: img/final/GRU/90D/GRU_9_1_VT.png Graphic file (type png)
 <use img/final/GRU/90D/GRU_9_1_VT.png>
-Package pdftex.def Info: img/final/GRU/90D/GRU_9_1_VT.png  used on input line 55.
-(pdftex.def)             Requested size: 77.3919pt x 46.43816pt.
-) (Models/LSTM/results/LSTMResult.tex
-Overfull \hbox (264.0pt too wide) in paragraph at lines 2--3
-[][] 
- []
-
-<img/final/LSTM/90D/LSTM_7_3_HL.png, id=149, 614.295pt x 395.3169pt>
+Package pdftex.def Info: img/final/GRU/90D/GRU_9_1_VT.png  used on input line 170.
+(pdftex.def)             Requested size: 74.3041pt x 38.81805pt.
+<img/final/LSTM/90D/LSTM_7_3_HL.png, id=110, 614.295pt x 395.3169pt>
 File: img/final/LSTM/90D/LSTM_7_3_HL.png Graphic file (type png)
 <use img/final/LSTM/90D/LSTM_7_3_HL.png>
-Package pdftex.def Info: img/final/LSTM/90D/LSTM_7_3_HL.png  used on input line 12.
-(pdftex.def)             Requested size: 77.39685pt x 49.80656pt.
-<img/final/LSTM/90D/LSTM_7_3_HN.png, id=150, 614.295pt x 395.3169pt>
-File: img/final/LSTM/90D/LSTM_7_3_HN.png Graphic file (type png)
-<use img/final/LSTM/90D/LSTM_7_3_HN.png>
-Package pdftex.def Info: img/final/LSTM/90D/LSTM_7_3_HN.png  used on input line 17.
-(pdftex.def)             Requested size: 77.39685pt x 49.80656pt.
-<img/final/LSTM/90D/LSTM_7_3_VT.png, id=151, 614.295pt x 395.3169pt>
-File: img/final/LSTM/90D/LSTM_7_3_VT.png Graphic file (type png)
-<use img/final/LSTM/90D/LSTM_7_3_VT.png>
-Package pdftex.def Info: img/final/LSTM/90D/LSTM_7_3_VT.png  used on input line 22.
-(pdftex.def)             Requested size: 77.39685pt x 49.80656pt.
-<img/final/LSTM/90D/LSTM_8_2_HL.png, id=152, 614.295pt x 395.3169pt>
+Package pdftex.def Info: img/final/LSTM/90D/LSTM_7_3_HL.png  used on input line 193.
+(pdftex.def)             Requested size: 74.3041pt x 47.816pt.
+<img/final/LSTM/90D/LSTM_8_2_HL.png, id=111, 614.295pt x 395.3169pt>
 File: img/final/LSTM/90D/LSTM_8_2_HL.png Graphic file (type png)
 <use img/final/LSTM/90D/LSTM_8_2_HL.png>
-Package pdftex.def Info: img/final/LSTM/90D/LSTM_8_2_HL.png  used on input line 28.
-(pdftex.def)             Requested size: 77.39685pt x 49.80656pt.
-<img/final/LSTM/90D/LSTM_8_2_HN.png, id=153, 614.295pt x 395.3169pt>
-File: img/final/LSTM/90D/LSTM_8_2_HN.png Graphic file (type png)
-<use img/final/LSTM/90D/LSTM_8_2_HN.png>
-Package pdftex.def Info: img/final/LSTM/90D/LSTM_8_2_HN.png  used on input line 33.
-(pdftex.def)             Requested size: 77.39685pt x 49.80656pt.
-<img/final/LSTM/90D/LSTM_8_2_VT.png, id=154, 614.295pt x 395.3169pt>
-File: img/final/LSTM/90D/LSTM_8_2_VT.png Graphic file (type png)
-<use img/final/LSTM/90D/LSTM_8_2_VT.png>
-Package pdftex.def Info: img/final/LSTM/90D/LSTM_8_2_VT.png  used on input line 38.
-(pdftex.def)             Requested size: 77.39685pt x 49.80656pt.
-<img/final/LSTM/90D/LSTM_9_1_HL.png, id=155, 614.295pt x 395.3169pt>
+Package pdftex.def Info: img/final/LSTM/90D/LSTM_8_2_HL.png  used on input line 193.
+(pdftex.def)             Requested size: 74.3041pt x 47.816pt.
+<img/final/LSTM/90D/LSTM_9_1_HL.png, id=112, 614.295pt x 395.3169pt>
 File: img/final/LSTM/90D/LSTM_9_1_HL.png Graphic file (type png)
 <use img/final/LSTM/90D/LSTM_9_1_HL.png>
-Package pdftex.def Info: img/final/LSTM/90D/LSTM_9_1_HL.png  used on input line 44.
-(pdftex.def)             Requested size: 77.39685pt x 49.80656pt.
-<img/final/LSTM/90D/LSTM_9_1_HN.png, id=156, 614.295pt x 395.3169pt>
+Package pdftex.def Info: img/final/LSTM/90D/LSTM_9_1_HL.png  used on input line 193.
+(pdftex.def)             Requested size: 74.3041pt x 47.816pt.
+<img/final/LSTM/90D/LSTM_7_3_HN.png, id=113, 614.295pt x 395.3169pt>
+File: img/final/LSTM/90D/LSTM_7_3_HN.png Graphic file (type png)
+<use img/final/LSTM/90D/LSTM_7_3_HN.png>
+Package pdftex.def Info: img/final/LSTM/90D/LSTM_7_3_HN.png  used on input line 193.
+(pdftex.def)             Requested size: 74.3041pt x 47.816pt.
+<img/final/LSTM/90D/LSTM_8_2_HN.png, id=114, 614.295pt x 395.3169pt>
+File: img/final/LSTM/90D/LSTM_8_2_HN.png Graphic file (type png)
+<use img/final/LSTM/90D/LSTM_8_2_HN.png>
+Package pdftex.def Info: img/final/LSTM/90D/LSTM_8_2_HN.png  used on input line 193.
+(pdftex.def)             Requested size: 74.3041pt x 47.816pt.
+<img/final/LSTM/90D/LSTM_9_1_HN.png, id=115, 614.295pt x 395.3169pt>
 File: img/final/LSTM/90D/LSTM_9_1_HN.png Graphic file (type png)
 <use img/final/LSTM/90D/LSTM_9_1_HN.png>
-Package pdftex.def Info: img/final/LSTM/90D/LSTM_9_1_HN.png  used on input line 49.
-(pdftex.def)             Requested size: 77.39685pt x 49.80656pt.
-<img/final/LSTM/90D/LSTM_9_1_VT.png, id=157, 614.295pt x 395.3169pt>
+Package pdftex.def Info: img/final/LSTM/90D/LSTM_9_1_HN.png  used on input line 193.
+(pdftex.def)             Requested size: 74.3041pt x 47.816pt.
+<img/final/LSTM/90D/LSTM_7_3_VT.png, id=116, 614.295pt x 395.3169pt>
+File: img/final/LSTM/90D/LSTM_7_3_VT.png Graphic file (type png)
+<use img/final/LSTM/90D/LSTM_7_3_VT.png>
+Package pdftex.def Info: img/final/LSTM/90D/LSTM_7_3_VT.png  used on input line 193.
+(pdftex.def)             Requested size: 74.3041pt x 47.816pt.
+<img/final/LSTM/90D/LSTM_8_2_VT.png, id=117, 614.295pt x 395.3169pt>
+File: img/final/LSTM/90D/LSTM_8_2_VT.png Graphic file (type png)
+<use img/final/LSTM/90D/LSTM_8_2_VT.png>
+Package pdftex.def Info: img/final/LSTM/90D/LSTM_8_2_VT.png  used on input line 193.
+(pdftex.def)             Requested size: 74.3041pt x 47.816pt.
+<img/final/LSTM/90D/LSTM_9_1_VT.png, id=118, 614.295pt x 395.3169pt>
 File: img/final/LSTM/90D/LSTM_9_1_VT.png Graphic file (type png)
 <use img/final/LSTM/90D/LSTM_9_1_VT.png>
-Package pdftex.def Info: img/final/LSTM/90D/LSTM_9_1_VT.png  used on input line 54.
-(pdftex.def)             Requested size: 77.39685pt x 49.80656pt.
-) (Models/TiDE/results/TiDEResult.tex
-Overfull \hbox (264.0pt too wide) in paragraph at lines 2--3
-[][] 
- []
-
-<img/final/TiDE/90D/TiDE_7_3_HL.png, id=158, 611.4042pt x 406.8801pt>
+Package pdftex.def Info: img/final/LSTM/90D/LSTM_9_1_VT.png  used on input line 193.
+(pdftex.def)             Requested size: 74.3041pt x 47.816pt.
+<img/final/TiDE/90D/TiDE_7_3_HL.png, id=119, 611.4042pt x 406.8801pt>
 File: img/final/TiDE/90D/TiDE_7_3_HL.png Graphic file (type png)
 <use img/final/TiDE/90D/TiDE_7_3_HL.png>
-Package pdftex.def Info: img/final/TiDE/90D/TiDE_7_3_HL.png  used on input line 12.
-(pdftex.def)             Requested size: 77.39685pt x 51.50557pt.
-<img/final/TiDE/90D/TiDE_7_3_HN.png, id=159, 611.4042pt x 406.8801pt>
-File: img/final/TiDE/90D/TiDE_7_3_HN.png Graphic file (type png)
-<use img/final/TiDE/90D/TiDE_7_3_HN.png>
-Package pdftex.def Info: img/final/TiDE/90D/TiDE_7_3_HN.png  used on input line 17.
-(pdftex.def)             Requested size: 77.39685pt x 51.50557pt.
-<img/final/TiDE/90D/TiDE_7_3_VT.png, id=160, 611.4042pt x 406.8801pt>
-File: img/final/TiDE/90D/TiDE_7_3_VT.png Graphic file (type png)
-<use img/final/TiDE/90D/TiDE_7_3_VT.png>
-Package pdftex.def Info: img/final/TiDE/90D/TiDE_7_3_VT.png  used on input line 22.
-(pdftex.def)             Requested size: 77.39685pt x 51.50557pt.
-<img/final/TiDE/90D/TiDE_8_2_HL.png, id=161, 611.4042pt x 406.8801pt>
+Package pdftex.def Info: img/final/TiDE/90D/TiDE_7_3_HL.png  used on input line 216.
+(pdftex.def)             Requested size: 74.3041pt x 49.44435pt.
+<img/final/TiDE/90D/TiDE_8_2_HL.png, id=120, 611.4042pt x 406.8801pt>
 File: img/final/TiDE/90D/TiDE_8_2_HL.png Graphic file (type png)
 <use img/final/TiDE/90D/TiDE_8_2_HL.png>
-Package pdftex.def Info: img/final/TiDE/90D/TiDE_8_2_HL.png  used on input line 28.
-(pdftex.def)             Requested size: 77.39685pt x 51.50557pt.
-<img/final/TiDE/90D/TiDE_8_2_HN.png, id=162, 611.4042pt x 406.8801pt>
-File: img/final/TiDE/90D/TiDE_8_2_HN.png Graphic file (type png)
-<use img/final/TiDE/90D/TiDE_8_2_HN.png>
-Package pdftex.def Info: img/final/TiDE/90D/TiDE_8_2_HN.png  used on input line 33.
-(pdftex.def)             Requested size: 77.39685pt x 51.50557pt.
-<img/final/TiDE/90D/TiDE_8_2_VT.png, id=163, 611.4042pt x 406.8801pt>
-File: img/final/TiDE/90D/TiDE_8_2_VT.png Graphic file (type png)
-<use img/final/TiDE/90D/TiDE_8_2_VT.png>
-Package pdftex.def Info: img/final/TiDE/90D/TiDE_8_2_VT.png  used on input line 38.
-(pdftex.def)             Requested size: 77.39685pt x 51.50557pt.
-<img/final/TiDE/90D/TiDE_9_1_HL.png, id=164, 611.4042pt x 406.8801pt>
+Package pdftex.def Info: img/final/TiDE/90D/TiDE_8_2_HL.png  used on input line 216.
+(pdftex.def)             Requested size: 74.3041pt x 49.44435pt.
+<img/final/TiDE/90D/TiDE_9_1_HL.png, id=121, 611.4042pt x 406.8801pt>
 File: img/final/TiDE/90D/TiDE_9_1_HL.png Graphic file (type png)
 <use img/final/TiDE/90D/TiDE_9_1_HL.png>
-Package pdftex.def Info: img/final/TiDE/90D/TiDE_9_1_HL.png  used on input line 44.
-(pdftex.def)             Requested size: 77.39685pt x 51.50557pt.
-<img/final/TiDE/90D/TiDE_9_1_HN.png, id=165, 611.4042pt x 406.8801pt>
+Package pdftex.def Info: img/final/TiDE/90D/TiDE_9_1_HL.png  used on input line 216.
+(pdftex.def)             Requested size: 74.3041pt x 49.44435pt.
+<img/final/TiDE/90D/TiDE_7_3_HN.png, id=122, 611.4042pt x 406.8801pt>
+File: img/final/TiDE/90D/TiDE_7_3_HN.png Graphic file (type png)
+<use img/final/TiDE/90D/TiDE_7_3_HN.png>
+Package pdftex.def Info: img/final/TiDE/90D/TiDE_7_3_HN.png  used on input line 216.
+(pdftex.def)             Requested size: 74.3041pt x 49.44435pt.
+<img/final/TiDE/90D/TiDE_8_2_HN.png, id=123, 611.4042pt x 406.8801pt>
+File: img/final/TiDE/90D/TiDE_8_2_HN.png Graphic file (type png)
+<use img/final/TiDE/90D/TiDE_8_2_HN.png>
+Package pdftex.def Info: img/final/TiDE/90D/TiDE_8_2_HN.png  used on input line 216.
+(pdftex.def)             Requested size: 74.3041pt x 49.44435pt.
+<img/final/TiDE/90D/TiDE_9_1_HN.png, id=124, 611.4042pt x 406.8801pt>
 File: img/final/TiDE/90D/TiDE_9_1_HN.png Graphic file (type png)
 <use img/final/TiDE/90D/TiDE_9_1_HN.png>
-Package pdftex.def Info: img/final/TiDE/90D/TiDE_9_1_HN.png  used on input line 49.
-(pdftex.def)             Requested size: 77.39685pt x 51.50557pt.
-<img/final/TiDE/90D/TiDE_9_1_VT.png, id=166, 611.4042pt x 406.8801pt>
+Package pdftex.def Info: img/final/TiDE/90D/TiDE_9_1_HN.png  used on input line 216.
+(pdftex.def)             Requested size: 74.3041pt x 49.44435pt.
+<img/final/TiDE/90D/TiDE_7_3_VT.png, id=125, 611.4042pt x 406.8801pt>
+File: img/final/TiDE/90D/TiDE_7_3_VT.png Graphic file (type png)
+<use img/final/TiDE/90D/TiDE_7_3_VT.png>
+Package pdftex.def Info: img/final/TiDE/90D/TiDE_7_3_VT.png  used on input line 216.
+(pdftex.def)             Requested size: 74.3041pt x 49.44435pt.
+<img/final/TiDE/90D/TiDE_8_2_VT.png, id=126, 611.4042pt x 406.8801pt>
+File: img/final/TiDE/90D/TiDE_8_2_VT.png Graphic file (type png)
+<use img/final/TiDE/90D/TiDE_8_2_VT.png>
+Package pdftex.def Info: img/final/TiDE/90D/TiDE_8_2_VT.png  used on input line 216.
+(pdftex.def)             Requested size: 74.3041pt x 49.44435pt.
+<img/final/TiDE/90D/TiDE_9_1_VT.png, id=127, 611.4042pt x 406.8801pt>
 File: img/final/TiDE/90D/TiDE_9_1_VT.png Graphic file (type png)
 <use img/final/TiDE/90D/TiDE_9_1_VT.png>
-Package pdftex.def Info: img/final/TiDE/90D/TiDE_9_1_VT.png  used on input line 54.
-(pdftex.def)             Requested size: 77.39685pt x 51.50557pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-) (Models/Autoformer/results/AutoformerResult.tex
-Overfull \hbox (264.0pt too wide) in paragraph at lines 2--3
-[][] 
- []
-
-<img/final/Autoformer/90D/Autoformer_7_3_HL.png, id=167, 614.295pt x 395.3169pt>
+Package pdftex.def Info: img/final/TiDE/90D/TiDE_9_1_VT.png  used on input line 216.
+(pdftex.def)             Requested size: 74.3041pt x 49.44435pt.
+<img/final/Autoformer/90D/Autoformer_7_3_HL.png, id=128, 614.295pt x 395.3169pt>
 File: img/final/Autoformer/90D/Autoformer_7_3_HL.png Graphic file (type png)
 <use img/final/Autoformer/90D/Autoformer_7_3_HL.png>
-Package pdftex.def Info: img/final/Autoformer/90D/Autoformer_7_3_HL.png  used on input line 12.
-(pdftex.def)             Requested size: 77.39685pt x 49.80656pt.
-<img/final/Autoformer/90D/Autoformer_7_3_HN.png, id=168, 614.295pt x 395.3169pt>
+Package pdftex.def Info: img/final/Autoformer/90D/Autoformer_7_3_HL.png  used on input line 239.
+(pdftex.def)             Requested size: 74.3041pt x 47.816pt.
+<img/final/Autoformer/90D/Autoformer_8_2_HL.png, id=129, 614.295pt x 395.3169pt>
+File: img/final/Autoformer/90D/Autoformer_8_2_HL.png Graphic file (type png)
+<use img/final/Autoformer/90D/Autoformer_8_2_HL.png>
+Package pdftex.def Info: img/final/Autoformer/90D/Autoformer_8_2_HL.png  used on input line 239.
+(pdftex.def)             Requested size: 74.3041pt x 47.816pt.
+<img/final/Autoformer/90D/Autoformer_9_1_HL.png, id=130, 614.295pt x 395.3169pt>
+File: img/final/Autoformer/90D/Autoformer_9_1_HL.png Graphic file (type png)
+<use img/final/Autoformer/90D/Autoformer_9_1_HL.png>
+Package pdftex.def Info: img/final/Autoformer/90D/Autoformer_9_1_HL.png  used on input line 239.
+(pdftex.def)             Requested size: 74.3041pt x 47.816pt.
+<img/final/Autoformer/90D/Autoformer_7_3_HN.png, id=131, 614.295pt x 395.3169pt>
 File: img/final/Autoformer/90D/Autoformer_7_3_HN.png Graphic file (type png)
 <use img/final/Autoformer/90D/Autoformer_7_3_HN.png>
-Package pdftex.def Info: img/final/Autoformer/90D/Autoformer_7_3_HN.png  used on input line 17.
-(pdftex.def)             Requested size: 77.39685pt x 49.80656pt.
-<img/final/Autoformer/90D/Autoformer_7_3_VT.png, id=169, 614.295pt x 395.3169pt>
+Package pdftex.def Info: img/final/Autoformer/90D/Autoformer_7_3_HN.png  used on input line 239.
+(pdftex.def)             Requested size: 74.3041pt x 47.816pt.
+<img/final/Autoformer/90D/Autoformer_8_2_HN.png, id=132, 614.295pt x 395.3169pt>
+File: img/final/Autoformer/90D/Autoformer_8_2_HN.png Graphic file (type png)
+<use img/final/Autoformer/90D/Autoformer_8_2_HN.png>
+Package pdftex.def Info: img/final/Autoformer/90D/Autoformer_8_2_HN.png  used on input line 239.
+(pdftex.def)             Requested size: 74.3041pt x 47.816pt.
+<img/final/Autoformer/90D/Autoformer_9_1_HN.png, id=133, 614.295pt x 395.3169pt>
+File: img/final/Autoformer/90D/Autoformer_9_1_HN.png Graphic file (type png)
+<use img/final/Autoformer/90D/Autoformer_9_1_HN.png>
+Package pdftex.def Info: img/final/Autoformer/90D/Autoformer_9_1_HN.png  used on input line 239.
+(pdftex.def)             Requested size: 74.3041pt x 47.816pt.
+<img/final/Autoformer/90D/Autoformer_7_3_VT.png, id=134, 614.295pt x 395.3169pt>
 File: img/final/Autoformer/90D/Autoformer_7_3_VT.png Graphic file (type png)
 <use img/final/Autoformer/90D/Autoformer_7_3_VT.png>
-Package pdftex.def Info: img/final/Autoformer/90D/Autoformer_7_3_VT.png  used on input line 22.
-(pdftex.def)             Requested size: 77.39685pt x 49.80656pt.
-<img/final/Autoformer/90D/Autoformer_8_2_HL.png, id=170, 614.295pt x 395.3169pt>
-File: img/final/Autoformer/90D/Autoformer_8_2_HL.png Graphic file (type png)
-<use img/final/Autoformer/90D/Autoformer_8_2_HL.png>
-Package pdftex.def Info: img/final/Autoformer/90D/Autoformer_8_2_HL.png  used on input line 28.
-(pdftex.def)             Requested size: 77.39685pt x 49.80656pt.
-<img/final/Autoformer/90D/Autoformer_8_2_HN.png, id=171, 614.295pt x 395.3169pt>
-File: img/final/Autoformer/90D/Autoformer_8_2_HN.png Graphic file (type png)
-<use img/final/Autoformer/90D/Autoformer_8_2_HN.png>
-Package pdftex.def Info: img/final/Autoformer/90D/Autoformer_8_2_HN.png  used on input line 33.
-(pdftex.def)             Requested size: 77.39685pt x 49.80656pt.
-<img/final/Autoformer/90D/Autoformer_8_2_VT.png, id=172, 614.295pt x 395.3169pt>
+Package pdftex.def Info: img/final/Autoformer/90D/Autoformer_7_3_VT.png  used on input line 239.
+(pdftex.def)             Requested size: 74.3041pt x 47.816pt.
+<img/final/Autoformer/90D/Autoformer_8_2_VT.png, id=135, 614.295pt x 395.3169pt>
 File: img/final/Autoformer/90D/Autoformer_8_2_VT.png Graphic file (type png)
 <use img/final/Autoformer/90D/Autoformer_8_2_VT.png>
-Package pdftex.def Info: img/final/Autoformer/90D/Autoformer_8_2_VT.png  used on input line 38.
-(pdftex.def)             Requested size: 77.39685pt x 49.80656pt.
-File: img/final/Autoformer/90D/Autoformer_8_2_HL.png Graphic file (type png)
-<use img/final/Autoformer/90D/Autoformer_8_2_HL.png>
-Package pdftex.def Info: img/final/Autoformer/90D/Autoformer_8_2_HL.png  used on input line 44.
-(pdftex.def)             Requested size: 77.39685pt x 49.80656pt.
-File: img/final/Autoformer/90D/Autoformer_8_2_HN.png Graphic file (type png)
-<use img/final/Autoformer/90D/Autoformer_8_2_HN.png>
-Package pdftex.def Info: img/final/Autoformer/90D/Autoformer_8_2_HN.png  used on input line 49.
-(pdftex.def)             Requested size: 77.39685pt x 49.80656pt.
-File: img/final/Autoformer/90D/Autoformer_8_2_VT.png Graphic file (type png)
-<use img/final/Autoformer/90D/Autoformer_8_2_VT.png>
-Package pdftex.def Info: img/final/Autoformer/90D/Autoformer_8_2_VT.png  used on input line 54.
-(pdftex.def)             Requested size: 77.39685pt x 49.80656pt.
-) (Models/EVALUATION/HaNoi.Tex
+Package pdftex.def Info: img/final/Autoformer/90D/Autoformer_8_2_VT.png  used on input line 239.
+(pdftex.def)             Requested size: 74.3041pt x 47.816pt.
+<img/final/Autoformer/90D/Autoformer_9_1_VT.png, id=136, 614.295pt x 395.3169pt>
+File: img/final/Autoformer/90D/Autoformer_9_1_VT.png Graphic file (type png)
+<use img/final/Autoformer/90D/Autoformer_9_1_VT.png>
+Package pdftex.def Info: img/final/Autoformer/90D/Autoformer_9_1_VT.png  used on input line 239.
+(pdftex.def)             Requested size: 74.3041pt x 47.816pt.
+
+Overfull \hbox (4.90314pt too wide) in paragraph at lines 147--240
+[][]
+ []
+
+
+Overfull \hbox (4.97778pt too wide) in paragraph at lines 147--240
+[]
+ []
+
+
+Overfull \hbox (4.97778pt too wide) in paragraph at lines 147--240
+[]
+ []
+
+
+Overfull \hbox (4.97778pt too wide) in paragraph at lines 147--240
+[]
+ []
+
+
+Overfull \hbox (4.97778pt too wide) in paragraph at lines 147--240
+[] 
+ []
+
+
+Overfull \vbox (49.48457pt too high) has occurred while \output is active []
+
+ [8 <./img/final/Linear Regression/90D/LN_7_3_HL.png> <./img/final/Linear Regression/90D/LN_8_2_HL.png> <./img/final/Linear Regression/90D/LN_9_1_HL.png> <./img/final/Linear Regression/90D/LN_7_3_HN.png> <./img/final/Linear Regression/90D/LN_8_2_HN.png> <./img/final/Linear Regression/90D/LN_9_1_HN.png> <./img/final/Linear Regression/90D/LN_7_3_VT.png> <./img/final/Linear Regression/90D/LN_8_2_VT.png> <./img/final/Linear Regression/90D/LN_9_1_VT.png> <./img/final/ARIMA/90D/ARIMA_7_3_HL.png> <./img/final/ARIMA/90D/ARIMA_8_2_HL.png> <./img/final/ARIMA/90D/ARIMA_9_1_HL.png> <./img/final/ARIMA/90D/ARIMA_7_3_HN.png> <./img/final/ARIMA/90D/ARIMA_8_2_HN.png> <./img/final/ARIMA/90D/ARIMA_9_1_HN.png> <./img/final/ARIMA/90D/ARIMA_7_3_VT.png> <./img/final/ARIMA/90D/ARIMA_8_2_VT.png> <./img/final/ARIMA/90D/ARIMA_9_1_VT.png> <./img/final/VAR/90D/VAR_7_3_HL.png> <./img/final/VAR/90D/VAR_8_2_HL.png> <./img/final/VAR/90D/VAR_9_1_HL.png> <./img/final/VAR/90D/VAR_7_3_HN.png> <./img/final/VAR/90D/VAR_8_2_HN.png> <./img/final/VAR/90D/VAR_9_1_HN.png> <./img/final/VAR/90D/VAR_7_3_VT.png> <./img/final/VAR/90D/VAR_8_2_VT.png> <./img/final/VAR/90D/VAR_9_1_VT.png> <./img/final/RF/90D/RF_7_3_HL.png> <./img/final/RF/90D/RF_8_2_HL.png> <./img/final/RF/90D/RF_9_1_HL.png> <./img/final/RF/90D/RF_7_3_HN.png> <./img/final/RF/90D/RF_8_2_HN.png> <./img/final/RF/90D/RF_9_1_HN.png> <./img/final/RF/90D/RF_7_3_VT.png> <./img/final/RF/90D/RF_8_2_VT.png> <./img/final/RF/90D/RF_9_1_VT.png> <./img/final/RNN/90D/RNN_7_3_HL.png> <./img/final/RNN/90D/RNN_8_2_HL.png> <./img/final/RNN/90D/RNN_9_1_HL.png> <./img/final/RNN/90D/RNN_7_3_HN.png> <./img/final/RNN/90D/RNN_8_2_HN.png> <./img/final/RNN/90D/RNN_9_1_HN.png> <./img/final/RNN/90D/RNN_7_3_VT.png> <./img/final/RNN/90D/RNN_8_2_VT.png> <./img/final/RNN/90D/RNN_9_1_VT.png> <./img/final/MLP/90D/MLP_7_3_HL.png> <./img/final/MLP/90D/MLP_8_2_HL.png> <./img/final/MLP/90D/MLP_9_1_HL.png> <./img/final/MLP/90D/MLP_7_3_HN.png> <./img/final/MLP/90D/MLP_8_2_HN.png> <./img/final/MLP/90D/MLP_9_1_HN.png> <./img/final/MLP/90D/MLP_7_3_VT.png> <./img/final/MLP/90D/MLP_8_2_VT.png> <./img/final/MLP/90D/MLP_9_1_VT.png> <./img/final/GRU/90D/GRU_7_3_HL.png> <./img/final/GRU/90D/GRU_8_2_HL.png> <./img/final/GRU/90D/GRU_9_1_HL.png> <./img/final/GRU/90D/GRU_7_3_HN.png> <./img/final/GRU/90D/GRU_8_2_HN.png> <./img/final/GRU/90D/GRU_9_1_HN.png> <./img/final/GRU/90D/GRU_7_3_VT.png> <./img/final/GRU/90D/GRU_8_2_VT.png> <./img/final/GRU/90D/GRU_9_1_VT.png> <./img/final/LSTM/90D/LSTM_7_3_HL.png> <./img/final/LSTM/90D/LSTM_8_2_HL.png> <./img/final/LSTM/90D/LSTM_9_1_HL.png> <./img/final/LSTM/90D/LSTM_7_3_HN.png> <./img/final/LSTM/90D/LSTM_8_2_HN.png> <./img/final/LSTM/90D/LSTM_9_1_HN.png> <./img/final/LSTM/90D/LSTM_7_3_VT.png> <./img/final/LSTM/90D/LSTM_8_2_VT.png> <./img/final/LSTM/90D/LSTM_9_1_VT.png> <./img/final/TiDE/90D/TiDE_7_3_HL.png> <./img/final/TiDE/90D/TiDE_8_2_HL.png> <./img/final/TiDE/90D/TiDE_9_1_HL.png> <./img/final/TiDE/90D/TiDE_7_3_HN.png> <./img/final/TiDE/90D/TiDE_8_2_HN.png> <./img/final/TiDE/90D/TiDE_9_1_HN.png> <./img/final/TiDE/90D/TiDE_7_3_VT.png> <./img/final/TiDE/90D/TiDE_8_2_VT.png> <./img/final/TiDE/90D/TiDE_9_1_VT.png> <./img/final/Autoformer/90D/Autoformer_7_3_HL.png> <./img/final/Autoformer/90D/Autoformer_8_2_HL.png> <./img/final/Autoformer/90D/Autoformer_9_1_HL.png> <./img/final/Autoformer/90D/Autoformer_7_3_HN.png> <./img/final/Autoformer/90D/Autoformer_8_2_HN.png> <./img/final/Autoformer/90D/Autoformer_9_1_HN.png> <./img/final/Autoformer/90D/Autoformer_7_3_VT.png> <./img/final/Autoformer/90D/Autoformer_8_2_VT.png> <./img/final/Autoformer/90D/Autoformer_9_1_VT.png>]) (Models/EVALUATION/HaNoi.Tex) (Models/EVALUATION/HaLong.Tex) (Models/EVALUATION/VietTri.tex) (Models/LinearRegression/results/90Days/LinearRegressionResult.tex
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) (Models/EVALUATION/HaLong.Tex
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) (Models/EVALUATION/VietTri.tex
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-) (Models/LinearRegression/results/90Days/LinearRegressionResult.tex) (Models/Arima/results/90Days/ArimaResult.tex) (Models/Var/results/90Days/VarResult.tex) (Models/RandomForest/results/90Days/RandomForestResult.tex) (Models/TiDE/results/90Days/TiDEResult.tex) (Models/RNN/results/90Days/RNNResult.tex) (Models/GRU/results/90Days/GRUResult.tex
-<img/final/MLP/90D/MLP_7_3_HL_90D.png, id=173, 1142.2675pt x 616.3025pt>
+) (Models/Arima/results/90Days/ArimaResult.tex) (Models/Var/results/90Days/VarResult.tex) (Models/RandomForest/results/90Days/RandomForestResult.tex) (Models/TiDE/results/90Days/TiDEResult.tex) (Models/RNN/results/90Days/RNNResult.tex) (Models/GRU/results/90Days/GRUResult.tex
+<img/final/MLP/90D/MLP_7_3_HL_90D.png, id=230, 1142.2675pt x 616.3025pt>
 File: img/final/MLP/90D/MLP_7_3_HL_90D.png Graphic file (type png)
 <use img/final/MLP/90D/MLP_7_3_HL_90D.png>
 Package pdftex.def Info: img/final/MLP/90D/MLP_7_3_HL_90D.png  used on input line 6.
 (pdftex.def)             Requested size: 77.39685pt x 41.75378pt.
-<img/final/MLP/90D/MLP_7_3_HN_90D.png, id=174, 1143.27126pt x 616.3025pt>
+<img/final/MLP/90D/MLP_7_3_HN_90D.png, id=231, 1143.27126pt x 616.3025pt>
 File: img/final/MLP/90D/MLP_7_3_HN_90D.png Graphic file (type png)
 <use img/final/MLP/90D/MLP_7_3_HN_90D.png>
 Package pdftex.def Info: img/final/MLP/90D/MLP_7_3_HN_90D.png  used on input line 11.
 (pdftex.def)             Requested size: 77.39685pt x 41.71617pt.
-<img/final/MLP/90D/MLP_7_3_VT_90D.png, id=175, 1144.275pt x 618.31pt>
+<img/final/MLP/90D/MLP_7_3_VT_90D.png, id=232, 1144.275pt x 618.31pt>
 File: img/final/MLP/90D/MLP_7_3_VT_90D.png Graphic file (type png)
 <use img/final/MLP/90D/MLP_7_3_VT_90D.png>
 Package pdftex.def Info: img/final/MLP/90D/MLP_7_3_VT_90D.png  used on input line 16.
 (pdftex.def)             Requested size: 77.39685pt x 41.81432pt.
-<img/final/MLP/90D/MLP_8_2_HL_90D.png, id=176, 1143.27126pt x 616.3025pt>
+<img/final/MLP/90D/MLP_8_2_HL_90D.png, id=233, 1143.27126pt x 616.3025pt>
 File: img/final/MLP/90D/MLP_8_2_HL_90D.png Graphic file (type png)
 <use img/final/MLP/90D/MLP_8_2_HL_90D.png>
 Package pdftex.def Info: img/final/MLP/90D/MLP_8_2_HL_90D.png  used on input line 22.
 (pdftex.def)             Requested size: 77.39685pt x 41.71617pt.
-<img/final/MLP/90D/MLP_8_2_HN_90D.png, id=177, 1144.275pt x 615.29875pt>
+<img/final/MLP/90D/MLP_8_2_HN_90D.png, id=234, 1144.275pt x 615.29875pt>
 File: img/final/MLP/90D/MLP_8_2_HN_90D.png Graphic file (type png)
 <use img/final/MLP/90D/MLP_8_2_HN_90D.png>
 Package pdftex.def Info: img/final/MLP/90D/MLP_8_2_HN_90D.png  used on input line 27.
 (pdftex.def)             Requested size: 77.39685pt x 41.61067pt.
-<img/final/MLP/90D/MLP_8_2_VT_90D.png, id=178, 1145.27875pt x 618.31pt>
+<img/final/MLP/90D/MLP_8_2_VT_90D.png, id=235, 1145.27875pt x 618.31pt>
 File: img/final/MLP/90D/MLP_8_2_VT_90D.png Graphic file (type png)
 <use img/final/MLP/90D/MLP_8_2_VT_90D.png>
 Package pdftex.def Info: img/final/MLP/90D/MLP_8_2_VT_90D.png  used on input line 32.
 (pdftex.def)             Requested size: 77.39685pt x 41.77657pt.
-<img/final/MLP/90D/MLP_9_1_HL_90D.png, id=179, 1143.27126pt x 619.31375pt>
+<img/final/MLP/90D/MLP_9_1_HL_90D.png, id=236, 1143.27126pt x 619.31375pt>
 File: img/final/MLP/90D/MLP_9_1_HL_90D.png Graphic file (type png)
 <use img/final/MLP/90D/MLP_9_1_HL_90D.png>
 Package pdftex.def Info: img/final/MLP/90D/MLP_9_1_HL_90D.png  used on input line 38.
 (pdftex.def)             Requested size: 77.39685pt x 41.92pt.
-<img/final/MLP/90D/MLP_9_1_HN_90D.png, id=180, 1144.275pt x 614.295pt>
+<img/final/MLP/90D/MLP_9_1_HN_90D.png, id=237, 1144.275pt x 614.295pt>
 File: img/final/MLP/90D/MLP_9_1_HN_90D.png Graphic file (type png)
 <use img/final/MLP/90D/MLP_9_1_HN_90D.png>
 Package pdftex.def Info: img/final/MLP/90D/MLP_9_1_HN_90D.png  used on input line 43.
 (pdftex.def)             Requested size: 77.39685pt x 41.54279pt.
-<img/final/MLP/90D/MLP_9_1_VT_90D.png, id=181, 1143.27126pt x 619.31375pt>
+<img/final/MLP/90D/MLP_9_1_VT_90D.png, id=238, 1143.27126pt x 619.31375pt>
 File: img/final/MLP/90D/MLP_9_1_VT_90D.png Graphic file (type png)
 <use img/final/MLP/90D/MLP_9_1_VT_90D.png>
 Package pdftex.def Info: img/final/MLP/90D/MLP_9_1_VT_90D.png  used on input line 48.
 (pdftex.def)             Requested size: 77.39685pt x 41.92pt.
-<img/final/GRU/90D/GRU_7_3_HL_90D.png, id=182, 1144.275pt x 597.23125pt>
+<img/final/GRU/90D/GRU_7_3_HL_90D.png, id=239, 1144.275pt x 597.23125pt>
 File: img/final/GRU/90D/GRU_7_3_HL_90D.png Graphic file (type png)
 <use img/final/GRU/90D/GRU_7_3_HL_90D.png>
 Package pdftex.def Info: img/final/GRU/90D/GRU_7_3_HL_90D.png  used on input line 54.
 (pdftex.def)             Requested size: 77.39685pt x 40.38882pt.
-<img/final/GRU/90D/GRU_7_3_HN_90D.png, id=183, 1139.25626pt x 589.20125pt>
+<img/final/GRU/90D/GRU_7_3_HN_90D.png, id=240, 1139.25626pt x 589.20125pt>
 File: img/final/GRU/90D/GRU_7_3_HN_90D.png Graphic file (type png)
 <use img/final/GRU/90D/GRU_7_3_HN_90D.png>
 Package pdftex.def Info: img/final/GRU/90D/GRU_7_3_HN_90D.png  used on input line 59.
 (pdftex.def)             Requested size: 77.39685pt x 40.02559pt.
-<img/final/GRU/90D/GRU_7_3_VT_90D.png, id=184, 1144.275pt x 598.235pt>
+<img/final/GRU/90D/GRU_7_3_VT_90D.png, id=241, 1144.275pt x 598.235pt>
 File: img/final/GRU/90D/GRU_7_3_VT_90D.png Graphic file (type png)
 <use img/final/GRU/90D/GRU_7_3_VT_90D.png>
 Package pdftex.def Info: img/final/GRU/90D/GRU_7_3_VT_90D.png  used on input line 64.
 (pdftex.def)             Requested size: 77.39685pt x 40.45671pt.
-<img/final/GRU/90D/GRU_8_2_HL_90D.png, id=185, 1144.275pt x 599.23875pt>
+<img/final/GRU/90D/GRU_8_2_HL_90D.png, id=242, 1144.275pt x 599.23875pt>
 File: img/final/GRU/90D/GRU_8_2_HL_90D.png Graphic file (type png)
 <use img/final/GRU/90D/GRU_8_2_HL_90D.png>
 Package pdftex.def Info: img/final/GRU/90D/GRU_8_2_HL_90D.png  used on input line 70.
 (pdftex.def)             Requested size: 77.39685pt x 40.52458pt.
-<img/final/GRU/90D/GRU_8_2_HN_90D.png, id=186, 1143.27126pt x 590.205pt>
+<img/final/GRU/90D/GRU_8_2_HN_90D.png, id=243, 1143.27126pt x 590.205pt>
 File: img/final/GRU/90D/GRU_8_2_HN_90D.png Graphic file (type png)
 <use img/final/GRU/90D/GRU_8_2_HN_90D.png>
 Package pdftex.def Info: img/final/GRU/90D/GRU_8_2_HN_90D.png  used on input line 75.
 (pdftex.def)             Requested size: 77.39685pt x 39.94968pt.
-<img/final/GRU/90D/GRU_8_2_VT_90D.png, id=187, 1142.2675pt x 595.22375pt>
+<img/final/GRU/90D/GRU_8_2_VT_90D.png, id=244, 1142.2675pt x 595.22375pt>
 File: img/final/GRU/90D/GRU_8_2_VT_90D.png Graphic file (type png)
 <use img/final/GRU/90D/GRU_8_2_VT_90D.png>
 Package pdftex.def Info: img/final/GRU/90D/GRU_8_2_VT_90D.png  used on input line 80.
 (pdftex.def)             Requested size: 77.39685pt x 40.32573pt.
-<img/final/GRU/90D/GRU_9_1_HL_90D.png, id=188, 1144.275pt x 596.2275pt>
+<img/final/GRU/90D/GRU_9_1_HL_90D.png, id=245, 1144.275pt x 596.2275pt>
 File: img/final/GRU/90D/GRU_9_1_HL_90D.png Graphic file (type png)
 <use img/final/GRU/90D/GRU_9_1_HL_90D.png>
 Package pdftex.def Info: img/final/GRU/90D/GRU_9_1_HL_90D.png  used on input line 86.
 (pdftex.def)             Requested size: 77.39685pt x 40.32094pt.
-<img/final/GRU/90D/GRU_9_1_HN_90D.png, id=189, 1141.26375pt x 588.1975pt>
+<img/final/GRU/90D/GRU_9_1_HN_90D.png, id=246, 1141.26375pt x 588.1975pt>
 File: img/final/GRU/90D/GRU_9_1_HN_90D.png Graphic file (type png)
 <use img/final/GRU/90D/GRU_9_1_HN_90D.png>
 Package pdftex.def Info: img/final/GRU/90D/GRU_9_1_HN_90D.png  used on input line 91.
 (pdftex.def)             Requested size: 77.39685pt x 39.8856pt.
-<img/final/GRU/90D/GRU_9_1_VT_90D.png, id=190, 1140.26pt x 588.1975pt>
+<img/final/GRU/90D/GRU_9_1_VT_90D.png, id=247, 1140.26pt x 588.1975pt>
 File: img/final/GRU/90D/GRU_9_1_VT_90D.png Graphic file (type png)
 <use img/final/GRU/90D/GRU_9_1_VT_90D.png>
 Package pdftex.def Info: img/final/GRU/90D/GRU_9_1_VT_90D.png  used on input line 96.
 (pdftex.def)             Requested size: 77.39685pt x 39.92151pt.
-) (Models/LSTM/results/90Days/LSTMResult.tex
+) (Models/LSTM/results/90Days/LSTMResult.tex) (Models/MLP/results/90Days/MLPResult.tex) (Models/Autoformer/results/90Days/AutoformerResult.tex)) (sections/conclusion.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [8 <./img/final/RNN/90D/RNN_7_3_HL.png> <./img/final/RNN/90D/RNN_7_3_HN.png> <./img/final/RNN/90D/RNN_7_3_VT.png> <./img/final/RNN/90D/RNN_8_2_HL.png> <./img/final/RNN/90D/RNN_8_2_HN.png> <./img/final/RNN/90D/RNN_8_2_VT.png> <./img/final/RNN/90D/RNN_9_1_HL.png> <./img/final/RNN/90D/RNN_9_1_HN.png> <./img/final/RNN/90D/RNN_9_1_VT.png> <./img/final/MLP/90D/MLP_7_3_HL.png> <./img/final/MLP/90D/MLP_7_3_HN.png> <./img/final/MLP/90D/MLP_7_3_VT.png> <./img/final/MLP/90D/MLP_8_2_HL.png> <./img/final/MLP/90D/MLP_8_2_HN.png> <./img/final/MLP/90D/MLP_8_2_VT.png> <./img/final/MLP/90D/MLP_9_1_HL.png> <./img/final/MLP/90D/MLP_9_1_HN.png> <./img/final/MLP/90D/MLP_9_1_VT.png> <./img/final/GRU/90D/GRU_7_3_HL.png> <./img/final/GRU/90D/GRU_7_3_HN.png> <./img/final/GRU/90D/GRU_7_3_VT.png> <./img/final/GRU/90D/GRU_8_2_HL.png> <./img/final/GRU/90D/GRU_8_2_HN.png> <./img/final/GRU/90D/GRU_8_2_VT.png> <./img/final/GRU/90D/GRU_9_1_HL.png> <./img/final/GRU/90D/GRU_9_1_HN.png> <./img/final/GRU/90D/GRU_9_1_VT.png> <./img/final/LSTM/90D/LSTM_7_3_HL.png> <./img/final/LSTM/90D/LSTM_7_3_HN.png> <./img/final/LSTM/90D/LSTM_7_3_VT.png> <./img/final/LSTM/90D/LSTM_8_2_HL.png> <./img/final/LSTM/90D/LSTM_8_2_HN.png> <./img/final/LSTM/90D/LSTM_8_2_VT.png> <./img/final/LSTM/90D/LSTM_9_1_HL.png> <./img/final/LSTM/90D/LSTM_9_1_HN.png> <./img/final/LSTM/90D/LSTM_9_1_VT.png> <./img/final/TiDE/90D/TiDE_7_3_HL.png> <./img/final/TiDE/90D/TiDE_7_3_HN.png> <./img/final/TiDE/90D/TiDE_7_3_VT.png> <./img/final/TiDE/90D/TiDE_8_2_HL.png> <./img/final/TiDE/90D/TiDE_8_2_HN.png> <./img/final/TiDE/90D/TiDE_8_2_VT.png> <./img/final/TiDE/90D/TiDE_9_1_HL.png> <./img/final/TiDE/90D/TiDE_9_1_HN.png> <./img/final/TiDE/90D/TiDE_9_1_VT.png> <./img/final/Autoformer/90D/Autoformer_7_3_HL.png> <./img/final/Autoformer/90D/Autoformer_7_3_HN.png> <./img/final/Autoformer/90D/Autoformer_7_3_VT.png> <./img/final/Autoformer/90D/Autoformer_8_2_HL.png> <./img/final/Autoformer/90D/Autoformer_8_2_HN.png> <./img/final/Autoformer/90D/Autoformer_8_2_VT.png>]
+
 
 LaTeX Warning: Text page 9 contains only floats.
 
-) (Models/MLP/results/90Days/MLPResult.tex) (Models/Autoformer/results/90Days/AutoformerResult.tex)) (sections/conclusion.tex
-Underfull \vbox (badness 1264) has occurred while \output is active []
-
- [9 <./img/final/MLP/90D/MLP_7_3_HL_90D.png> <./img/final/MLP/90D/MLP_7_3_HN_90D.png> <./img/final/MLP/90D/MLP_7_3_VT_90D.png> <./img/final/MLP/90D/MLP_8_2_HL_90D.png> <./img/final/MLP/90D/MLP_8_2_HN_90D.png> <./img/final/MLP/90D/MLP_8_2_VT_90D.png> <./img/final/MLP/90D/MLP_9_1_HL_90D.png> <./img/final/MLP/90D/MLP_9_1_HN_90D.png> <./img/final/MLP/90D/MLP_9_1_VT_90D.png> <./img/final/GRU/90D/GRU_7_3_HL_90D.png> <./img/final/GRU/90D/GRU_7_3_HN_90D.png> <./img/final/GRU/90D/GRU_7_3_VT_90D.png> <./img/final/GRU/90D/GRU_8_2_HL_90D.png> <./img/final/GRU/90D/GRU_8_2_HN_90D.png> <./img/final/GRU/90D/GRU_8_2_VT_90D.png> <./img/final/GRU/90D/GRU_9_1_HL_90D.png> <./img/final/GRU/90D/GRU_9_1_HN_90D.png> <./img/final/GRU/90D/GRU_9_1_VT_90D.png>])
-Underfull \hbox (badness 3449) in paragraph at lines 99--103
+[9 <./img/final/MLP/90D/MLP_7_3_HL_90D.png> <./img/final/MLP/90D/MLP_7_3_HN_90D.png> <./img/final/MLP/90D/MLP_7_3_VT_90D.png> <./img/final/MLP/90D/MLP_8_2_HL_90D.png> <./img/final/MLP/90D/MLP_8_2_HN_90D.png> <./img/final/MLP/90D/MLP_8_2_VT_90D.png> <./img/final/MLP/90D/MLP_9_1_HL_90D.png> <./img/final/MLP/90D/MLP_9_1_HN_90D.png> <./img/final/MLP/90D/MLP_9_1_VT_90D.png> <./img/final/GRU/90D/GRU_7_3_HL_90D.png> <./img/final/GRU/90D/GRU_7_3_HN_90D.png> <./img/final/GRU/90D/GRU_7_3_VT_90D.png> <./img/final/GRU/90D/GRU_8_2_HL_90D.png> <./img/final/GRU/90D/GRU_8_2_HN_90D.png> <./img/final/GRU/90D/GRU_8_2_VT_90D.png> <./img/final/GRU/90D/GRU_9_1_HL_90D.png> <./img/final/GRU/90D/GRU_9_1_HN_90D.png> <./img/final/GRU/90D/GRU_9_1_VT_90D.png>])
+Underfull \hbox (badness 3449) in paragraph at lines 97--101
 []\T5/ptm/m/n/8 A. Das, W. Kong, A. Leach, S. Mathur, R. Sen, and R. Yu,
  []
 
 
-Underfull \hbox (badness 3417) in paragraph at lines 99--103
+Underfull \hbox (badness 3417) in paragraph at lines 97--101
 \T5/ptm/m/n/8 ``Long-term Fore-cast-ing with TiDE: Time-series Dense En-coder,''
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--103
+Underfull \hbox (badness 10000) in paragraph at lines 97--101
 \T5/ptm/m/it/8 arXiv:2304.08424 [stat.ML]\T5/ptm/m/n/8 , April 2023. [On-line]. Avail-able:
  []
 
@@ -1242,17 +1436,17 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 7561 strings out of 474485
- 148969 string characters out of 5760618
- 2023542 words of memory out of 5000000
- 29591 multiletter control sequences out of 15000+600000
- 623965 words of font info for 124 fonts, out of 8000000 for 9000
+ 18557 strings out of 474485
+ 378852 string characters out of 5760618
+ 2024542 words of memory out of 5000000
+ 40376 multiletter control sequences out of 15000+600000
+ 630005 words of font info for 131 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,75p,1833b,355s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<D:/LATEX/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/LATEX/fonts/type1/vntex/urwvn/utmb8v.pfb><D:/LATEX/fonts/type1/vntex/urwvn/utmbi8v.pfb><D:/LATEX/fonts/type1/vntex/urwvn/utmr8v.pfb><D:/LATEX/fonts/type1/vntex/urwvn/utmri8v.pfb>
-Output written on report.pdf (10 pages, 25657071 bytes).
+ 84i,13n,87p,1833b,543s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<D:/LATEX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/LATEX/fonts/type1/public/amsfonts/symbols/msbm10.pfb><D:/LATEX/fonts/type1/public/amsfonts/symbols/msbm7.pfb><D:/LATEX/fonts/type1/vntex/urwvn/ucrr8v.pfb><D:/LATEX/fonts/type1/vntex/urwvn/utmb8v.pfb><D:/LATEX/fonts/type1/vntex/urwvn/utmbi8v.pfb><D:/LATEX/fonts/type1/vntex/urwvn/utmr8v.pfb><D:/LATEX/fonts/type1/vntex/urwvn/utmri8v.pfb>
+Output written on report.pdf (10 pages, 26012085 bytes).
 PDF statistics:
- 320 PDF objects out of 1000 (max. 8388607)
+ 339 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 561 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 563 words of extra memory for PDF output out of 10000 (max. 10000000)
 

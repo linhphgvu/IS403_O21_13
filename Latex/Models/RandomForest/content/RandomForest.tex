@@ -1,14 +1,26 @@
 \subsection{Random Forest}
+
 \textbf{Định nghĩa}
 
-Random Forest là phương pháp xây dựng một tập hợp (ensemble) cây quyết định (decision tree) cho các bài toán phân lớp (classification) và hồi quy (regression). Cây quyết định thường có độ lệch thấp và phương sai cao, và Random Forest khai thác điều này bằng cách lấy trung bình các cây để cải thiện hiệu suất.
+Random Forest là phương pháp xây dựng một tập hợp cây quyết định cho các bài toán phân lớp và hồi quy. Cây quyết định thường có độ lệch thấp và phương sai cao, và Random Forest cải thiện hiệu suất bằng cách lấy trung bình các cây.
 
-\textbf{Thách thức}
-
-Thách thức chính của Random Forest là tạo ra tính ngẫu nhiên để giảm mối tương quan giữa các cây ($\rho(x)$) và duy trì độ lệch thấp.
-
-\textbf{Thuật toán}
-
-Thuật toán “Bagging” (Bootstrap Aggregating) là cơ chế chính của Random Forest. Mỗi cây quyết định được xây dựng từ một tập dữ liệu huấn luyện khác nhau và không bị cắt tỉa, tăng tính đa dạng và giảm lỗi.
-\textit{Dự đoán hồi quy:} Lấy giá trị trung bình của dự đoán từ tất cả các cây để giảm phương sai và cải thiện hiệu suất.
-\textit{Dự đoán phân lớp:} Lấy đa số phiếu bầu cho nhãn lớp từ tất cả các cây, giúp khắc phục sai sót của từng cây và tăng độ chính xác.
+Giả sử \((X_t, Y_t)_{t \in \mathbb{Z}}\) là một dãy các biến ngẫu nhiên, trong đó:
+\[ Y_t = f(X_t) + \epsilon_t \]
+với \( \mathbb{E}[\epsilon_t \mid X_t] = 0 \). Mục tiêu là ước lượng hàm hồi quy 
+\[ f(x) = \mathbb{E}[Y_t \mid X_t = x] \]
+\textbf{Block Bootstrap cho Chuỗi Thời Gian:}
+\begin{itemize}
+    \item \textbf{Moving Block Bootstrap:} Chia dữ liệu thành các khối chồng lấn kích thước cố định, lấy mẫu lại để tạo chuỗi mới.
+    \item \textbf{Circular Block Bootstrap:} Bao bọc chuỗi thời gian theo vòng tròn, đảm bảo điểm dữ liệu đều đại diện.
+\end{itemize}
+\textbf{Thuật Toán:}
+\begin{itemize}
+    \item \textbf{Đầu Vào:} Dữ liệu huấn luyện \( \{ (X_1, Y_1), \ldots, (X_n, Y_n) \} \), các tham số \( M, \alpha_n, m_{try}, \tau_n, l_n \).
+    \item \textbf{Xây Dựng Cây cho \( j = 1 \) đến \( M \):}
+    \begin{itemize}
+        \item Lấy \( \alpha_n \) quan sát bằng block bootstrap với tham số \( l_n \).
+        \item Chia nút chọn chia cắt tốt nhất từ tập con ngẫu nhiên của \( m_{try} \) đặc trưng.
+    \end{itemize}
+    \item \textbf{Đầu Ra:} Dự đoán cho một quan sát mới \( x \) là trung bình của dự đoán từ \( M \) cây:
+    \[ \hat{f}(x) = \frac{1}{M} \sum_{j=1}^{M} \hat{f}_j(x) \]
+\end{itemize}

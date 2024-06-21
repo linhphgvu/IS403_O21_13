@@ -5,32 +5,37 @@ Autoformer là một mô hình được thiết kế để dự báo chuỗi th�
 \subsubsection{Khối Phân Rã Chuỗi}
 
 Khối phân rã chuỗi được sử dụng để tách chuỗi thời gian thành các thành phần xu hướng và mùa vụ. Phương pháp này sử dụng trung bình động để làm mượt các dao động định kỳ và làm nổi bật xu hướng dài hạn. Công thức cơ bản như sau:
+
 \[
 X_t = \text{AvgPool}(\text{Padding}(X))
 \]
 \[
 X_s = X - X_t
 \]
-trong đó, $X_s$ và $X_t$ lần lượt là các phần mùa vụ và xu hướng của chuỗi.
+
+Trong đó, \(X_s\) và \(X_t\) lần lượt là các phần mùa vụ và xu hướng của chuỗi.
 
 \subsubsection{Cơ Chế Tự Tương Quan}
 
-Cơ chế tự tương quan được thiết kế để phát hiện các phụ thuộc dựa trên chu kỳ và tập hợp các chuỗi con tương tự từ các chu kỳ ngầm. Cơ chế này thay thế cho self-attention trong Transformer và có độ phức tạp $O(L \log L)$, trong đó $L$ là chiều dài chuỗi.
+Cơ chế tự tương quan được thiết kế để phát hiện các phụ thuộc dựa trên chu kỳ và tập hợp các chuỗi con tương tự từ các chu kỳ ngầm. Cơ chế này thay thế cho self-attention trong Transformer và có độ phức tạp \(O(L \log L)\), trong đó \(L\) là chiều dài chuỗi.
 
-Công Thức Tự Tương Quan: 
+\paragraph{Công Thức Tự Tương Quan}
 
 Cơ chế tự tương quan bao gồm hai bước chính: tính toán tự tương quan và tổng hợp các giá trị tương quan.
 
 \[
 \text{ACF}(X, \tau) = \frac{1}{L} \sum_{t=1}^{L-\tau} X_t \cdot X_{t+\tau}
 \]
-trong đó, $\text{ACF}(X, \tau)$ là hàm tự tương quan, $X_t$ là giá trị tại thời điểm $t$, và $\tau$ là độ trễ.
+
+Trong đó, \(\text{ACF}(X, \tau)\) là hàm tự tương quan, \(X_t\) là giá trị tại thời điểm \(t\), và \(\tau\) là độ trễ.
 
 Sau khi tính toán hàm tự tương quan, các giá trị được tổng hợp lại để tìm các chuỗi con tương tự, dựa trên công thức:
+
 \[
 Y_{t+\tau} = \sum_{k=1}^{K} \alpha_k X_{t+\tau_k}
 \]
-trong đó, $\alpha_k$ là trọng số tự tương quan, và $K$ là số lượng chuỗi con được chọn.
+
+Trong đó, \(\alpha_k\) là trọng số tự tương quan, và \(K\) là số lượng chuỗi con được chọn.
 
 \subsubsection{Bộ Mã Hóa và Bộ Giải Mã}
 
@@ -38,23 +43,30 @@ Bộ mã hóa và bộ giải mã của Autoformer bao gồm các khối phân r
 
 \paragraph{Bộ mã hóa (Encoder)}
 
-Bộ mã hóa bao gồm các khối phân rã và cơ chế tự tương quan để xử lý và trích xuất thông tin từ chuỗi đầu vào.
+Bộ mã hóa bao gồm các khối phân rã và cơ chế tự tương quan để xử lý và trích xuất thông tin từ chuỗi đầu vào. Định nghĩa các hàm được sử dụng như sau:
+
+\begin{itemize}
+    \item \textbf{Decompose(X)}: Hàm này phân rã chuỗi thời gian \(X\) thành các thành phần xu hướng (\(X_t\)) và mùa vụ (\(X_s\)).
+    \item \textbf{AutoCorrelation(H)}: Hàm này tính toán tự tương quan của chuỗi \(H\) để tìm các chuỗi con tương tự và các phụ thuộc chu kỳ trong dữ liệu.
+\end{itemize}
 
 \[
-H^{(l)} = \text{Decompose}(X^{(l)})
+\begin{aligned}
+    H^{(l)} &= \text{Decompose}(X^{(l)}) \\
+    Z^{(l)} &= \text{AutoCorrelation}(H^{(l)})
+\end{aligned}
 \]
-\[
-Z^{(l)} = \text{AutoCorrelation}(H^{(l)})
-\]
-trong đó, $H^{(l)}$ là đầu ra của lớp phân rã thứ $l$, và $Z^{(l)}$ là đầu ra của lớp tự tương quan thứ $l$.
 
+    
+Trong đó, \(H^{(l)}\) là đầu ra của lớp phân rã thứ \(l\), và \(Z^{(l)}\) là đầu ra của lớp tự tương quan thứ \(l\).
+    
 \paragraph{Bộ giải mã (Decoder)}
-
-Bộ giải mã nhận các thành phần xu hướng và mùa vụ từ bộ mã hóa và tiếp tục tinh chỉnh, sử dụng các khối phân rã và cơ chế tự tương quan để dự báo chuỗi thời gian trong tương lai.
+    
+Bộ giải mã nhận các thành phần xu hướng và mùa vụ từ bộ mã hóa và tiếp tục tinh chỉnh, sử dụng các khối phân rã và cơ chế tự tương quan để dự báo chuỗi thời gian trong tương lai. Định nghĩa các hàm cũng tương tự như trong bộ mã hóa:
 
 \[
-\hat{Y}^{(l)} = \text{Decompose}(Z^{(l)})
-\]
-\[
-\hat{X}^{(l)} = \text{AutoCorrelation}(\hat{Y}^{(l)})
+\begin{aligned}
+    \hat{Y}^{(l)} &= \text{Decompose}(Z^{(l)}) \\
+    \hat{X}^{(l)} &= \text{AutoCorrelation}(\hat{Y}^{(l)})
+\end{aligned}
 \]

@@ -4,33 +4,39 @@ Trong lĩnh vực học máy và đặc biệt là xử lý ngôn ngữ tự nhi
 
 Điểm nổi bật của GRU là sự kết hợp giữa các cơ chế cập nhật và quên trong một đơn vị duy nhất, giúp giảm thiểu số lượng tham số cần thiết và tăng tốc độ tính toán mà vẫn duy trì hiệu quả cao.
 
-Một GRU bao gồm hai cổng chính: cổng cập nhật (update gate) và cổng xoá (reset gate). Cả hai cổng này cùng hoạt động để điều chỉnh thông tin nào cần được cập nhật và thông tin nào cần được quên. 
+Một GRU bao gồm hai cổng chính: cổng cập nhật (update gate) và cổng đặt lại (reset gate). Cả hai cổng này cùng hoạt động để điều chỉnh thông tin nào cần được cập nhật và thông tin nào cần được quên.
 
 Cho \( x_t \) là đầu vào tại thời điểm \( t \), \( h_t \) là trạng thái ẩn tại thời điểm \( t \), và \( h_{t-1} \) là trạng thái ẩn từ bước trước đó, các công thức của GRU được định nghĩa như sau:
 
 \subsubsection{Cổng Cập Nhật}
 
-Cổng cập nhật \( z_t \) quyết định phần nào của trạng thái ẩn trước đó cần được giữ lại và phần nào cần được cập nhật:
+Cổng cập nhật \( z_t \) quyết định phần nào của trạng thái ẩn trước đó cần được giữ lại và phần nào cần được cập nhật. Khi giá trị của \( z_t \) gần bằng 1, trạng thái ẩn hiện tại (\( h_t \)) sẽ gần giống với trạng thái ẩn trước đó (\( h_{t-1} \)), nghĩa là thông tin mới từ \( \tilde{h}_t \) sẽ bị bỏ qua. Khi giá trị của \( z_t \) gần bằng 0, trạng thái ẩn hiện tại (\( h_t \)) sẽ gần giống với trạng thái ẩn tạm thời (\( \tilde{h}_t \)), nghĩa là thông tin mới từ đầu vào hiện tại được cập nhật hoàn toàn vào trạng thái ẩn.
 
 \[
 z_t = \sigma(W_z x_t + U_z h_{t-1})
 \]
 
-\subsubsection{Cổng Xoá}
+Trong đó: \( z_t \) là giá trị của cổng cập nhật tại thời điểm \( t \), \( \sigma \) là hàm kích hoạt sigmoid, \( W_z \) là ma trận trọng số dành cho cổng cập nhật, \( h_{t-1} \) là trạng thái ẩn tại thời điểm \( t-1 \), \( x_t \) là đầu vào tại thời điểm \( t \).
 
-Cổng xoá \( r_t \) quyết định phần nào của trạng thái ẩn trước đó cần được quên:
+\subsubsection{Cổng Đặt Lại}
+
+Cổng đặt lại \( r_t \) xác định lượng trạng thái ẩn trước đó cần được quên. Nó lấy đầu vào là trạng thái ẩn trước đó và đầu vào hiện tại, đồng thời tạo ra một vectơ số từ 0 đến 1 để kiểm soát mức độ mà trạng thái ẩn trước đó được “đặt lại” ở bước thời gian hiện tại.
 
 \[
 r_t = \sigma(W_r x_t + U_r h_{t-1})
 \]
 
+Trong đó: \( r_t \) là giá trị của cổng đặt lại tại thời điểm \( t \), \( \sigma \) là hàm sigmoid, \( W_r \) là ma trận trọng số liên quan đến cổng đặt lại, \( h_{t-1} \) là trạng thái ẩn tại thời điểm \( t-1 \), \( x_t \) là đầu vào tại thời điểm \( t \).
+
 \subsubsection{Trạng Thái Ẩn Mới}
 
-Trạng thái ẩn mới \( \tilde{h}_t \) được tính toán bằng cách sử dụng cổng xoá để điều chỉnh thông tin từ trạng thái ẩn trước đó:
+Trạng thái ẩn mới \( \tilde{h}_t \) được tính toán bằng cách sử dụng cổng đặt lại để điều chỉnh thông tin từ trạng thái ẩn trước đó. Nó được tính toán bằng cách sử dụng hàm kích hoạt tanh để nén đầu ra của nó trong khoảng từ -1 đến 1.
 
 \[
 \tilde{h}_t = \tanh(W_h x_t + U_h (r_t \odot h_{t-1}))
 \]
+
+Trong đó: \( \tilde{h}_t \) là trạng thái ẩn tạm thời tại thời điểm \( t \), \( W_h \) là ma trận trọng số, \( r_t \) là giá trị của cổng đặt lại tại thời điểm \( t \), \( h_{t-1} \) là trạng thái ẩn tại thời điểm \( t-1 \), \( x_t \) là đầu vào tại thời điểm \( t \), \( \tanh \) là hàm tanh, được sử dụng để giới hạn giá trị đầu ra trong khoảng [-1, 1].
 
 \subsubsection{Cập Nhật Trạng Thái Ẩn Cuối Cùng}
 
@@ -40,9 +46,5 @@ Trạng thái ẩn cuối cùng \( h_t \) tại thời điểm \( t \) được 
 h_t = (1 - z_t) \odot h_{t-1} + z_t \odot \tilde{h}_t
 \]
 
-\subsubsection{Diễn Giải Các Cổng}
+Trong đó: \( h_t \) là trạng thái ẩn tại thời điểm \( t \), \( \tilde{h}_t \) là trạng thái ẩn tạm thời tại thời điểm \( t \), \( z_t \) là giá trị của cổng cập nhật tại thời điểm \( t \), \( r_t \) là giá trị của cổng đặt lại tại thời điểm \( t \), \( h_{t-1} \) là trạng thái ẩn tại thời điểm \( t-1 \), \( x_t \) là đầu vào tại thời điểm \( t \).
 
-\begin{itemize}
-    \item \textbf{Cổng cập nhật} \( z_t \): Quyết định tỉ lệ mà trạng thái ẩn trước đó được giữ lại so với trạng thái ẩn mới.
-    \item \textbf{Cổng xoá} \( r_t \): Điều chỉnh thông tin nào của trạng thái ẩn trước đó được sử dụng để tính toán trạng thái ẩn mới.
-\end{itemize}
