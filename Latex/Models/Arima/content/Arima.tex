@@ -11,7 +11,7 @@ Phương pháp ARIMA (Autoregressive Integrated Moving Average) sử dụng mộ
 Mô hình AR hiển thị sự phụ thuộc của một quan sát vào một giai đoạn thời gian trước đó. Mô hình AR thu được p quan sát trước đó như sau:
 
 \[
-y_t = \alpha + \sum_{i=1}^{p} \phi_i y_{t-i} + e_t \quad \text{(5)}
+y_t = \alpha + \sum_{i=1}^{p} \phi_i y_{t-i} + e_t \quad
 \]
 
 trong đó \(y_t\) là biến dự đoán cho thời điểm t từ phân phối chuẩn và \(y_{t-i}\) xác định p quan sát trước của cùng một chuỗi thời gian. \(\phi_i\) biểu thị các hệ số hồi quy, \(\alpha\) là một hằng số và \(e_t\) là thuật ngữ lỗi ngẫu nhiên. Thứ tự p cho mô hình AR(p) được lựa chọn dựa trên các đỉnh quan trọng của PACF (Partial Autocorrelation Function). Một chỉ báo bổ sung là sự giảm chậm chạp của ACF (Autocorrelation Function).
@@ -27,7 +27,7 @@ trong đó \(\theta_t\) đại diện cho các hệ số hồi quy, q là thứ 
 Mô hình ARIMA có thể được xác định như sau:
 
 \[
-\phi_p(B)(1 - B)^d y_t = \theta_q(B) e_t \quad \text{(7)}
+\phi_p(B)(1 - B)^d y_t = \theta_q(B) e_t \quad 
 \]
 
 trong đó B là toán tử backshift, p là thứ tự tự hồi quy, d là thứ tự chênh lệch và q là thứ tự của trung bình chuyển động.

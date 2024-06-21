@@ -1,12 +1,46 @@
 \subsection{VAR}
-Mô hình Vector Autoregression (VAR) là một công cụ mạnh mẽ trong phân tích dữ liệu thời gian đa biến. Thay vì chỉ tập trung vào một biến duy nhất như các mô hình hồi quy tuyến tính thông thường, VAR cho phép chúng ta đánh giá các tương tác phức tạp giữa nhiều biến số cùng một lúc. Điều này giúp chúng ta hiểu rõ hơn về cách các biến ảnh hưởng lẫn nhau qua thời gian, và tạo ra dự báo linh hoạt dựa trên các kịch bản khác nhau của tương lai. VAR đã trở thành một công cụ không thể thiếu trong lĩnh vực kinh tế lượng, tài chính và các lĩnh vực khác đòi hỏi sự hiểu biết sâu sắc về mối quan hệ giữa các biến số thời gian. Công thức chung của mô hình VAR với \( p \) lags (trễ) được biểu diễn như sau:
+Mô hình Vector Autoregression (VAR) là một mô hình thống kê dùng trong phân tích chuỗi thời gian để nắm bắt mối quan hệ động giữa nhiều biến số chuỗi thời gian. Đây là sự mở rộng tự nhiên của mô hình autoregressive đơn biến sang chuỗi thời gian đa biến động. Mô hình VAR có tính linh hoạt cao trong dự báo, cho phép dự báo dựa trên các biến số cụ thể trong mô hình.
 
-\[ Y_t = c + A_1 Y_{t-1} + A_2 Y_{t-2} + \ldots + A_p Y_{t-p} + \epsilon_t \]
-
+Giả sử $\mathbf{Y}_t=(y_{1t},y_{2t},\ldots,y_{nt})'$ biểu thị một vector kích thước $(n \times 1)$ chứa các biến chuỗi thời gian tại thời điểm $t$. Mô hình Vector Autoregression bậc $p$ cơ bản VAR($p$) có dạng như sau:
+\[
+\mathbf{Y}_t = c + \mathbf{\Pi}_1 \mathbf{Y}_{t-1} + \mathbf{\Pi}_2 \mathbf{Y}_{t-2} + \ldots + \mathbf{\Pi}_p \mathbf{Y}_{t-p} + \mathbf{\epsilon}_t, \quad t=1,\ldots,T
+\]
 Trong đó:
 \begin{itemize}
-  \item \( Y_t \): là một vector chứa các biến phụ thuộc tại thời điểm \( t \);
-  \item \( c \): là một vector hằng số;
-  \item \( A_1, A_2, \ldots, A_p \): là các ma trận hệ số tương ứng với các lags;
-  \item \( \epsilon_t \): là vector của thành phần sai số tại thời điểm \( t \).
+    \item $\mathbf{Y}_t$: vector của các biến nội sinh tại thời điểm $t$, kích thước $(n \times 1)$. 
+    \item $\mathbf{\Pi}_i$: các ma trận hệ số kích thước $(n \times n)$.
+    \item $\mathbf{Y}_{t-1}, \mathbf{Y}_{t-2}, \ldots, \mathbf{Y}_{t-p}$: các giá trị trễ của biến nội sinh.
+    \item $p$: độ trễ biểu thị các giá trị trước đó của các biến nội sinh.
+    \item $\mathbf{\epsilon}_t$: vector kích thước $(n \times 1)$ của các thành phần sai số, được giả định là nhiễu trắng.
+\end{itemize}
+
+Ví dụ:
+\begin{itemize}
+    \item Giả sử có 2 biến nội sinh là pm25 và pm10 thì $\mathbf{Y}_t = (\text{pm25}, \text{pm10})'$. 
+    \[
+    \mathbf{Y}_t = \begin{pmatrix}
+    \text{pm25}_t \\
+    \text{pm10}_t \\
+    \end{pmatrix}
+    \]
+    \item Ma trận chứa các hệ số cho các biến trễ của các biến nội sinh:
+    \[
+    \mathbf{\Pi}_1 = \begin{pmatrix}
+    0.5 & 0.1 \\
+    0.2 & 0.3 \\
+    \end{pmatrix}
+    \]
+    \item Với độ trễ $p=1$, phương trình VAR(1) có dạng:
+    \[
+    \begin{pmatrix}
+    \text{pm25}_t \\
+    \text{pm10}_t \\
+    \end{pmatrix} = c + \begin{pmatrix}
+    0.5 & 0.1 \\
+    0.2 & 0.3 \\
+    \end{pmatrix} \begin{pmatrix}
+    \text{pm25}_{t-1} \\
+    \text{pm10}_{t-1} \\
+    \end{pmatrix} + \mathbf{\epsilon}_t
+    \]
 \end{itemize}

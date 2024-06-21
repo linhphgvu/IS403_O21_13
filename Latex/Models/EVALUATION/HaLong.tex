@@ -1,5 +1,6 @@
 \begin{table}[h!]
     \centering
+    \renewcommand{\arraystretch}{1.01}
     \caption{Số liệu hiệu suất trên bộ dữ liệu pm2.5 ở Hạ Long}
     \begin{tabular}{|l|c|c|c|c|}
     \hline
@@ -17,8 +18,8 @@
     \rowcolor{white} VAR & 8-2 & 13.10 & 10.17 & 31.21 \\ 
     \rowcolor{white}  & 9-1 & 12.44 & 9.14 & 18.77 \\ \hline
     % RF
-    \rowcolor{white} & 7-3 & 5.29 & 4.20 & 11.60 \\ 
-    \rowcolor{white} Random Forest & 8-2 & 4.67 & 3.70 & 10.88 \\ 
+    \rowcolor{white} & 7-3 & \textbf{5.29} & \textbf{4.20} & \textbf{11.60} \\ 
+    \rowcolor{white} \textbf{Random Forest} & 8-2 & 4.67 & 3.70 & 10.88 \\ 
     \rowcolor{white} & 9-1 & 4.71 & 3.74 & 8.61 \\ \hline
     % RNN
     \rowcolor{white}  & 7-3 & 8.76 & 6.94 & 19.54 \\ 
@@ -26,20 +27,20 @@
     \rowcolor{white}  & 9-1 & 13.58 & 12.08 & 28.23 \\ \hline
     % MLP
     \rowcolor{white}  & 7-3 & 7.04 & 5.80 & 14.10 \\ 
-    \rowcolor{white}MLP  & 8-2 & 3.98 & 3.18 & 9.11 \\ 
-    \rowcolor{white}  & 9-1 & 4.00  & 3.17 & 7.52  \\ \hline
+    \rowcolor{white} \textbf{MLP} & 8-2 & \textbf{3.98} & \textbf{3.18} & 9.11 \\ 
+    \rowcolor{white}  & 9-1 & \textbf{4.00}  & \textbf{3.17} & \textbf{7.52}  \\ \hline
     % GRU
     \rowcolor{white}  & 7-3 & 7.09 & 5.97 & 13.57\\
-    \rowcolor{white} GRU & 8-2 & 6.84 & 13.35 & 5.85  \\ 
+    \rowcolor{white} GRU & 8-2 & 6.84 & 13.35 & \textbf{5.85}  \\ 
     \rowcolor{white}  & 9-1 & 5.20 & 4.38 & 8.66 \\ \hline
     % LSTM
     \rowcolor{white}  & 7-3 & 26.35 & 24.60 & 58.96 \\ 
     \rowcolor{white} LSTM & 8-2 & 22.14 & 20.02 & 47.18 \\ 
     \rowcolor{white}  & 9-1 & 27.13 & 25.87 & 55.53 \\ \hline
     % TiDE
-    \rowcolor{white!30} & 7-3 & 12.67 & 9.67 & 26.33 \\ 
-    \rowcolor{white!30} TiDE & 8-2 & 18.53 & 16.29 & 53.34 \\ 
-    \rowcolor{white!30} & 9-1 & 13.14 & 10.23 & 22.95 \\ \hline
+    \rowcolor{white} & 7-3 & 12.67 & 9.67 & 26.33 \\ 
+    \rowcolor{white} TiDE & 8-2 & 18.53 & 16.29 & 53.34 \\ 
+    \rowcolor{white} & 9-1 & 13.14 & 10.23 & 22.95 \\ \hline
     % Autoformer
     \rowcolor{white}  & 7-3 & 12.14 & 9.36 & 27.45 \\ 
     \rowcolor{white}  Autoformer & 8-2 & 13.14 & 10.26 & 32.43 \\ 

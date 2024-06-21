@@ -44,86 +44,71 @@ CV & 0.572 & 0.638 & 0.74 \\
 \end{table}
 
 
-\begin{figure}[H]
-  \centering
-  \begin{minipage}{0.22\textwidth}
-  \centering
-  \end{minipage}
-  \hfill
+% \begin{figure}[H]
+%   \centering
+%   \begin{minipage}{0.22\textwidth}
+%   \centering
+%   \end{minipage}
+%   \hfill
 
-  \begin{minipage}{0.23\textwidth}
-      \centering
-      \includegraphics[width=1\textwidth]{img/final/Dataset/histogram.png}
-      \end{minipage}
-      \hfill
-      \begin{minipage}{0.24\textwidth}
-      \centering
-      \includegraphics[width=1\textwidth]{img/final/Dataset/boxplot.png}
-      \end{minipage}
+%   \begin{minipage}{0.23\textwidth}
+%       \centering
+%       \includegraphics[width=1\textwidth]{img/final/Dataset/histogram.png}
+%       \end{minipage}
+%       \hfill
+%       \begin{minipage}{0.24\textwidth}
+%       \centering
+%       \includegraphics[width=1\textwidth]{img/final/Dataset/boxplot.png}
+%       \end{minipage}
   
-  \caption{Biểu đồ histogram và boxplot Hạ Long}
-  \label{fig:Random_Forest}
-\end{figure}
+%   \caption{Biểu đồ histogram và boxplot Hạ Long}
+%   \label{fig:Random_Forest}
+% \end{figure}
 
-\begin{figure}[H]
-  \centering
-  \begin{minipage}{0.22\textwidth}
-  \centering
-  \end{minipage}
-  \hfill
+% \begin{figure}[H]
+%   \centering
+%   \begin{minipage}{0.22\textwidth}
+%   \centering
+%   \end{minipage}
+%   \hfill
 
-      \begin{minipage}{0.23\textwidth}
-      \centering
-      \includegraphics[width=1\textwidth]{img/final/Dataset/histogram_hn.png}
-      \end{minipage}
-      \hfill
-      \begin{minipage}{0.24\textwidth}
-      \centering
-      \includegraphics[width=1\textwidth]{img/final/Dataset/boxplot_hn.png}
-      \end{minipage}
+%       \begin{minipage}{0.23\textwidth}
+%       \centering
+%       \includegraphics[width=1\textwidth]{img/final/Dataset/histogram_hn.png}
+%       \end{minipage}
+%       \hfill
+%       \begin{minipage}{0.24\textwidth}
+%       \centering
+%       \includegraphics[width=1\textwidth]{img/final/Dataset/boxplot_hn.png}
+%       \end{minipage}
 
-  \caption{Biểu đồ histogram và boxplot Hà Nội}
-  \label{fig:Random_Forest}
-\end{figure}
+%   \caption{Biểu đồ histogram và boxplot Hà Nội}
+%   \label{fig:Random_Forest}
+% \end{figure}
 
-\begin{figure}[H]
-  \centering
-  \begin{minipage}{0.22\textwidth}
-  \centering
-  \end{minipage}
-  \hfill
+% \begin{figure}[H]
+%   \centering
+%   \begin{minipage}{0.22\textwidth}
+%   \centering
+%   \end{minipage}
+%   \hfill
 
-      \begin{minipage}{0.23\textwidth}
-      \centering
-      \includegraphics[width=1\textwidth]{img/final/Dataset/histogram_vt.png}
-      \end{minipage}
-      \hfill
-      \begin{minipage}{0.24\textwidth}
-      \centering
-      \includegraphics[width=1\textwidth]{img/final/Dataset/boxplot_vt.png}
-      \end{minipage}
+%       \begin{minipage}{0.23\textwidth}
+%       \centering
+%       \includegraphics[width=1\textwidth]{img/final/Dataset/histogram_vt.png}
+%       \end{minipage}
+%       \hfill
+%       \begin{minipage}{0.24\textwidth}
+%       \centering
+%       \includegraphics[width=1\textwidth]{img/final/Dataset/boxplot_vt.png}
+%       \end{minipage}
 
-  \caption{Biểu đồ histogram và boxplot Việt Trì}
-  \label{fig:Random_Forest}
-\end{figure}
+%   \caption{Biểu đồ histogram và boxplot Việt Trì}
+%   \label{fig:Random_Forest}
+% \end{figure}
 
-Dựa vào bảng thống kê mô tả cho Hạ Long, Hà Nội và Việt Trì, chúng ta có thể rút ra các nhận xét sau:
 
-\textbf{Trung bình:} Hà Nội có giá trị trung bình cao nhất (63.09), tiếp theo là Việt Trì (42.39) và Hạ Long (40.08).
-
-\textbf{Độ lệch chuẩn:} Hà Nội có độ lệch chuẩn cao nhất (40.26), cho thấy mức độ biến động lớn hơn so với Hạ Long (22.95) và Việt Trì (31.66).
-
-\textbf{Phân vị:} Các giá trị phân vị (Q1, Q2, Q3) của Hà Nội đều cao hơn so với Hạ Long và Việt Trì, phản ánh sự phân phối dữ liệu cao hơn.
-
-\textbf{Giá trị cực đại:} Hà Nội có giá trị cực đại cao nhất (217), trong khi Hạ Long và Việt Trì lần lượt là 163 và 178.
-
-\textbf{Phương sai:} Hà Nội có phương sai lớn nhất (1620.88), tiếp theo là Việt Trì (1002.69) và Hạ Long (527.01).
-
-\textbf{Độ nhọn và Độ lệch:} Việt Trì có độ nhọn (1.92) và độ lệch (1.24) cao nhất, cho thấy phân phối dữ liệu lệch về phía phải và có đỉnh cao hơn.
-
-\textbf{Hệ số biến thiên (CV):} Việt Trì có hệ số biến thiên cao nhất (0.74), chỉ ra mức độ biến động dữ liệu lớn hơn so với Hà Nội (0.638) và Hạ Long (0.572).
-
-\textbf{Tổng quan:} Hà Nội có giá trị trung bình cao nhất nhưng mức độ biến động và phân tán cũng lớn nhất, thể hiện sự đa dạng trong các giá trị đo lường. Việt Trì có sự biến động và phân tán dữ liệu khá cao, trong khi Hạ Long có dữ liệu ổn định hơn.
+Hà Nội có giá trị trung bình và mức độ biến động cao nhất trong ba thành phố. Việt Trì có độ nhọn và độ lệch cao nhất, cho thấy dữ liệu phân bố lệch và biến động lớn. Hạ Long có dữ liệu ổn định nhất với giá trị trung bình thấp nhất.
 
 
 \subsection{Công cụ}

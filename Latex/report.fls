@@ -1,4 +1,4 @@
-PWD C:\Users\21521\OneDrive\Desktop\w8_v2\IS403_O21_13\Latex
+PWD c:\Users\21521\OneDrive\Desktop\w8_v2\IS403_O21_13\Latex
 INPUT C:\Users\21521\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
 INPUT c:\Users\21521\OneDrive\Desktop\w8_v2\IS403_O21_13\Latex\report.tex
 OUTPUT report.log
@@ -123,6 +123,123 @@ INPUT D:\LATEX\tex\latex\multirow\multirow.sty
 INPUT D:\LATEX\tex\latex\multirow\multirow.sty
 INPUT D:\LATEX\tex\latex\titlesec\titlesec.sty
 INPUT D:\LATEX\tex\latex\titlesec\titlesec.sty
+INPUT D:\LATEX\tex\latex\adjustbox\adjustbox.sty
+INPUT D:\LATEX\tex\latex\adjustbox\adjustbox.sty
+INPUT D:\LATEX\tex\latex\xkeyval\xkeyval.sty
+INPUT D:\LATEX\tex\latex\xkeyval\xkeyval.sty
+INPUT D:\LATEX\tex\generic\xkeyval\xkeyval.tex
+INPUT D:\LATEX\tex\generic\xkeyval\xkvutils.tex
+INPUT D:\LATEX\tex\latex\adjustbox\adjcalc.sty
+INPUT D:\LATEX\tex\latex\adjustbox\adjcalc.sty
+INPUT D:\LATEX\tex\latex\adjustbox\trimclip.sty
+INPUT D:\LATEX\tex\latex\adjustbox\trimclip.sty
+INPUT D:\LATEX\tex\latex\collectbox\collectbox.sty
+INPUT D:\LATEX\tex\latex\collectbox\collectbox.sty
+INPUT D:\LATEX\tex\latex\adjustbox\tc-pdftex.def
+INPUT D:\LATEX\tex\latex\adjustbox\tc-pdftex.def
+INPUT D:\LATEX\tex\latex\adjustbox\tc-pdftex.def
+INPUT D:\LATEX\tex\latex\ifoddpage\ifoddpage.sty
+INPUT D:\LATEX\tex\latex\ifoddpage\ifoddpage.sty
+INPUT D:\LATEX\tex\latex\ifoddpage\ifoddpage.sty
+INPUT D:\LATEX\tex\latex\varwidth\varwidth.sty
+INPUT D:\LATEX\tex\latex\varwidth\varwidth.sty
+INPUT D:\LATEX\tex\latex\varwidth\varwidth.sty
+INPUT D:\LATEX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT D:\LATEX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT D:\LATEX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT D:\LATEX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT D:\LATEX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT D:\LATEX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT D:\LATEX\tex\generic\pgf\utilities\pgfutil-common.tex
+INPUT D:\LATEX\tex\generic\pgf\utilities\pgfutil-latex.def
+INPUT D:\LATEX\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT D:\LATEX\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT D:\LATEX\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT D:\LATEX\tex\generic\pgf\pgf.revision.tex
+INPUT D:\LATEX\tex\generic\pgf\pgf.revision.tex
+INPUT D:\LATEX\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT D:\LATEX\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT D:\LATEX\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT D:\LATEX\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT D:\LATEX\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT D:\LATEX\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT D:\LATEX\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT D:\LATEX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT D:\LATEX\tex\generic\pgf\utilities\pgfkeyslibraryfiltered.code.tex
+INPUT D:\LATEX\tex\generic\pgf\systemlayer\pgf.cfg
+INPUT D:\LATEX\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+INPUT D:\LATEX\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+INPUT D:\LATEX\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+INPUT D:\LATEX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT D:\LATEX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT D:\LATEX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT D:\LATEX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT D:\LATEX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT D:\LATEX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT D:\LATEX\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT D:\LATEX\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT D:\LATEX\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT D:\LATEX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT D:\LATEX\tex\generic\pgf\math\pgfmathutil.code.tex
+INPUT D:\LATEX\tex\generic\pgf\math\pgfmathparser.code.tex
+INPUT D:\LATEX\tex\generic\pgf\math\pgfmathfunctions.code.tex
+INPUT D:\LATEX\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex
+INPUT D:\LATEX\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex
+INPUT D:\LATEX\tex\generic\pgf\math\pgfmathfunctions.random.code.tex
+INPUT D:\LATEX\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex
+INPUT D:\LATEX\tex\generic\pgf\math\pgfmathfunctions.base.code.tex
+INPUT D:\LATEX\tex\generic\pgf\math\pgfmathfunctions.round.code.tex
+INPUT D:\LATEX\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex
+INPUT D:\LATEX\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex
+INPUT D:\LATEX\tex\generic\pgf\math\pgfmathcalc.code.tex
+INPUT D:\LATEX\tex\generic\pgf\math\pgfmathfloat.code.tex
+INPUT D:\LATEX\tex\generic\pgf\math\pgfint.code.tex
+INPUT D:\LATEX\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+INPUT D:\LATEX\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
+INPUT D:\LATEX\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
+INPUT D:\LATEX\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+INPUT D:\LATEX\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
+INPUT D:\LATEX\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
+INPUT D:\LATEX\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
+INPUT D:\LATEX\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
+INPUT D:\LATEX\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
+INPUT D:\LATEX\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+INPUT D:\LATEX\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
+INPUT D:\LATEX\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
+INPUT D:\LATEX\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
+INPUT D:\LATEX\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+INPUT D:\LATEX\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
+INPUT D:\LATEX\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
+INPUT D:\LATEX\tex\generic\pgf\basiclayer\pgfcorerdf.code.tex
+INPUT D:\LATEX\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+INPUT D:\LATEX\tex\generic\pgf\modules\pgfmoduleplot.code.tex
+INPUT D:\LATEX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT D:\LATEX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT D:\LATEX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT D:\LATEX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT D:\LATEX\tex\latex\pgf\utilities\pgffor.sty
+INPUT D:\LATEX\tex\latex\pgf\utilities\pgffor.sty
+INPUT D:\LATEX\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT D:\LATEX\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT D:\LATEX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT D:\LATEX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT D:\LATEX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT D:\LATEX\tex\latex\pgf\math\pgfmath.sty
+INPUT D:\LATEX\tex\latex\pgf\math\pgfmath.sty
+INPUT D:\LATEX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT D:\LATEX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT D:\LATEX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT D:\LATEX\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT D:\LATEX\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT D:\LATEX\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT D:\LATEX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT D:\LATEX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT D:\LATEX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT D:\LATEX\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT D:\LATEX\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT D:\LATEX\tex\generic\pgf\modules\pgfmodulematrix.code.tex
+INPUT D:\LATEX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT D:\LATEX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
 INPUT D:\LATEX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT D:\LATEX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT .\report.aux
@@ -178,7 +295,7 @@ INPUT .\sections\introduction.tex
 INPUT .\sections\introduction.tex
 INPUT .\sections\introduction.tex
 INPUT sections\introduction.tex
-INPUT D:\LATEX\fonts\tfm\vntex\urwvn\utmb8v.tfm
+INPUT D:\LATEX\fonts\tfm\vntex\urwvn\utmrc8v.tfm
 INPUT .\sections\relatedwork.tex
 INPUT .\sections\relatedwork.tex
 INPUT .\sections\relatedwork.tex
@@ -187,6 +304,7 @@ INPUT sections\relatedwork.tex
 OUTPUT report.pdf
 INPUT C:\Users\21521\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT D:\LATEX\fonts\enc\dvips\vntex\t5.enc
+INPUT D:\LATEX\fonts\vf\vntex\urwvn\utmrc8v.vf
 INPUT .\sections\materials.tex
 INPUT .\sections\materials.tex
 INPUT .\sections\materials.tex
@@ -206,55 +324,8 @@ INPUT D:\LATEX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT D:\LATEX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT D:\LATEX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
 INPUT D:\LATEX\fonts\tfm\vntex\urwvn\utmb8v.tfm
-INPUT D:\LATEX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT D:\LATEX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT D:\LATEX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
-INPUT D:\LATEX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT D:\LATEX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT .\img\final\Dataset\histogram.png
-INPUT .\img\final\Dataset\histogram.png
-INPUT .\img\final\Dataset\histogram.png
-INPUT .\img\final\Dataset\histogram.png
-INPUT .\img\final\Dataset\histogram.png
-INPUT .\img\final\Dataset\histogram.png
-INPUT .\img\final\Dataset\histogram.png
-INPUT .\img\final\Dataset\boxplot.png
-INPUT .\img\final\Dataset\boxplot.png
-INPUT .\img\final\Dataset\boxplot.png
-INPUT .\img\final\Dataset\boxplot.png
-INPUT .\img\final\Dataset\boxplot.png
-INPUT .\img\final\Dataset\boxplot.png
-INPUT .\img\final\Dataset\boxplot.png
-INPUT .\img\final\Dataset\histogram_hn.png
-INPUT .\img\final\Dataset\histogram_hn.png
-INPUT .\img\final\Dataset\histogram_hn.png
-INPUT .\img\final\Dataset\histogram_hn.png
-INPUT .\img\final\Dataset\histogram_hn.png
-INPUT .\img\final\Dataset\histogram_hn.png
-INPUT .\img\final\Dataset\histogram_hn.png
-INPUT .\img\final\Dataset\boxplot_hn.png
-INPUT .\img\final\Dataset\boxplot_hn.png
-INPUT .\img\final\Dataset\boxplot_hn.png
-INPUT .\img\final\Dataset\boxplot_hn.png
-INPUT .\img\final\Dataset\boxplot_hn.png
-INPUT .\img\final\Dataset\boxplot_hn.png
-INPUT .\img\final\Dataset\boxplot_hn.png
 INPUT D:\LATEX\fonts\vf\vntex\urwvn\utmrc8v.vf
 INPUT D:\LATEX\fonts\tfm\vntex\urwvn\utmr8v.tfm
-INPUT .\img\final\Dataset\histogram_vt.png
-INPUT .\img\final\Dataset\histogram_vt.png
-INPUT .\img\final\Dataset\histogram_vt.png
-INPUT .\img\final\Dataset\histogram_vt.png
-INPUT .\img\final\Dataset\histogram_vt.png
-INPUT .\img\final\Dataset\histogram_vt.png
-INPUT .\img\final\Dataset\histogram_vt.png
-INPUT .\img\final\Dataset\boxplot_vt.png
-INPUT .\img\final\Dataset\boxplot_vt.png
-INPUT .\img\final\Dataset\boxplot_vt.png
-INPUT .\img\final\Dataset\boxplot_vt.png
-INPUT .\img\final\Dataset\boxplot_vt.png
-INPUT .\img\final\Dataset\boxplot_vt.png
-INPUT .\img\final\Dataset\boxplot_vt.png
 INPUT .\sections\method.tex
 INPUT .\sections\method.tex
 INPUT .\sections\method.tex
@@ -265,23 +336,32 @@ INPUT .\Models\LinearRegression\content\LinearRegression.tex
 INPUT .\Models\LinearRegression\content\LinearRegression.tex
 INPUT .\Models\LinearRegression\content\LinearRegression.tex
 INPUT Models\LinearRegression\content\LinearRegression.tex
+INPUT D:\LATEX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT D:\LATEX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT D:\LATEX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT D:\LATEX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT D:\LATEX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT .\Models\Arima\content\Arima.tex
 INPUT .\Models\Arima\content\Arima.tex
 INPUT .\Models\Arima\content\Arima.tex
 INPUT .\Models\Arima\content\Arima.tex
 INPUT Models\Arima\content\Arima.tex
-INPUT D:\LATEX\fonts\tfm\vntex\urwvn\utmr8v.tfm
-INPUT D:\LATEX\fonts\tfm\vntex\urwvn\utmr8v.tfm
 INPUT .\Models\Var\content\Var.tex
 INPUT .\Models\Var\content\Var.tex
 INPUT .\Models\Var\content\Var.tex
 INPUT .\Models\Var\content\Var.tex
 INPUT Models\Var\content\Var.tex
+INPUT D:\LATEX\fonts\tfm\public\cm\cmbx10.tfm
+INPUT D:\LATEX\fonts\tfm\public\cm\cmbx7.tfm
+INPUT D:\LATEX\fonts\tfm\public\cm\cmbx5.tfm
+INPUT D:\LATEX\fonts\tfm\vntex\urwvn\utmr8v.tfm
+INPUT D:\LATEX\fonts\tfm\vntex\urwvn\utmr8v.tfm
 INPUT .\Models\RandomForest\content\RandomForest.tex
 INPUT .\Models\RandomForest\content\RandomForest.tex
 INPUT .\Models\RandomForest\content\RandomForest.tex
 INPUT .\Models\RandomForest\content\RandomForest.tex
 INPUT Models\RandomForest\content\RandomForest.tex
+INPUT D:\LATEX\fonts\tfm\vntex\urwvn\utmb8v.tfm
 INPUT .\Models\TiDE\content\TiDE.tex
 INPUT .\Models\TiDE\content\TiDE.tex
 INPUT .\Models\TiDE\content\TiDE.tex
@@ -294,6 +374,10 @@ INPUT .\img\TiDE.png
 INPUT .\img\TiDE.png
 INPUT .\img\TiDE.png
 INPUT .\img\TiDE.png
+INPUT D:\LATEX\tex\latex\vntex\t5pcr.fd
+INPUT D:\LATEX\tex\latex\vntex\t5pcr.fd
+INPUT D:\LATEX\tex\latex\vntex\t5pcr.fd
+INPUT D:\LATEX\fonts\tfm\vntex\urwvn\ucrr8v.tfm
 INPUT .\Models\RNN\content\RNN.tex
 INPUT .\Models\RNN\content\RNN.tex
 INPUT .\Models\RNN\content\RNN.tex
@@ -314,6 +398,13 @@ INPUT .\Models\MLP\content\MLP.tex
 INPUT .\Models\MLP\content\MLP.tex
 INPUT .\Models\MLP\content\MLP.tex
 INPUT Models\MLP\content\MLP.tex
+INPUT .\img\MLP.png
+INPUT .\img\MLP.png
+INPUT .\img\MLP.png
+INPUT .\img\MLP.png
+INPUT .\img\MLP.png
+INPUT .\img\MLP.png
+INPUT .\img\MLP.png
 INPUT .\Models\Autoformer\content\Autoformer.tex
 INPUT .\Models\Autoformer\content\Autoformer.tex
 INPUT .\Models\Autoformer\content\Autoformer.tex
@@ -324,11 +415,9 @@ INPUT .\sections\experiment.tex
 INPUT .\sections\experiment.tex
 INPUT .\sections\experiment.tex
 INPUT sections\experiment.tex
-INPUT .\Models\LinearRegression\results\LinearRegressionResult.tex
-INPUT .\Models\LinearRegression\results\LinearRegressionResult.tex
-INPUT .\Models\LinearRegression\results\LinearRegressionResult.tex
-INPUT .\Models\LinearRegression\results\LinearRegressionResult.tex
-INPUT Models\LinearRegression\results\LinearRegressionResult.tex
+INPUT .\Models\ResultAll.tex
+INPUT .\Models\ResultAll.tex
+INPUT Models\ResultAll.tex
 INPUT .\img\final\Linear Regression\90D\LN_7_3_HL.png
 INPUT .\img\final\Linear Regression\90D\LN_7_3_HL.png
 INPUT .\img\final\Linear Regression\90D\LN_7_3_HL.png
@@ -336,20 +425,6 @@ INPUT .\img\final\Linear Regression\90D\LN_7_3_HL.png
 INPUT .\img\final\Linear Regression\90D\LN_7_3_HL.png
 INPUT .\img\final\Linear Regression\90D\LN_7_3_HL.png
 INPUT .\img\final\Linear Regression\90D\LN_7_3_HL.png
-INPUT .\img\final\Linear Regression\90D\LN_7_3_HN.png
-INPUT .\img\final\Linear Regression\90D\LN_7_3_HN.png
-INPUT .\img\final\Linear Regression\90D\LN_7_3_HN.png
-INPUT .\img\final\Linear Regression\90D\LN_7_3_HN.png
-INPUT .\img\final\Linear Regression\90D\LN_7_3_HN.png
-INPUT .\img\final\Linear Regression\90D\LN_7_3_HN.png
-INPUT .\img\final\Linear Regression\90D\LN_7_3_HN.png
-INPUT .\img\final\Linear Regression\90D\LN_7_3_VT.png
-INPUT .\img\final\Linear Regression\90D\LN_7_3_VT.png
-INPUT .\img\final\Linear Regression\90D\LN_7_3_VT.png
-INPUT .\img\final\Linear Regression\90D\LN_7_3_VT.png
-INPUT .\img\final\Linear Regression\90D\LN_7_3_VT.png
-INPUT .\img\final\Linear Regression\90D\LN_7_3_VT.png
-INPUT .\img\final\Linear Regression\90D\LN_7_3_VT.png
 INPUT .\img\final\Linear Regression\90D\LN_8_2_HL.png
 INPUT .\img\final\Linear Regression\90D\LN_8_2_HL.png
 INPUT .\img\final\Linear Regression\90D\LN_8_2_HL.png
@@ -357,20 +432,6 @@ INPUT .\img\final\Linear Regression\90D\LN_8_2_HL.png
 INPUT .\img\final\Linear Regression\90D\LN_8_2_HL.png
 INPUT .\img\final\Linear Regression\90D\LN_8_2_HL.png
 INPUT .\img\final\Linear Regression\90D\LN_8_2_HL.png
-INPUT .\img\final\Linear Regression\90D\LN_8_2_HN.png
-INPUT .\img\final\Linear Regression\90D\LN_8_2_HN.png
-INPUT .\img\final\Linear Regression\90D\LN_8_2_HN.png
-INPUT .\img\final\Linear Regression\90D\LN_8_2_HN.png
-INPUT .\img\final\Linear Regression\90D\LN_8_2_HN.png
-INPUT .\img\final\Linear Regression\90D\LN_8_2_HN.png
-INPUT .\img\final\Linear Regression\90D\LN_8_2_HN.png
-INPUT .\img\final\Linear Regression\90D\LN_8_2_VT.png
-INPUT .\img\final\Linear Regression\90D\LN_8_2_VT.png
-INPUT .\img\final\Linear Regression\90D\LN_8_2_VT.png
-INPUT .\img\final\Linear Regression\90D\LN_8_2_VT.png
-INPUT .\img\final\Linear Regression\90D\LN_8_2_VT.png
-INPUT .\img\final\Linear Regression\90D\LN_8_2_VT.png
-INPUT .\img\final\Linear Regression\90D\LN_8_2_VT.png
 INPUT .\img\final\Linear Regression\90D\LN_9_1_HL.png
 INPUT .\img\final\Linear Regression\90D\LN_9_1_HL.png
 INPUT .\img\final\Linear Regression\90D\LN_9_1_HL.png
@@ -378,6 +439,20 @@ INPUT .\img\final\Linear Regression\90D\LN_9_1_HL.png
 INPUT .\img\final\Linear Regression\90D\LN_9_1_HL.png
 INPUT .\img\final\Linear Regression\90D\LN_9_1_HL.png
 INPUT .\img\final\Linear Regression\90D\LN_9_1_HL.png
+INPUT .\img\final\Linear Regression\90D\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\90D\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\90D\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\90D\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\90D\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\90D\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\90D\LN_7_3_HN.png
+INPUT .\img\final\Linear Regression\90D\LN_8_2_HN.png
+INPUT .\img\final\Linear Regression\90D\LN_8_2_HN.png
+INPUT .\img\final\Linear Regression\90D\LN_8_2_HN.png
+INPUT .\img\final\Linear Regression\90D\LN_8_2_HN.png
+INPUT .\img\final\Linear Regression\90D\LN_8_2_HN.png
+INPUT .\img\final\Linear Regression\90D\LN_8_2_HN.png
+INPUT .\img\final\Linear Regression\90D\LN_8_2_HN.png
 INPUT .\img\final\Linear Regression\90D\LN_9_1_HN.png
 INPUT .\img\final\Linear Regression\90D\LN_9_1_HN.png
 INPUT .\img\final\Linear Regression\90D\LN_9_1_HN.png
@@ -385,6 +460,20 @@ INPUT .\img\final\Linear Regression\90D\LN_9_1_HN.png
 INPUT .\img\final\Linear Regression\90D\LN_9_1_HN.png
 INPUT .\img\final\Linear Regression\90D\LN_9_1_HN.png
 INPUT .\img\final\Linear Regression\90D\LN_9_1_HN.png
+INPUT .\img\final\Linear Regression\90D\LN_7_3_VT.png
+INPUT .\img\final\Linear Regression\90D\LN_7_3_VT.png
+INPUT .\img\final\Linear Regression\90D\LN_7_3_VT.png
+INPUT .\img\final\Linear Regression\90D\LN_7_3_VT.png
+INPUT .\img\final\Linear Regression\90D\LN_7_3_VT.png
+INPUT .\img\final\Linear Regression\90D\LN_7_3_VT.png
+INPUT .\img\final\Linear Regression\90D\LN_7_3_VT.png
+INPUT .\img\final\Linear Regression\90D\LN_8_2_VT.png
+INPUT .\img\final\Linear Regression\90D\LN_8_2_VT.png
+INPUT .\img\final\Linear Regression\90D\LN_8_2_VT.png
+INPUT .\img\final\Linear Regression\90D\LN_8_2_VT.png
+INPUT .\img\final\Linear Regression\90D\LN_8_2_VT.png
+INPUT .\img\final\Linear Regression\90D\LN_8_2_VT.png
+INPUT .\img\final\Linear Regression\90D\LN_8_2_VT.png
 INPUT .\img\final\Linear Regression\90D\LN_9_1_VT.png
 INPUT .\img\final\Linear Regression\90D\LN_9_1_VT.png
 INPUT .\img\final\Linear Regression\90D\LN_9_1_VT.png
@@ -392,11 +481,6 @@ INPUT .\img\final\Linear Regression\90D\LN_9_1_VT.png
 INPUT .\img\final\Linear Regression\90D\LN_9_1_VT.png
 INPUT .\img\final\Linear Regression\90D\LN_9_1_VT.png
 INPUT .\img\final\Linear Regression\90D\LN_9_1_VT.png
-INPUT .\Models\Arima\results\ArimaResult.tex
-INPUT .\Models\Arima\results\ArimaResult.tex
-INPUT .\Models\Arima\results\ArimaResult.tex
-INPUT .\Models\Arima\results\ArimaResult.tex
-INPUT Models\Arima\results\ArimaResult.tex
 INPUT .\img\final\ARIMA\90D\ARIMA_7_3_HL.png
 INPUT .\img\final\ARIMA\90D\ARIMA_7_3_HL.png
 INPUT .\img\final\ARIMA\90D\ARIMA_7_3_HL.png
@@ -404,20 +488,6 @@ INPUT .\img\final\ARIMA\90D\ARIMA_7_3_HL.png
 INPUT .\img\final\ARIMA\90D\ARIMA_7_3_HL.png
 INPUT .\img\final\ARIMA\90D\ARIMA_7_3_HL.png
 INPUT .\img\final\ARIMA\90D\ARIMA_7_3_HL.png
-INPUT .\img\final\ARIMA\90D\ARIMA_7_3_HN.png
-INPUT .\img\final\ARIMA\90D\ARIMA_7_3_HN.png
-INPUT .\img\final\ARIMA\90D\ARIMA_7_3_HN.png
-INPUT .\img\final\ARIMA\90D\ARIMA_7_3_HN.png
-INPUT .\img\final\ARIMA\90D\ARIMA_7_3_HN.png
-INPUT .\img\final\ARIMA\90D\ARIMA_7_3_HN.png
-INPUT .\img\final\ARIMA\90D\ARIMA_7_3_HN.png
-INPUT .\img\final\ARIMA\90D\ARIMA_7_3_VT.png
-INPUT .\img\final\ARIMA\90D\ARIMA_7_3_VT.png
-INPUT .\img\final\ARIMA\90D\ARIMA_7_3_VT.png
-INPUT .\img\final\ARIMA\90D\ARIMA_7_3_VT.png
-INPUT .\img\final\ARIMA\90D\ARIMA_7_3_VT.png
-INPUT .\img\final\ARIMA\90D\ARIMA_7_3_VT.png
-INPUT .\img\final\ARIMA\90D\ARIMA_7_3_VT.png
 INPUT .\img\final\ARIMA\90D\ARIMA_8_2_HL.png
 INPUT .\img\final\ARIMA\90D\ARIMA_8_2_HL.png
 INPUT .\img\final\ARIMA\90D\ARIMA_8_2_HL.png
@@ -425,20 +495,6 @@ INPUT .\img\final\ARIMA\90D\ARIMA_8_2_HL.png
 INPUT .\img\final\ARIMA\90D\ARIMA_8_2_HL.png
 INPUT .\img\final\ARIMA\90D\ARIMA_8_2_HL.png
 INPUT .\img\final\ARIMA\90D\ARIMA_8_2_HL.png
-INPUT .\img\final\ARIMA\90D\ARIMA_8_2_HN.png
-INPUT .\img\final\ARIMA\90D\ARIMA_8_2_HN.png
-INPUT .\img\final\ARIMA\90D\ARIMA_8_2_HN.png
-INPUT .\img\final\ARIMA\90D\ARIMA_8_2_HN.png
-INPUT .\img\final\ARIMA\90D\ARIMA_8_2_HN.png
-INPUT .\img\final\ARIMA\90D\ARIMA_8_2_HN.png
-INPUT .\img\final\ARIMA\90D\ARIMA_8_2_HN.png
-INPUT .\img\final\ARIMA\90D\ARIMA_8_2_VT.png
-INPUT .\img\final\ARIMA\90D\ARIMA_8_2_VT.png
-INPUT .\img\final\ARIMA\90D\ARIMA_8_2_VT.png
-INPUT .\img\final\ARIMA\90D\ARIMA_8_2_VT.png
-INPUT .\img\final\ARIMA\90D\ARIMA_8_2_VT.png
-INPUT .\img\final\ARIMA\90D\ARIMA_8_2_VT.png
-INPUT .\img\final\ARIMA\90D\ARIMA_8_2_VT.png
 INPUT .\img\final\ARIMA\90D\ARIMA_9_1_HL.png
 INPUT .\img\final\ARIMA\90D\ARIMA_9_1_HL.png
 INPUT .\img\final\ARIMA\90D\ARIMA_9_1_HL.png
@@ -446,6 +502,20 @@ INPUT .\img\final\ARIMA\90D\ARIMA_9_1_HL.png
 INPUT .\img\final\ARIMA\90D\ARIMA_9_1_HL.png
 INPUT .\img\final\ARIMA\90D\ARIMA_9_1_HL.png
 INPUT .\img\final\ARIMA\90D\ARIMA_9_1_HL.png
+INPUT .\img\final\ARIMA\90D\ARIMA_7_3_HN.png
+INPUT .\img\final\ARIMA\90D\ARIMA_7_3_HN.png
+INPUT .\img\final\ARIMA\90D\ARIMA_7_3_HN.png
+INPUT .\img\final\ARIMA\90D\ARIMA_7_3_HN.png
+INPUT .\img\final\ARIMA\90D\ARIMA_7_3_HN.png
+INPUT .\img\final\ARIMA\90D\ARIMA_7_3_HN.png
+INPUT .\img\final\ARIMA\90D\ARIMA_7_3_HN.png
+INPUT .\img\final\ARIMA\90D\ARIMA_8_2_HN.png
+INPUT .\img\final\ARIMA\90D\ARIMA_8_2_HN.png
+INPUT .\img\final\ARIMA\90D\ARIMA_8_2_HN.png
+INPUT .\img\final\ARIMA\90D\ARIMA_8_2_HN.png
+INPUT .\img\final\ARIMA\90D\ARIMA_8_2_HN.png
+INPUT .\img\final\ARIMA\90D\ARIMA_8_2_HN.png
+INPUT .\img\final\ARIMA\90D\ARIMA_8_2_HN.png
 INPUT .\img\final\ARIMA\90D\ARIMA_9_1_HN.png
 INPUT .\img\final\ARIMA\90D\ARIMA_9_1_HN.png
 INPUT .\img\final\ARIMA\90D\ARIMA_9_1_HN.png
@@ -453,6 +523,20 @@ INPUT .\img\final\ARIMA\90D\ARIMA_9_1_HN.png
 INPUT .\img\final\ARIMA\90D\ARIMA_9_1_HN.png
 INPUT .\img\final\ARIMA\90D\ARIMA_9_1_HN.png
 INPUT .\img\final\ARIMA\90D\ARIMA_9_1_HN.png
+INPUT .\img\final\ARIMA\90D\ARIMA_7_3_VT.png
+INPUT .\img\final\ARIMA\90D\ARIMA_7_3_VT.png
+INPUT .\img\final\ARIMA\90D\ARIMA_7_3_VT.png
+INPUT .\img\final\ARIMA\90D\ARIMA_7_3_VT.png
+INPUT .\img\final\ARIMA\90D\ARIMA_7_3_VT.png
+INPUT .\img\final\ARIMA\90D\ARIMA_7_3_VT.png
+INPUT .\img\final\ARIMA\90D\ARIMA_7_3_VT.png
+INPUT .\img\final\ARIMA\90D\ARIMA_8_2_VT.png
+INPUT .\img\final\ARIMA\90D\ARIMA_8_2_VT.png
+INPUT .\img\final\ARIMA\90D\ARIMA_8_2_VT.png
+INPUT .\img\final\ARIMA\90D\ARIMA_8_2_VT.png
+INPUT .\img\final\ARIMA\90D\ARIMA_8_2_VT.png
+INPUT .\img\final\ARIMA\90D\ARIMA_8_2_VT.png
+INPUT .\img\final\ARIMA\90D\ARIMA_8_2_VT.png
 INPUT .\img\final\ARIMA\90D\ARIMA_9_1_VT.png
 INPUT .\img\final\ARIMA\90D\ARIMA_9_1_VT.png
 INPUT .\img\final\ARIMA\90D\ARIMA_9_1_VT.png
@@ -460,11 +544,6 @@ INPUT .\img\final\ARIMA\90D\ARIMA_9_1_VT.png
 INPUT .\img\final\ARIMA\90D\ARIMA_9_1_VT.png
 INPUT .\img\final\ARIMA\90D\ARIMA_9_1_VT.png
 INPUT .\img\final\ARIMA\90D\ARIMA_9_1_VT.png
-INPUT .\Models\Var\results\VarResult.tex
-INPUT .\Models\Var\results\VarResult.tex
-INPUT .\Models\Var\results\VarResult.tex
-INPUT .\Models\Var\results\VarResult.tex
-INPUT Models\Var\results\VarResult.tex
 INPUT .\img\final\VAR\90D\VAR_7_3_HL.png
 INPUT .\img\final\VAR\90D\VAR_7_3_HL.png
 INPUT .\img\final\VAR\90D\VAR_7_3_HL.png
@@ -472,20 +551,6 @@ INPUT .\img\final\VAR\90D\VAR_7_3_HL.png
 INPUT .\img\final\VAR\90D\VAR_7_3_HL.png
 INPUT .\img\final\VAR\90D\VAR_7_3_HL.png
 INPUT .\img\final\VAR\90D\VAR_7_3_HL.png
-INPUT .\img\final\VAR\90D\VAR_7_3_HN.png
-INPUT .\img\final\VAR\90D\VAR_7_3_HN.png
-INPUT .\img\final\VAR\90D\VAR_7_3_HN.png
-INPUT .\img\final\VAR\90D\VAR_7_3_HN.png
-INPUT .\img\final\VAR\90D\VAR_7_3_HN.png
-INPUT .\img\final\VAR\90D\VAR_7_3_HN.png
-INPUT .\img\final\VAR\90D\VAR_7_3_HN.png
-INPUT .\img\final\VAR\90D\VAR_7_3_VT.png
-INPUT .\img\final\VAR\90D\VAR_7_3_VT.png
-INPUT .\img\final\VAR\90D\VAR_7_3_VT.png
-INPUT .\img\final\VAR\90D\VAR_7_3_VT.png
-INPUT .\img\final\VAR\90D\VAR_7_3_VT.png
-INPUT .\img\final\VAR\90D\VAR_7_3_VT.png
-INPUT .\img\final\VAR\90D\VAR_7_3_VT.png
 INPUT .\img\final\VAR\90D\VAR_8_2_HL.png
 INPUT .\img\final\VAR\90D\VAR_8_2_HL.png
 INPUT .\img\final\VAR\90D\VAR_8_2_HL.png
@@ -493,20 +558,6 @@ INPUT .\img\final\VAR\90D\VAR_8_2_HL.png
 INPUT .\img\final\VAR\90D\VAR_8_2_HL.png
 INPUT .\img\final\VAR\90D\VAR_8_2_HL.png
 INPUT .\img\final\VAR\90D\VAR_8_2_HL.png
-INPUT .\img\final\VAR\90D\VAR_8_2_HN.png
-INPUT .\img\final\VAR\90D\VAR_8_2_HN.png
-INPUT .\img\final\VAR\90D\VAR_8_2_HN.png
-INPUT .\img\final\VAR\90D\VAR_8_2_HN.png
-INPUT .\img\final\VAR\90D\VAR_8_2_HN.png
-INPUT .\img\final\VAR\90D\VAR_8_2_HN.png
-INPUT .\img\final\VAR\90D\VAR_8_2_HN.png
-INPUT .\img\final\VAR\90D\VAR_8_2_VT.png
-INPUT .\img\final\VAR\90D\VAR_8_2_VT.png
-INPUT .\img\final\VAR\90D\VAR_8_2_VT.png
-INPUT .\img\final\VAR\90D\VAR_8_2_VT.png
-INPUT .\img\final\VAR\90D\VAR_8_2_VT.png
-INPUT .\img\final\VAR\90D\VAR_8_2_VT.png
-INPUT .\img\final\VAR\90D\VAR_8_2_VT.png
 INPUT .\img\final\VAR\90D\VAR_9_1_HL.png
 INPUT .\img\final\VAR\90D\VAR_9_1_HL.png
 INPUT .\img\final\VAR\90D\VAR_9_1_HL.png
@@ -514,6 +565,20 @@ INPUT .\img\final\VAR\90D\VAR_9_1_HL.png
 INPUT .\img\final\VAR\90D\VAR_9_1_HL.png
 INPUT .\img\final\VAR\90D\VAR_9_1_HL.png
 INPUT .\img\final\VAR\90D\VAR_9_1_HL.png
+INPUT .\img\final\VAR\90D\VAR_7_3_HN.png
+INPUT .\img\final\VAR\90D\VAR_7_3_HN.png
+INPUT .\img\final\VAR\90D\VAR_7_3_HN.png
+INPUT .\img\final\VAR\90D\VAR_7_3_HN.png
+INPUT .\img\final\VAR\90D\VAR_7_3_HN.png
+INPUT .\img\final\VAR\90D\VAR_7_3_HN.png
+INPUT .\img\final\VAR\90D\VAR_7_3_HN.png
+INPUT .\img\final\VAR\90D\VAR_8_2_HN.png
+INPUT .\img\final\VAR\90D\VAR_8_2_HN.png
+INPUT .\img\final\VAR\90D\VAR_8_2_HN.png
+INPUT .\img\final\VAR\90D\VAR_8_2_HN.png
+INPUT .\img\final\VAR\90D\VAR_8_2_HN.png
+INPUT .\img\final\VAR\90D\VAR_8_2_HN.png
+INPUT .\img\final\VAR\90D\VAR_8_2_HN.png
 INPUT .\img\final\VAR\90D\VAR_9_1_HN.png
 INPUT .\img\final\VAR\90D\VAR_9_1_HN.png
 INPUT .\img\final\VAR\90D\VAR_9_1_HN.png
@@ -521,6 +586,20 @@ INPUT .\img\final\VAR\90D\VAR_9_1_HN.png
 INPUT .\img\final\VAR\90D\VAR_9_1_HN.png
 INPUT .\img\final\VAR\90D\VAR_9_1_HN.png
 INPUT .\img\final\VAR\90D\VAR_9_1_HN.png
+INPUT .\img\final\VAR\90D\VAR_7_3_VT.png
+INPUT .\img\final\VAR\90D\VAR_7_3_VT.png
+INPUT .\img\final\VAR\90D\VAR_7_3_VT.png
+INPUT .\img\final\VAR\90D\VAR_7_3_VT.png
+INPUT .\img\final\VAR\90D\VAR_7_3_VT.png
+INPUT .\img\final\VAR\90D\VAR_7_3_VT.png
+INPUT .\img\final\VAR\90D\VAR_7_3_VT.png
+INPUT .\img\final\VAR\90D\VAR_8_2_VT.png
+INPUT .\img\final\VAR\90D\VAR_8_2_VT.png
+INPUT .\img\final\VAR\90D\VAR_8_2_VT.png
+INPUT .\img\final\VAR\90D\VAR_8_2_VT.png
+INPUT .\img\final\VAR\90D\VAR_8_2_VT.png
+INPUT .\img\final\VAR\90D\VAR_8_2_VT.png
+INPUT .\img\final\VAR\90D\VAR_8_2_VT.png
 INPUT .\img\final\VAR\90D\VAR_9_1_VT.png
 INPUT .\img\final\VAR\90D\VAR_9_1_VT.png
 INPUT .\img\final\VAR\90D\VAR_9_1_VT.png
@@ -528,11 +607,6 @@ INPUT .\img\final\VAR\90D\VAR_9_1_VT.png
 INPUT .\img\final\VAR\90D\VAR_9_1_VT.png
 INPUT .\img\final\VAR\90D\VAR_9_1_VT.png
 INPUT .\img\final\VAR\90D\VAR_9_1_VT.png
-INPUT .\Models\RandomForest\results\RandomForestResult.tex
-INPUT .\Models\RandomForest\results\RandomForestResult.tex
-INPUT .\Models\RandomForest\results\RandomForestResult.tex
-INPUT .\Models\RandomForest\results\RandomForestResult.tex
-INPUT Models\RandomForest\results\RandomForestResult.tex
 INPUT .\img\final\RF\90D\RF_7_3_HL.png
 INPUT .\img\final\RF\90D\RF_7_3_HL.png
 INPUT .\img\final\RF\90D\RF_7_3_HL.png
@@ -540,20 +614,6 @@ INPUT .\img\final\RF\90D\RF_7_3_HL.png
 INPUT .\img\final\RF\90D\RF_7_3_HL.png
 INPUT .\img\final\RF\90D\RF_7_3_HL.png
 INPUT .\img\final\RF\90D\RF_7_3_HL.png
-INPUT .\img\final\RF\90D\RF_7_3_HN.png
-INPUT .\img\final\RF\90D\RF_7_3_HN.png
-INPUT .\img\final\RF\90D\RF_7_3_HN.png
-INPUT .\img\final\RF\90D\RF_7_3_HN.png
-INPUT .\img\final\RF\90D\RF_7_3_HN.png
-INPUT .\img\final\RF\90D\RF_7_3_HN.png
-INPUT .\img\final\RF\90D\RF_7_3_HN.png
-INPUT .\img\final\RF\90D\RF_7_3_VT.png
-INPUT .\img\final\RF\90D\RF_7_3_VT.png
-INPUT .\img\final\RF\90D\RF_7_3_VT.png
-INPUT .\img\final\RF\90D\RF_7_3_VT.png
-INPUT .\img\final\RF\90D\RF_7_3_VT.png
-INPUT .\img\final\RF\90D\RF_7_3_VT.png
-INPUT .\img\final\RF\90D\RF_7_3_VT.png
 INPUT .\img\final\RF\90D\RF_8_2_HL.png
 INPUT .\img\final\RF\90D\RF_8_2_HL.png
 INPUT .\img\final\RF\90D\RF_8_2_HL.png
@@ -561,20 +621,6 @@ INPUT .\img\final\RF\90D\RF_8_2_HL.png
 INPUT .\img\final\RF\90D\RF_8_2_HL.png
 INPUT .\img\final\RF\90D\RF_8_2_HL.png
 INPUT .\img\final\RF\90D\RF_8_2_HL.png
-INPUT .\img\final\RF\90D\RF_8_2_HN.png
-INPUT .\img\final\RF\90D\RF_8_2_HN.png
-INPUT .\img\final\RF\90D\RF_8_2_HN.png
-INPUT .\img\final\RF\90D\RF_8_2_HN.png
-INPUT .\img\final\RF\90D\RF_8_2_HN.png
-INPUT .\img\final\RF\90D\RF_8_2_HN.png
-INPUT .\img\final\RF\90D\RF_8_2_HN.png
-INPUT .\img\final\RF\90D\RF_8_2_VT.png
-INPUT .\img\final\RF\90D\RF_8_2_VT.png
-INPUT .\img\final\RF\90D\RF_8_2_VT.png
-INPUT .\img\final\RF\90D\RF_8_2_VT.png
-INPUT .\img\final\RF\90D\RF_8_2_VT.png
-INPUT .\img\final\RF\90D\RF_8_2_VT.png
-INPUT .\img\final\RF\90D\RF_8_2_VT.png
 INPUT .\img\final\RF\90D\RF_9_1_HL.png
 INPUT .\img\final\RF\90D\RF_9_1_HL.png
 INPUT .\img\final\RF\90D\RF_9_1_HL.png
@@ -582,6 +628,20 @@ INPUT .\img\final\RF\90D\RF_9_1_HL.png
 INPUT .\img\final\RF\90D\RF_9_1_HL.png
 INPUT .\img\final\RF\90D\RF_9_1_HL.png
 INPUT .\img\final\RF\90D\RF_9_1_HL.png
+INPUT .\img\final\RF\90D\RF_7_3_HN.png
+INPUT .\img\final\RF\90D\RF_7_3_HN.png
+INPUT .\img\final\RF\90D\RF_7_3_HN.png
+INPUT .\img\final\RF\90D\RF_7_3_HN.png
+INPUT .\img\final\RF\90D\RF_7_3_HN.png
+INPUT .\img\final\RF\90D\RF_7_3_HN.png
+INPUT .\img\final\RF\90D\RF_7_3_HN.png
+INPUT .\img\final\RF\90D\RF_8_2_HN.png
+INPUT .\img\final\RF\90D\RF_8_2_HN.png
+INPUT .\img\final\RF\90D\RF_8_2_HN.png
+INPUT .\img\final\RF\90D\RF_8_2_HN.png
+INPUT .\img\final\RF\90D\RF_8_2_HN.png
+INPUT .\img\final\RF\90D\RF_8_2_HN.png
+INPUT .\img\final\RF\90D\RF_8_2_HN.png
 INPUT .\img\final\RF\90D\RF_9_1_HN.png
 INPUT .\img\final\RF\90D\RF_9_1_HN.png
 INPUT .\img\final\RF\90D\RF_9_1_HN.png
@@ -589,6 +649,20 @@ INPUT .\img\final\RF\90D\RF_9_1_HN.png
 INPUT .\img\final\RF\90D\RF_9_1_HN.png
 INPUT .\img\final\RF\90D\RF_9_1_HN.png
 INPUT .\img\final\RF\90D\RF_9_1_HN.png
+INPUT .\img\final\RF\90D\RF_7_3_VT.png
+INPUT .\img\final\RF\90D\RF_7_3_VT.png
+INPUT .\img\final\RF\90D\RF_7_3_VT.png
+INPUT .\img\final\RF\90D\RF_7_3_VT.png
+INPUT .\img\final\RF\90D\RF_7_3_VT.png
+INPUT .\img\final\RF\90D\RF_7_3_VT.png
+INPUT .\img\final\RF\90D\RF_7_3_VT.png
+INPUT .\img\final\RF\90D\RF_8_2_VT.png
+INPUT .\img\final\RF\90D\RF_8_2_VT.png
+INPUT .\img\final\RF\90D\RF_8_2_VT.png
+INPUT .\img\final\RF\90D\RF_8_2_VT.png
+INPUT .\img\final\RF\90D\RF_8_2_VT.png
+INPUT .\img\final\RF\90D\RF_8_2_VT.png
+INPUT .\img\final\RF\90D\RF_8_2_VT.png
 INPUT .\img\final\RF\90D\RF_9_1_VT.png
 INPUT .\img\final\RF\90D\RF_9_1_VT.png
 INPUT .\img\final\RF\90D\RF_9_1_VT.png
@@ -596,11 +670,6 @@ INPUT .\img\final\RF\90D\RF_9_1_VT.png
 INPUT .\img\final\RF\90D\RF_9_1_VT.png
 INPUT .\img\final\RF\90D\RF_9_1_VT.png
 INPUT .\img\final\RF\90D\RF_9_1_VT.png
-INPUT .\Models\RNN\results\RNNResult.tex
-INPUT .\Models\RNN\results\RNNResult.tex
-INPUT .\Models\RNN\results\RNNResult.tex
-INPUT .\Models\RNN\results\RNNResult.tex
-INPUT Models\RNN\results\RNNResult.tex
 INPUT .\img\final\RNN\90D\RNN_7_3_HL.png
 INPUT .\img\final\RNN\90D\RNN_7_3_HL.png
 INPUT .\img\final\RNN\90D\RNN_7_3_HL.png
@@ -608,20 +677,6 @@ INPUT .\img\final\RNN\90D\RNN_7_3_HL.png
 INPUT .\img\final\RNN\90D\RNN_7_3_HL.png
 INPUT .\img\final\RNN\90D\RNN_7_3_HL.png
 INPUT .\img\final\RNN\90D\RNN_7_3_HL.png
-INPUT .\img\final\RNN\90D\RNN_7_3_HN.png
-INPUT .\img\final\RNN\90D\RNN_7_3_HN.png
-INPUT .\img\final\RNN\90D\RNN_7_3_HN.png
-INPUT .\img\final\RNN\90D\RNN_7_3_HN.png
-INPUT .\img\final\RNN\90D\RNN_7_3_HN.png
-INPUT .\img\final\RNN\90D\RNN_7_3_HN.png
-INPUT .\img\final\RNN\90D\RNN_7_3_HN.png
-INPUT .\img\final\RNN\90D\RNN_7_3_VT.png
-INPUT .\img\final\RNN\90D\RNN_7_3_VT.png
-INPUT .\img\final\RNN\90D\RNN_7_3_VT.png
-INPUT .\img\final\RNN\90D\RNN_7_3_VT.png
-INPUT .\img\final\RNN\90D\RNN_7_3_VT.png
-INPUT .\img\final\RNN\90D\RNN_7_3_VT.png
-INPUT .\img\final\RNN\90D\RNN_7_3_VT.png
 INPUT .\img\final\RNN\90D\RNN_8_2_HL.png
 INPUT .\img\final\RNN\90D\RNN_8_2_HL.png
 INPUT .\img\final\RNN\90D\RNN_8_2_HL.png
@@ -629,20 +684,6 @@ INPUT .\img\final\RNN\90D\RNN_8_2_HL.png
 INPUT .\img\final\RNN\90D\RNN_8_2_HL.png
 INPUT .\img\final\RNN\90D\RNN_8_2_HL.png
 INPUT .\img\final\RNN\90D\RNN_8_2_HL.png
-INPUT .\img\final\RNN\90D\RNN_8_2_HN.png
-INPUT .\img\final\RNN\90D\RNN_8_2_HN.png
-INPUT .\img\final\RNN\90D\RNN_8_2_HN.png
-INPUT .\img\final\RNN\90D\RNN_8_2_HN.png
-INPUT .\img\final\RNN\90D\RNN_8_2_HN.png
-INPUT .\img\final\RNN\90D\RNN_8_2_HN.png
-INPUT .\img\final\RNN\90D\RNN_8_2_HN.png
-INPUT .\img\final\RNN\90D\RNN_8_2_VT.png
-INPUT .\img\final\RNN\90D\RNN_8_2_VT.png
-INPUT .\img\final\RNN\90D\RNN_8_2_VT.png
-INPUT .\img\final\RNN\90D\RNN_8_2_VT.png
-INPUT .\img\final\RNN\90D\RNN_8_2_VT.png
-INPUT .\img\final\RNN\90D\RNN_8_2_VT.png
-INPUT .\img\final\RNN\90D\RNN_8_2_VT.png
 INPUT .\img\final\RNN\90D\RNN_9_1_HL.png
 INPUT .\img\final\RNN\90D\RNN_9_1_HL.png
 INPUT .\img\final\RNN\90D\RNN_9_1_HL.png
@@ -650,6 +691,20 @@ INPUT .\img\final\RNN\90D\RNN_9_1_HL.png
 INPUT .\img\final\RNN\90D\RNN_9_1_HL.png
 INPUT .\img\final\RNN\90D\RNN_9_1_HL.png
 INPUT .\img\final\RNN\90D\RNN_9_1_HL.png
+INPUT .\img\final\RNN\90D\RNN_7_3_HN.png
+INPUT .\img\final\RNN\90D\RNN_7_3_HN.png
+INPUT .\img\final\RNN\90D\RNN_7_3_HN.png
+INPUT .\img\final\RNN\90D\RNN_7_3_HN.png
+INPUT .\img\final\RNN\90D\RNN_7_3_HN.png
+INPUT .\img\final\RNN\90D\RNN_7_3_HN.png
+INPUT .\img\final\RNN\90D\RNN_7_3_HN.png
+INPUT .\img\final\RNN\90D\RNN_8_2_HN.png
+INPUT .\img\final\RNN\90D\RNN_8_2_HN.png
+INPUT .\img\final\RNN\90D\RNN_8_2_HN.png
+INPUT .\img\final\RNN\90D\RNN_8_2_HN.png
+INPUT .\img\final\RNN\90D\RNN_8_2_HN.png
+INPUT .\img\final\RNN\90D\RNN_8_2_HN.png
+INPUT .\img\final\RNN\90D\RNN_8_2_HN.png
 INPUT .\img\final\RNN\90D\RNN_9_1_HN.png
 INPUT .\img\final\RNN\90D\RNN_9_1_HN.png
 INPUT .\img\final\RNN\90D\RNN_9_1_HN.png
@@ -657,6 +712,20 @@ INPUT .\img\final\RNN\90D\RNN_9_1_HN.png
 INPUT .\img\final\RNN\90D\RNN_9_1_HN.png
 INPUT .\img\final\RNN\90D\RNN_9_1_HN.png
 INPUT .\img\final\RNN\90D\RNN_9_1_HN.png
+INPUT .\img\final\RNN\90D\RNN_7_3_VT.png
+INPUT .\img\final\RNN\90D\RNN_7_3_VT.png
+INPUT .\img\final\RNN\90D\RNN_7_3_VT.png
+INPUT .\img\final\RNN\90D\RNN_7_3_VT.png
+INPUT .\img\final\RNN\90D\RNN_7_3_VT.png
+INPUT .\img\final\RNN\90D\RNN_7_3_VT.png
+INPUT .\img\final\RNN\90D\RNN_7_3_VT.png
+INPUT .\img\final\RNN\90D\RNN_8_2_VT.png
+INPUT .\img\final\RNN\90D\RNN_8_2_VT.png
+INPUT .\img\final\RNN\90D\RNN_8_2_VT.png
+INPUT .\img\final\RNN\90D\RNN_8_2_VT.png
+INPUT .\img\final\RNN\90D\RNN_8_2_VT.png
+INPUT .\img\final\RNN\90D\RNN_8_2_VT.png
+INPUT .\img\final\RNN\90D\RNN_8_2_VT.png
 INPUT .\img\final\RNN\90D\RNN_9_1_VT.png
 INPUT .\img\final\RNN\90D\RNN_9_1_VT.png
 INPUT .\img\final\RNN\90D\RNN_9_1_VT.png
@@ -664,11 +733,6 @@ INPUT .\img\final\RNN\90D\RNN_9_1_VT.png
 INPUT .\img\final\RNN\90D\RNN_9_1_VT.png
 INPUT .\img\final\RNN\90D\RNN_9_1_VT.png
 INPUT .\img\final\RNN\90D\RNN_9_1_VT.png
-INPUT .\Models\MLP\results\MLPResult.tex
-INPUT .\Models\MLP\results\MLPResult.tex
-INPUT .\Models\MLP\results\MLPResult.tex
-INPUT .\Models\MLP\results\MLPResult.tex
-INPUT Models\MLP\results\MLPResult.tex
 INPUT .\img\final\MLP\90D\MLP_7_3_HL.png
 INPUT .\img\final\MLP\90D\MLP_7_3_HL.png
 INPUT .\img\final\MLP\90D\MLP_7_3_HL.png
@@ -676,20 +740,6 @@ INPUT .\img\final\MLP\90D\MLP_7_3_HL.png
 INPUT .\img\final\MLP\90D\MLP_7_3_HL.png
 INPUT .\img\final\MLP\90D\MLP_7_3_HL.png
 INPUT .\img\final\MLP\90D\MLP_7_3_HL.png
-INPUT .\img\final\MLP\90D\MLP_7_3_HN.png
-INPUT .\img\final\MLP\90D\MLP_7_3_HN.png
-INPUT .\img\final\MLP\90D\MLP_7_3_HN.png
-INPUT .\img\final\MLP\90D\MLP_7_3_HN.png
-INPUT .\img\final\MLP\90D\MLP_7_3_HN.png
-INPUT .\img\final\MLP\90D\MLP_7_3_HN.png
-INPUT .\img\final\MLP\90D\MLP_7_3_HN.png
-INPUT .\img\final\MLP\90D\MLP_7_3_VT.png
-INPUT .\img\final\MLP\90D\MLP_7_3_VT.png
-INPUT .\img\final\MLP\90D\MLP_7_3_VT.png
-INPUT .\img\final\MLP\90D\MLP_7_3_VT.png
-INPUT .\img\final\MLP\90D\MLP_7_3_VT.png
-INPUT .\img\final\MLP\90D\MLP_7_3_VT.png
-INPUT .\img\final\MLP\90D\MLP_7_3_VT.png
 INPUT .\img\final\MLP\90D\MLP_8_2_HL.png
 INPUT .\img\final\MLP\90D\MLP_8_2_HL.png
 INPUT .\img\final\MLP\90D\MLP_8_2_HL.png
@@ -697,20 +747,6 @@ INPUT .\img\final\MLP\90D\MLP_8_2_HL.png
 INPUT .\img\final\MLP\90D\MLP_8_2_HL.png
 INPUT .\img\final\MLP\90D\MLP_8_2_HL.png
 INPUT .\img\final\MLP\90D\MLP_8_2_HL.png
-INPUT .\img\final\MLP\90D\MLP_8_2_HN.png
-INPUT .\img\final\MLP\90D\MLP_8_2_HN.png
-INPUT .\img\final\MLP\90D\MLP_8_2_HN.png
-INPUT .\img\final\MLP\90D\MLP_8_2_HN.png
-INPUT .\img\final\MLP\90D\MLP_8_2_HN.png
-INPUT .\img\final\MLP\90D\MLP_8_2_HN.png
-INPUT .\img\final\MLP\90D\MLP_8_2_HN.png
-INPUT .\img\final\MLP\90D\MLP_8_2_VT.png
-INPUT .\img\final\MLP\90D\MLP_8_2_VT.png
-INPUT .\img\final\MLP\90D\MLP_8_2_VT.png
-INPUT .\img\final\MLP\90D\MLP_8_2_VT.png
-INPUT .\img\final\MLP\90D\MLP_8_2_VT.png
-INPUT .\img\final\MLP\90D\MLP_8_2_VT.png
-INPUT .\img\final\MLP\90D\MLP_8_2_VT.png
 INPUT .\img\final\MLP\90D\MLP_9_1_HL.png
 INPUT .\img\final\MLP\90D\MLP_9_1_HL.png
 INPUT .\img\final\MLP\90D\MLP_9_1_HL.png
@@ -718,6 +754,20 @@ INPUT .\img\final\MLP\90D\MLP_9_1_HL.png
 INPUT .\img\final\MLP\90D\MLP_9_1_HL.png
 INPUT .\img\final\MLP\90D\MLP_9_1_HL.png
 INPUT .\img\final\MLP\90D\MLP_9_1_HL.png
+INPUT .\img\final\MLP\90D\MLP_7_3_HN.png
+INPUT .\img\final\MLP\90D\MLP_7_3_HN.png
+INPUT .\img\final\MLP\90D\MLP_7_3_HN.png
+INPUT .\img\final\MLP\90D\MLP_7_3_HN.png
+INPUT .\img\final\MLP\90D\MLP_7_3_HN.png
+INPUT .\img\final\MLP\90D\MLP_7_3_HN.png
+INPUT .\img\final\MLP\90D\MLP_7_3_HN.png
+INPUT .\img\final\MLP\90D\MLP_8_2_HN.png
+INPUT .\img\final\MLP\90D\MLP_8_2_HN.png
+INPUT .\img\final\MLP\90D\MLP_8_2_HN.png
+INPUT .\img\final\MLP\90D\MLP_8_2_HN.png
+INPUT .\img\final\MLP\90D\MLP_8_2_HN.png
+INPUT .\img\final\MLP\90D\MLP_8_2_HN.png
+INPUT .\img\final\MLP\90D\MLP_8_2_HN.png
 INPUT .\img\final\MLP\90D\MLP_9_1_HN.png
 INPUT .\img\final\MLP\90D\MLP_9_1_HN.png
 INPUT .\img\final\MLP\90D\MLP_9_1_HN.png
@@ -725,6 +775,20 @@ INPUT .\img\final\MLP\90D\MLP_9_1_HN.png
 INPUT .\img\final\MLP\90D\MLP_9_1_HN.png
 INPUT .\img\final\MLP\90D\MLP_9_1_HN.png
 INPUT .\img\final\MLP\90D\MLP_9_1_HN.png
+INPUT .\img\final\MLP\90D\MLP_7_3_VT.png
+INPUT .\img\final\MLP\90D\MLP_7_3_VT.png
+INPUT .\img\final\MLP\90D\MLP_7_3_VT.png
+INPUT .\img\final\MLP\90D\MLP_7_3_VT.png
+INPUT .\img\final\MLP\90D\MLP_7_3_VT.png
+INPUT .\img\final\MLP\90D\MLP_7_3_VT.png
+INPUT .\img\final\MLP\90D\MLP_7_3_VT.png
+INPUT .\img\final\MLP\90D\MLP_8_2_VT.png
+INPUT .\img\final\MLP\90D\MLP_8_2_VT.png
+INPUT .\img\final\MLP\90D\MLP_8_2_VT.png
+INPUT .\img\final\MLP\90D\MLP_8_2_VT.png
+INPUT .\img\final\MLP\90D\MLP_8_2_VT.png
+INPUT .\img\final\MLP\90D\MLP_8_2_VT.png
+INPUT .\img\final\MLP\90D\MLP_8_2_VT.png
 INPUT .\img\final\MLP\90D\MLP_9_1_VT.png
 INPUT .\img\final\MLP\90D\MLP_9_1_VT.png
 INPUT .\img\final\MLP\90D\MLP_9_1_VT.png
@@ -732,11 +796,6 @@ INPUT .\img\final\MLP\90D\MLP_9_1_VT.png
 INPUT .\img\final\MLP\90D\MLP_9_1_VT.png
 INPUT .\img\final\MLP\90D\MLP_9_1_VT.png
 INPUT .\img\final\MLP\90D\MLP_9_1_VT.png
-INPUT .\Models\GRU\results\GRUResult.tex
-INPUT .\Models\GRU\results\GRUResult.tex
-INPUT .\Models\GRU\results\GRUResult.tex
-INPUT .\Models\GRU\results\GRUResult.tex
-INPUT Models\GRU\results\GRUResult.tex
 INPUT .\img\final\GRU\90D\GRU_7_3_HL.png
 INPUT .\img\final\GRU\90D\GRU_7_3_HL.png
 INPUT .\img\final\GRU\90D\GRU_7_3_HL.png
@@ -744,20 +803,6 @@ INPUT .\img\final\GRU\90D\GRU_7_3_HL.png
 INPUT .\img\final\GRU\90D\GRU_7_3_HL.png
 INPUT .\img\final\GRU\90D\GRU_7_3_HL.png
 INPUT .\img\final\GRU\90D\GRU_7_3_HL.png
-INPUT .\img\final\GRU\90D\GRU_7_3_HN.png
-INPUT .\img\final\GRU\90D\GRU_7_3_HN.png
-INPUT .\img\final\GRU\90D\GRU_7_3_HN.png
-INPUT .\img\final\GRU\90D\GRU_7_3_HN.png
-INPUT .\img\final\GRU\90D\GRU_7_3_HN.png
-INPUT .\img\final\GRU\90D\GRU_7_3_HN.png
-INPUT .\img\final\GRU\90D\GRU_7_3_HN.png
-INPUT .\img\final\GRU\90D\GRU_7_3_VT.png
-INPUT .\img\final\GRU\90D\GRU_7_3_VT.png
-INPUT .\img\final\GRU\90D\GRU_7_3_VT.png
-INPUT .\img\final\GRU\90D\GRU_7_3_VT.png
-INPUT .\img\final\GRU\90D\GRU_7_3_VT.png
-INPUT .\img\final\GRU\90D\GRU_7_3_VT.png
-INPUT .\img\final\GRU\90D\GRU_7_3_VT.png
 INPUT .\img\final\GRU\90D\GRU_8_2_HL.png
 INPUT .\img\final\GRU\90D\GRU_8_2_HL.png
 INPUT .\img\final\GRU\90D\GRU_8_2_HL.png
@@ -765,20 +810,6 @@ INPUT .\img\final\GRU\90D\GRU_8_2_HL.png
 INPUT .\img\final\GRU\90D\GRU_8_2_HL.png
 INPUT .\img\final\GRU\90D\GRU_8_2_HL.png
 INPUT .\img\final\GRU\90D\GRU_8_2_HL.png
-INPUT .\img\final\GRU\90D\GRU_8_2_HN.png
-INPUT .\img\final\GRU\90D\GRU_8_2_HN.png
-INPUT .\img\final\GRU\90D\GRU_8_2_HN.png
-INPUT .\img\final\GRU\90D\GRU_8_2_HN.png
-INPUT .\img\final\GRU\90D\GRU_8_2_HN.png
-INPUT .\img\final\GRU\90D\GRU_8_2_HN.png
-INPUT .\img\final\GRU\90D\GRU_8_2_HN.png
-INPUT .\img\final\GRU\90D\GRU_8_2_VT.png
-INPUT .\img\final\GRU\90D\GRU_8_2_VT.png
-INPUT .\img\final\GRU\90D\GRU_8_2_VT.png
-INPUT .\img\final\GRU\90D\GRU_8_2_VT.png
-INPUT .\img\final\GRU\90D\GRU_8_2_VT.png
-INPUT .\img\final\GRU\90D\GRU_8_2_VT.png
-INPUT .\img\final\GRU\90D\GRU_8_2_VT.png
 INPUT .\img\final\GRU\90D\GRU_9_1_HL.png
 INPUT .\img\final\GRU\90D\GRU_9_1_HL.png
 INPUT .\img\final\GRU\90D\GRU_9_1_HL.png
@@ -786,6 +817,20 @@ INPUT .\img\final\GRU\90D\GRU_9_1_HL.png
 INPUT .\img\final\GRU\90D\GRU_9_1_HL.png
 INPUT .\img\final\GRU\90D\GRU_9_1_HL.png
 INPUT .\img\final\GRU\90D\GRU_9_1_HL.png
+INPUT .\img\final\GRU\90D\GRU_7_3_HN.png
+INPUT .\img\final\GRU\90D\GRU_7_3_HN.png
+INPUT .\img\final\GRU\90D\GRU_7_3_HN.png
+INPUT .\img\final\GRU\90D\GRU_7_3_HN.png
+INPUT .\img\final\GRU\90D\GRU_7_3_HN.png
+INPUT .\img\final\GRU\90D\GRU_7_3_HN.png
+INPUT .\img\final\GRU\90D\GRU_7_3_HN.png
+INPUT .\img\final\GRU\90D\GRU_8_2_HN.png
+INPUT .\img\final\GRU\90D\GRU_8_2_HN.png
+INPUT .\img\final\GRU\90D\GRU_8_2_HN.png
+INPUT .\img\final\GRU\90D\GRU_8_2_HN.png
+INPUT .\img\final\GRU\90D\GRU_8_2_HN.png
+INPUT .\img\final\GRU\90D\GRU_8_2_HN.png
+INPUT .\img\final\GRU\90D\GRU_8_2_HN.png
 INPUT .\img\final\GRU\90D\GRU_9_1_HN.png
 INPUT .\img\final\GRU\90D\GRU_9_1_HN.png
 INPUT .\img\final\GRU\90D\GRU_9_1_HN.png
@@ -793,6 +838,20 @@ INPUT .\img\final\GRU\90D\GRU_9_1_HN.png
 INPUT .\img\final\GRU\90D\GRU_9_1_HN.png
 INPUT .\img\final\GRU\90D\GRU_9_1_HN.png
 INPUT .\img\final\GRU\90D\GRU_9_1_HN.png
+INPUT .\img\final\GRU\90D\GRU_7_3_VT.png
+INPUT .\img\final\GRU\90D\GRU_7_3_VT.png
+INPUT .\img\final\GRU\90D\GRU_7_3_VT.png
+INPUT .\img\final\GRU\90D\GRU_7_3_VT.png
+INPUT .\img\final\GRU\90D\GRU_7_3_VT.png
+INPUT .\img\final\GRU\90D\GRU_7_3_VT.png
+INPUT .\img\final\GRU\90D\GRU_7_3_VT.png
+INPUT .\img\final\GRU\90D\GRU_8_2_VT.png
+INPUT .\img\final\GRU\90D\GRU_8_2_VT.png
+INPUT .\img\final\GRU\90D\GRU_8_2_VT.png
+INPUT .\img\final\GRU\90D\GRU_8_2_VT.png
+INPUT .\img\final\GRU\90D\GRU_8_2_VT.png
+INPUT .\img\final\GRU\90D\GRU_8_2_VT.png
+INPUT .\img\final\GRU\90D\GRU_8_2_VT.png
 INPUT .\img\final\GRU\90D\GRU_9_1_VT.png
 INPUT .\img\final\GRU\90D\GRU_9_1_VT.png
 INPUT .\img\final\GRU\90D\GRU_9_1_VT.png
@@ -800,11 +859,6 @@ INPUT .\img\final\GRU\90D\GRU_9_1_VT.png
 INPUT .\img\final\GRU\90D\GRU_9_1_VT.png
 INPUT .\img\final\GRU\90D\GRU_9_1_VT.png
 INPUT .\img\final\GRU\90D\GRU_9_1_VT.png
-INPUT .\Models\LSTM\results\LSTMResult.tex
-INPUT .\Models\LSTM\results\LSTMResult.tex
-INPUT .\Models\LSTM\results\LSTMResult.tex
-INPUT .\Models\LSTM\results\LSTMResult.tex
-INPUT Models\LSTM\results\LSTMResult.tex
 INPUT .\img\final\LSTM\90D\LSTM_7_3_HL.png
 INPUT .\img\final\LSTM\90D\LSTM_7_3_HL.png
 INPUT .\img\final\LSTM\90D\LSTM_7_3_HL.png
@@ -812,20 +866,6 @@ INPUT .\img\final\LSTM\90D\LSTM_7_3_HL.png
 INPUT .\img\final\LSTM\90D\LSTM_7_3_HL.png
 INPUT .\img\final\LSTM\90D\LSTM_7_3_HL.png
 INPUT .\img\final\LSTM\90D\LSTM_7_3_HL.png
-INPUT .\img\final\LSTM\90D\LSTM_7_3_HN.png
-INPUT .\img\final\LSTM\90D\LSTM_7_3_HN.png
-INPUT .\img\final\LSTM\90D\LSTM_7_3_HN.png
-INPUT .\img\final\LSTM\90D\LSTM_7_3_HN.png
-INPUT .\img\final\LSTM\90D\LSTM_7_3_HN.png
-INPUT .\img\final\LSTM\90D\LSTM_7_3_HN.png
-INPUT .\img\final\LSTM\90D\LSTM_7_3_HN.png
-INPUT .\img\final\LSTM\90D\LSTM_7_3_VT.png
-INPUT .\img\final\LSTM\90D\LSTM_7_3_VT.png
-INPUT .\img\final\LSTM\90D\LSTM_7_3_VT.png
-INPUT .\img\final\LSTM\90D\LSTM_7_3_VT.png
-INPUT .\img\final\LSTM\90D\LSTM_7_3_VT.png
-INPUT .\img\final\LSTM\90D\LSTM_7_3_VT.png
-INPUT .\img\final\LSTM\90D\LSTM_7_3_VT.png
 INPUT .\img\final\LSTM\90D\LSTM_8_2_HL.png
 INPUT .\img\final\LSTM\90D\LSTM_8_2_HL.png
 INPUT .\img\final\LSTM\90D\LSTM_8_2_HL.png
@@ -833,20 +873,6 @@ INPUT .\img\final\LSTM\90D\LSTM_8_2_HL.png
 INPUT .\img\final\LSTM\90D\LSTM_8_2_HL.png
 INPUT .\img\final\LSTM\90D\LSTM_8_2_HL.png
 INPUT .\img\final\LSTM\90D\LSTM_8_2_HL.png
-INPUT .\img\final\LSTM\90D\LSTM_8_2_HN.png
-INPUT .\img\final\LSTM\90D\LSTM_8_2_HN.png
-INPUT .\img\final\LSTM\90D\LSTM_8_2_HN.png
-INPUT .\img\final\LSTM\90D\LSTM_8_2_HN.png
-INPUT .\img\final\LSTM\90D\LSTM_8_2_HN.png
-INPUT .\img\final\LSTM\90D\LSTM_8_2_HN.png
-INPUT .\img\final\LSTM\90D\LSTM_8_2_HN.png
-INPUT .\img\final\LSTM\90D\LSTM_8_2_VT.png
-INPUT .\img\final\LSTM\90D\LSTM_8_2_VT.png
-INPUT .\img\final\LSTM\90D\LSTM_8_2_VT.png
-INPUT .\img\final\LSTM\90D\LSTM_8_2_VT.png
-INPUT .\img\final\LSTM\90D\LSTM_8_2_VT.png
-INPUT .\img\final\LSTM\90D\LSTM_8_2_VT.png
-INPUT .\img\final\LSTM\90D\LSTM_8_2_VT.png
 INPUT .\img\final\LSTM\90D\LSTM_9_1_HL.png
 INPUT .\img\final\LSTM\90D\LSTM_9_1_HL.png
 INPUT .\img\final\LSTM\90D\LSTM_9_1_HL.png
@@ -854,6 +880,20 @@ INPUT .\img\final\LSTM\90D\LSTM_9_1_HL.png
 INPUT .\img\final\LSTM\90D\LSTM_9_1_HL.png
 INPUT .\img\final\LSTM\90D\LSTM_9_1_HL.png
 INPUT .\img\final\LSTM\90D\LSTM_9_1_HL.png
+INPUT .\img\final\LSTM\90D\LSTM_7_3_HN.png
+INPUT .\img\final\LSTM\90D\LSTM_7_3_HN.png
+INPUT .\img\final\LSTM\90D\LSTM_7_3_HN.png
+INPUT .\img\final\LSTM\90D\LSTM_7_3_HN.png
+INPUT .\img\final\LSTM\90D\LSTM_7_3_HN.png
+INPUT .\img\final\LSTM\90D\LSTM_7_3_HN.png
+INPUT .\img\final\LSTM\90D\LSTM_7_3_HN.png
+INPUT .\img\final\LSTM\90D\LSTM_8_2_HN.png
+INPUT .\img\final\LSTM\90D\LSTM_8_2_HN.png
+INPUT .\img\final\LSTM\90D\LSTM_8_2_HN.png
+INPUT .\img\final\LSTM\90D\LSTM_8_2_HN.png
+INPUT .\img\final\LSTM\90D\LSTM_8_2_HN.png
+INPUT .\img\final\LSTM\90D\LSTM_8_2_HN.png
+INPUT .\img\final\LSTM\90D\LSTM_8_2_HN.png
 INPUT .\img\final\LSTM\90D\LSTM_9_1_HN.png
 INPUT .\img\final\LSTM\90D\LSTM_9_1_HN.png
 INPUT .\img\final\LSTM\90D\LSTM_9_1_HN.png
@@ -861,6 +901,20 @@ INPUT .\img\final\LSTM\90D\LSTM_9_1_HN.png
 INPUT .\img\final\LSTM\90D\LSTM_9_1_HN.png
 INPUT .\img\final\LSTM\90D\LSTM_9_1_HN.png
 INPUT .\img\final\LSTM\90D\LSTM_9_1_HN.png
+INPUT .\img\final\LSTM\90D\LSTM_7_3_VT.png
+INPUT .\img\final\LSTM\90D\LSTM_7_3_VT.png
+INPUT .\img\final\LSTM\90D\LSTM_7_3_VT.png
+INPUT .\img\final\LSTM\90D\LSTM_7_3_VT.png
+INPUT .\img\final\LSTM\90D\LSTM_7_3_VT.png
+INPUT .\img\final\LSTM\90D\LSTM_7_3_VT.png
+INPUT .\img\final\LSTM\90D\LSTM_7_3_VT.png
+INPUT .\img\final\LSTM\90D\LSTM_8_2_VT.png
+INPUT .\img\final\LSTM\90D\LSTM_8_2_VT.png
+INPUT .\img\final\LSTM\90D\LSTM_8_2_VT.png
+INPUT .\img\final\LSTM\90D\LSTM_8_2_VT.png
+INPUT .\img\final\LSTM\90D\LSTM_8_2_VT.png
+INPUT .\img\final\LSTM\90D\LSTM_8_2_VT.png
+INPUT .\img\final\LSTM\90D\LSTM_8_2_VT.png
 INPUT .\img\final\LSTM\90D\LSTM_9_1_VT.png
 INPUT .\img\final\LSTM\90D\LSTM_9_1_VT.png
 INPUT .\img\final\LSTM\90D\LSTM_9_1_VT.png
@@ -868,11 +922,6 @@ INPUT .\img\final\LSTM\90D\LSTM_9_1_VT.png
 INPUT .\img\final\LSTM\90D\LSTM_9_1_VT.png
 INPUT .\img\final\LSTM\90D\LSTM_9_1_VT.png
 INPUT .\img\final\LSTM\90D\LSTM_9_1_VT.png
-INPUT .\Models\TiDE\results\TiDEResult.tex
-INPUT .\Models\TiDE\results\TiDEResult.tex
-INPUT .\Models\TiDE\results\TiDEResult.tex
-INPUT .\Models\TiDE\results\TiDEResult.tex
-INPUT Models\TiDE\results\TiDEResult.tex
 INPUT .\img\final\TiDE\90D\TiDE_7_3_HL.png
 INPUT .\img\final\TiDE\90D\TiDE_7_3_HL.png
 INPUT .\img\final\TiDE\90D\TiDE_7_3_HL.png
@@ -880,20 +929,6 @@ INPUT .\img\final\TiDE\90D\TiDE_7_3_HL.png
 INPUT .\img\final\TiDE\90D\TiDE_7_3_HL.png
 INPUT .\img\final\TiDE\90D\TiDE_7_3_HL.png
 INPUT .\img\final\TiDE\90D\TiDE_7_3_HL.png
-INPUT .\img\final\TiDE\90D\TiDE_7_3_HN.png
-INPUT .\img\final\TiDE\90D\TiDE_7_3_HN.png
-INPUT .\img\final\TiDE\90D\TiDE_7_3_HN.png
-INPUT .\img\final\TiDE\90D\TiDE_7_3_HN.png
-INPUT .\img\final\TiDE\90D\TiDE_7_3_HN.png
-INPUT .\img\final\TiDE\90D\TiDE_7_3_HN.png
-INPUT .\img\final\TiDE\90D\TiDE_7_3_HN.png
-INPUT .\img\final\TiDE\90D\TiDE_7_3_VT.png
-INPUT .\img\final\TiDE\90D\TiDE_7_3_VT.png
-INPUT .\img\final\TiDE\90D\TiDE_7_3_VT.png
-INPUT .\img\final\TiDE\90D\TiDE_7_3_VT.png
-INPUT .\img\final\TiDE\90D\TiDE_7_3_VT.png
-INPUT .\img\final\TiDE\90D\TiDE_7_3_VT.png
-INPUT .\img\final\TiDE\90D\TiDE_7_3_VT.png
 INPUT .\img\final\TiDE\90D\TiDE_8_2_HL.png
 INPUT .\img\final\TiDE\90D\TiDE_8_2_HL.png
 INPUT .\img\final\TiDE\90D\TiDE_8_2_HL.png
@@ -901,20 +936,6 @@ INPUT .\img\final\TiDE\90D\TiDE_8_2_HL.png
 INPUT .\img\final\TiDE\90D\TiDE_8_2_HL.png
 INPUT .\img\final\TiDE\90D\TiDE_8_2_HL.png
 INPUT .\img\final\TiDE\90D\TiDE_8_2_HL.png
-INPUT .\img\final\TiDE\90D\TiDE_8_2_HN.png
-INPUT .\img\final\TiDE\90D\TiDE_8_2_HN.png
-INPUT .\img\final\TiDE\90D\TiDE_8_2_HN.png
-INPUT .\img\final\TiDE\90D\TiDE_8_2_HN.png
-INPUT .\img\final\TiDE\90D\TiDE_8_2_HN.png
-INPUT .\img\final\TiDE\90D\TiDE_8_2_HN.png
-INPUT .\img\final\TiDE\90D\TiDE_8_2_HN.png
-INPUT .\img\final\TiDE\90D\TiDE_8_2_VT.png
-INPUT .\img\final\TiDE\90D\TiDE_8_2_VT.png
-INPUT .\img\final\TiDE\90D\TiDE_8_2_VT.png
-INPUT .\img\final\TiDE\90D\TiDE_8_2_VT.png
-INPUT .\img\final\TiDE\90D\TiDE_8_2_VT.png
-INPUT .\img\final\TiDE\90D\TiDE_8_2_VT.png
-INPUT .\img\final\TiDE\90D\TiDE_8_2_VT.png
 INPUT .\img\final\TiDE\90D\TiDE_9_1_HL.png
 INPUT .\img\final\TiDE\90D\TiDE_9_1_HL.png
 INPUT .\img\final\TiDE\90D\TiDE_9_1_HL.png
@@ -922,6 +943,20 @@ INPUT .\img\final\TiDE\90D\TiDE_9_1_HL.png
 INPUT .\img\final\TiDE\90D\TiDE_9_1_HL.png
 INPUT .\img\final\TiDE\90D\TiDE_9_1_HL.png
 INPUT .\img\final\TiDE\90D\TiDE_9_1_HL.png
+INPUT .\img\final\TiDE\90D\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\90D\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\90D\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\90D\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\90D\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\90D\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\90D\TiDE_7_3_HN.png
+INPUT .\img\final\TiDE\90D\TiDE_8_2_HN.png
+INPUT .\img\final\TiDE\90D\TiDE_8_2_HN.png
+INPUT .\img\final\TiDE\90D\TiDE_8_2_HN.png
+INPUT .\img\final\TiDE\90D\TiDE_8_2_HN.png
+INPUT .\img\final\TiDE\90D\TiDE_8_2_HN.png
+INPUT .\img\final\TiDE\90D\TiDE_8_2_HN.png
+INPUT .\img\final\TiDE\90D\TiDE_8_2_HN.png
 INPUT .\img\final\TiDE\90D\TiDE_9_1_HN.png
 INPUT .\img\final\TiDE\90D\TiDE_9_1_HN.png
 INPUT .\img\final\TiDE\90D\TiDE_9_1_HN.png
@@ -929,6 +964,20 @@ INPUT .\img\final\TiDE\90D\TiDE_9_1_HN.png
 INPUT .\img\final\TiDE\90D\TiDE_9_1_HN.png
 INPUT .\img\final\TiDE\90D\TiDE_9_1_HN.png
 INPUT .\img\final\TiDE\90D\TiDE_9_1_HN.png
+INPUT .\img\final\TiDE\90D\TiDE_7_3_VT.png
+INPUT .\img\final\TiDE\90D\TiDE_7_3_VT.png
+INPUT .\img\final\TiDE\90D\TiDE_7_3_VT.png
+INPUT .\img\final\TiDE\90D\TiDE_7_3_VT.png
+INPUT .\img\final\TiDE\90D\TiDE_7_3_VT.png
+INPUT .\img\final\TiDE\90D\TiDE_7_3_VT.png
+INPUT .\img\final\TiDE\90D\TiDE_7_3_VT.png
+INPUT .\img\final\TiDE\90D\TiDE_8_2_VT.png
+INPUT .\img\final\TiDE\90D\TiDE_8_2_VT.png
+INPUT .\img\final\TiDE\90D\TiDE_8_2_VT.png
+INPUT .\img\final\TiDE\90D\TiDE_8_2_VT.png
+INPUT .\img\final\TiDE\90D\TiDE_8_2_VT.png
+INPUT .\img\final\TiDE\90D\TiDE_8_2_VT.png
+INPUT .\img\final\TiDE\90D\TiDE_8_2_VT.png
 INPUT .\img\final\TiDE\90D\TiDE_9_1_VT.png
 INPUT .\img\final\TiDE\90D\TiDE_9_1_VT.png
 INPUT .\img\final\TiDE\90D\TiDE_9_1_VT.png
@@ -936,11 +985,6 @@ INPUT .\img\final\TiDE\90D\TiDE_9_1_VT.png
 INPUT .\img\final\TiDE\90D\TiDE_9_1_VT.png
 INPUT .\img\final\TiDE\90D\TiDE_9_1_VT.png
 INPUT .\img\final\TiDE\90D\TiDE_9_1_VT.png
-INPUT .\Models\Autoformer\results\AutoformerResult.tex
-INPUT .\Models\Autoformer\results\AutoformerResult.tex
-INPUT .\Models\Autoformer\results\AutoformerResult.tex
-INPUT .\Models\Autoformer\results\AutoformerResult.tex
-INPUT Models\Autoformer\results\AutoformerResult.tex
 INPUT .\img\final\Autoformer\90D\Autoformer_7_3_HL.png
 INPUT .\img\final\Autoformer\90D\Autoformer_7_3_HL.png
 INPUT .\img\final\Autoformer\90D\Autoformer_7_3_HL.png
@@ -948,6 +992,20 @@ INPUT .\img\final\Autoformer\90D\Autoformer_7_3_HL.png
 INPUT .\img\final\Autoformer\90D\Autoformer_7_3_HL.png
 INPUT .\img\final\Autoformer\90D\Autoformer_7_3_HL.png
 INPUT .\img\final\Autoformer\90D\Autoformer_7_3_HL.png
+INPUT .\img\final\Autoformer\90D\Autoformer_8_2_HL.png
+INPUT .\img\final\Autoformer\90D\Autoformer_8_2_HL.png
+INPUT .\img\final\Autoformer\90D\Autoformer_8_2_HL.png
+INPUT .\img\final\Autoformer\90D\Autoformer_8_2_HL.png
+INPUT .\img\final\Autoformer\90D\Autoformer_8_2_HL.png
+INPUT .\img\final\Autoformer\90D\Autoformer_8_2_HL.png
+INPUT .\img\final\Autoformer\90D\Autoformer_8_2_HL.png
+INPUT .\img\final\Autoformer\90D\Autoformer_9_1_HL.png
+INPUT .\img\final\Autoformer\90D\Autoformer_9_1_HL.png
+INPUT .\img\final\Autoformer\90D\Autoformer_9_1_HL.png
+INPUT .\img\final\Autoformer\90D\Autoformer_9_1_HL.png
+INPUT .\img\final\Autoformer\90D\Autoformer_9_1_HL.png
+INPUT .\img\final\Autoformer\90D\Autoformer_9_1_HL.png
+INPUT .\img\final\Autoformer\90D\Autoformer_9_1_HL.png
 INPUT .\img\final\Autoformer\90D\Autoformer_7_3_HN.png
 INPUT .\img\final\Autoformer\90D\Autoformer_7_3_HN.png
 INPUT .\img\final\Autoformer\90D\Autoformer_7_3_HN.png
@@ -955,6 +1013,20 @@ INPUT .\img\final\Autoformer\90D\Autoformer_7_3_HN.png
 INPUT .\img\final\Autoformer\90D\Autoformer_7_3_HN.png
 INPUT .\img\final\Autoformer\90D\Autoformer_7_3_HN.png
 INPUT .\img\final\Autoformer\90D\Autoformer_7_3_HN.png
+INPUT .\img\final\Autoformer\90D\Autoformer_8_2_HN.png
+INPUT .\img\final\Autoformer\90D\Autoformer_8_2_HN.png
+INPUT .\img\final\Autoformer\90D\Autoformer_8_2_HN.png
+INPUT .\img\final\Autoformer\90D\Autoformer_8_2_HN.png
+INPUT .\img\final\Autoformer\90D\Autoformer_8_2_HN.png
+INPUT .\img\final\Autoformer\90D\Autoformer_8_2_HN.png
+INPUT .\img\final\Autoformer\90D\Autoformer_8_2_HN.png
+INPUT .\img\final\Autoformer\90D\Autoformer_9_1_HN.png
+INPUT .\img\final\Autoformer\90D\Autoformer_9_1_HN.png
+INPUT .\img\final\Autoformer\90D\Autoformer_9_1_HN.png
+INPUT .\img\final\Autoformer\90D\Autoformer_9_1_HN.png
+INPUT .\img\final\Autoformer\90D\Autoformer_9_1_HN.png
+INPUT .\img\final\Autoformer\90D\Autoformer_9_1_HN.png
+INPUT .\img\final\Autoformer\90D\Autoformer_9_1_HN.png
 INPUT .\img\final\Autoformer\90D\Autoformer_7_3_VT.png
 INPUT .\img\final\Autoformer\90D\Autoformer_7_3_VT.png
 INPUT .\img\final\Autoformer\90D\Autoformer_7_3_VT.png
@@ -962,20 +1034,6 @@ INPUT .\img\final\Autoformer\90D\Autoformer_7_3_VT.png
 INPUT .\img\final\Autoformer\90D\Autoformer_7_3_VT.png
 INPUT .\img\final\Autoformer\90D\Autoformer_7_3_VT.png
 INPUT .\img\final\Autoformer\90D\Autoformer_7_3_VT.png
-INPUT .\img\final\Autoformer\90D\Autoformer_8_2_HL.png
-INPUT .\img\final\Autoformer\90D\Autoformer_8_2_HL.png
-INPUT .\img\final\Autoformer\90D\Autoformer_8_2_HL.png
-INPUT .\img\final\Autoformer\90D\Autoformer_8_2_HL.png
-INPUT .\img\final\Autoformer\90D\Autoformer_8_2_HL.png
-INPUT .\img\final\Autoformer\90D\Autoformer_8_2_HL.png
-INPUT .\img\final\Autoformer\90D\Autoformer_8_2_HL.png
-INPUT .\img\final\Autoformer\90D\Autoformer_8_2_HN.png
-INPUT .\img\final\Autoformer\90D\Autoformer_8_2_HN.png
-INPUT .\img\final\Autoformer\90D\Autoformer_8_2_HN.png
-INPUT .\img\final\Autoformer\90D\Autoformer_8_2_HN.png
-INPUT .\img\final\Autoformer\90D\Autoformer_8_2_HN.png
-INPUT .\img\final\Autoformer\90D\Autoformer_8_2_HN.png
-INPUT .\img\final\Autoformer\90D\Autoformer_8_2_HN.png
 INPUT .\img\final\Autoformer\90D\Autoformer_8_2_VT.png
 INPUT .\img\final\Autoformer\90D\Autoformer_8_2_VT.png
 INPUT .\img\final\Autoformer\90D\Autoformer_8_2_VT.png
@@ -983,62 +1041,27 @@ INPUT .\img\final\Autoformer\90D\Autoformer_8_2_VT.png
 INPUT .\img\final\Autoformer\90D\Autoformer_8_2_VT.png
 INPUT .\img\final\Autoformer\90D\Autoformer_8_2_VT.png
 INPUT .\img\final\Autoformer\90D\Autoformer_8_2_VT.png
-INPUT .\img\final\Autoformer\90D\Autoformer_8_2_HL.png
-INPUT .\img\final\Autoformer\90D\Autoformer_8_2_HL.png
-INPUT .\img\final\Autoformer\90D\Autoformer_8_2_HL.png
-INPUT .\img\final\Autoformer\90D\Autoformer_8_2_HL.png
-INPUT .\img\final\Autoformer\90D\Autoformer_8_2_HN.png
-INPUT .\img\final\Autoformer\90D\Autoformer_8_2_HN.png
-INPUT .\img\final\Autoformer\90D\Autoformer_8_2_HN.png
-INPUT .\img\final\Autoformer\90D\Autoformer_8_2_HN.png
-INPUT .\img\final\Autoformer\90D\Autoformer_8_2_VT.png
-INPUT .\img\final\Autoformer\90D\Autoformer_8_2_VT.png
-INPUT .\img\final\Autoformer\90D\Autoformer_8_2_VT.png
-INPUT .\img\final\Autoformer\90D\Autoformer_8_2_VT.png
+INPUT .\img\final\Autoformer\90D\Autoformer_9_1_VT.png
+INPUT .\img\final\Autoformer\90D\Autoformer_9_1_VT.png
+INPUT .\img\final\Autoformer\90D\Autoformer_9_1_VT.png
+INPUT .\img\final\Autoformer\90D\Autoformer_9_1_VT.png
+INPUT .\img\final\Autoformer\90D\Autoformer_9_1_VT.png
+INPUT .\img\final\Autoformer\90D\Autoformer_9_1_VT.png
+INPUT .\img\final\Autoformer\90D\Autoformer_9_1_VT.png
 INPUT .\Models\EVALUATION\HaNoi.Tex
 INPUT .\Models\EVALUATION\HaNoi.Tex
 INPUT Models\EVALUATION\HaNoi.Tex
+INPUT D:\LATEX\fonts\tfm\public\cm\cmbx8.tfm
+INPUT D:\LATEX\fonts\tfm\public\cm\cmbx6.tfm
 INPUT .\Models\EVALUATION\HaLong.Tex
 INPUT .\Models\EVALUATION\HaLong.Tex
 INPUT Models\EVALUATION\HaLong.Tex
 INPUT .\Models\EVALUATION\VietTri.tex
 INPUT .\Models\EVALUATION\VietTri.tex
 INPUT Models\EVALUATION\VietTri.tex
-INPUT .\Models\LinearRegression\results\90Days\LinearRegressionResult.tex
-INPUT .\Models\LinearRegression\results\90Days\LinearRegressionResult.tex
-INPUT .\Models\LinearRegression\results\90Days\LinearRegressionResult.tex
-INPUT .\Models\LinearRegression\results\90Days\LinearRegressionResult.tex
-INPUT Models\LinearRegression\results\90Days\LinearRegressionResult.tex
-INPUT .\Models\Arima\results\90Days\ArimaResult.tex
-INPUT .\Models\Arima\results\90Days\ArimaResult.tex
-INPUT .\Models\Arima\results\90Days\ArimaResult.tex
-INPUT .\Models\Arima\results\90Days\ArimaResult.tex
-INPUT Models\Arima\results\90Days\ArimaResult.tex
-INPUT .\Models\Var\results\90Days\VarResult.tex
-INPUT .\Models\Var\results\90Days\VarResult.tex
-INPUT .\Models\Var\results\90Days\VarResult.tex
-INPUT .\Models\Var\results\90Days\VarResult.tex
-INPUT Models\Var\results\90Days\VarResult.tex
-INPUT .\Models\RandomForest\results\90Days\RandomForestResult.tex
-INPUT .\Models\RandomForest\results\90Days\RandomForestResult.tex
-INPUT .\Models\RandomForest\results\90Days\RandomForestResult.tex
-INPUT .\Models\RandomForest\results\90Days\RandomForestResult.tex
-INPUT Models\RandomForest\results\90Days\RandomForestResult.tex
-INPUT .\Models\TiDE\results\90Days\TiDEResult.tex
-INPUT .\Models\TiDE\results\90Days\TiDEResult.tex
-INPUT .\Models\TiDE\results\90Days\TiDEResult.tex
-INPUT .\Models\TiDE\results\90Days\TiDEResult.tex
-INPUT Models\TiDE\results\90Days\TiDEResult.tex
-INPUT .\Models\RNN\results\90Days\RNNResult.tex
-INPUT .\Models\RNN\results\90Days\RNNResult.tex
-INPUT .\Models\RNN\results\90Days\RNNResult.tex
-INPUT .\Models\RNN\results\90Days\RNNResult.tex
-INPUT Models\RNN\results\90Days\RNNResult.tex
-INPUT .\Models\GRU\results\90Days\GRUResult.tex
-INPUT .\Models\GRU\results\90Days\GRUResult.tex
-INPUT .\Models\GRU\results\90Days\GRUResult.tex
-INPUT .\Models\GRU\results\90Days\GRUResult.tex
-INPUT Models\GRU\results\90Days\GRUResult.tex
+INPUT .\Models\result90D.tex
+INPUT .\Models\result90D.tex
+INPUT Models\result90D.tex
 INPUT .\img\final\MLP\90D\MLP_7_3_HL_90D.png
 INPUT .\img\final\MLP\90D\MLP_7_3_HL_90D.png
 INPUT .\img\final\MLP\90D\MLP_7_3_HL_90D.png
@@ -1046,20 +1069,6 @@ INPUT .\img\final\MLP\90D\MLP_7_3_HL_90D.png
 INPUT .\img\final\MLP\90D\MLP_7_3_HL_90D.png
 INPUT .\img\final\MLP\90D\MLP_7_3_HL_90D.png
 INPUT .\img\final\MLP\90D\MLP_7_3_HL_90D.png
-INPUT .\img\final\MLP\90D\MLP_7_3_HN_90D.png
-INPUT .\img\final\MLP\90D\MLP_7_3_HN_90D.png
-INPUT .\img\final\MLP\90D\MLP_7_3_HN_90D.png
-INPUT .\img\final\MLP\90D\MLP_7_3_HN_90D.png
-INPUT .\img\final\MLP\90D\MLP_7_3_HN_90D.png
-INPUT .\img\final\MLP\90D\MLP_7_3_HN_90D.png
-INPUT .\img\final\MLP\90D\MLP_7_3_HN_90D.png
-INPUT .\img\final\MLP\90D\MLP_7_3_VT_90D.png
-INPUT .\img\final\MLP\90D\MLP_7_3_VT_90D.png
-INPUT .\img\final\MLP\90D\MLP_7_3_VT_90D.png
-INPUT .\img\final\MLP\90D\MLP_7_3_VT_90D.png
-INPUT .\img\final\MLP\90D\MLP_7_3_VT_90D.png
-INPUT .\img\final\MLP\90D\MLP_7_3_VT_90D.png
-INPUT .\img\final\MLP\90D\MLP_7_3_VT_90D.png
 INPUT .\img\final\MLP\90D\MLP_8_2_HL_90D.png
 INPUT .\img\final\MLP\90D\MLP_8_2_HL_90D.png
 INPUT .\img\final\MLP\90D\MLP_8_2_HL_90D.png
@@ -1067,20 +1076,6 @@ INPUT .\img\final\MLP\90D\MLP_8_2_HL_90D.png
 INPUT .\img\final\MLP\90D\MLP_8_2_HL_90D.png
 INPUT .\img\final\MLP\90D\MLP_8_2_HL_90D.png
 INPUT .\img\final\MLP\90D\MLP_8_2_HL_90D.png
-INPUT .\img\final\MLP\90D\MLP_8_2_HN_90D.png
-INPUT .\img\final\MLP\90D\MLP_8_2_HN_90D.png
-INPUT .\img\final\MLP\90D\MLP_8_2_HN_90D.png
-INPUT .\img\final\MLP\90D\MLP_8_2_HN_90D.png
-INPUT .\img\final\MLP\90D\MLP_8_2_HN_90D.png
-INPUT .\img\final\MLP\90D\MLP_8_2_HN_90D.png
-INPUT .\img\final\MLP\90D\MLP_8_2_HN_90D.png
-INPUT .\img\final\MLP\90D\MLP_8_2_VT_90D.png
-INPUT .\img\final\MLP\90D\MLP_8_2_VT_90D.png
-INPUT .\img\final\MLP\90D\MLP_8_2_VT_90D.png
-INPUT .\img\final\MLP\90D\MLP_8_2_VT_90D.png
-INPUT .\img\final\MLP\90D\MLP_8_2_VT_90D.png
-INPUT .\img\final\MLP\90D\MLP_8_2_VT_90D.png
-INPUT .\img\final\MLP\90D\MLP_8_2_VT_90D.png
 INPUT .\img\final\MLP\90D\MLP_9_1_HL_90D.png
 INPUT .\img\final\MLP\90D\MLP_9_1_HL_90D.png
 INPUT .\img\final\MLP\90D\MLP_9_1_HL_90D.png
@@ -1088,6 +1083,41 @@ INPUT .\img\final\MLP\90D\MLP_9_1_HL_90D.png
 INPUT .\img\final\MLP\90D\MLP_9_1_HL_90D.png
 INPUT .\img\final\MLP\90D\MLP_9_1_HL_90D.png
 INPUT .\img\final\MLP\90D\MLP_9_1_HL_90D.png
+INPUT .\img\final\RF\90D\RF_7_3_HL_90D.png
+INPUT .\img\final\RF\90D\RF_7_3_HL_90D.png
+INPUT .\img\final\RF\90D\RF_7_3_HL_90D.png
+INPUT .\img\final\RF\90D\RF_7_3_HL_90D.png
+INPUT .\img\final\RF\90D\RF_7_3_HL_90D.png
+INPUT .\img\final\RF\90D\RF_7_3_HL_90D.png
+INPUT .\img\final\RF\90D\RF_7_3_HL_90D.png
+INPUT .\img\final\RF\90D\RF_8_2_HL_90D.png
+INPUT .\img\final\RF\90D\RF_8_2_HL_90D.png
+INPUT .\img\final\RF\90D\RF_8_2_HL_90D.png
+INPUT .\img\final\RF\90D\RF_8_2_HL_90D.png
+INPUT .\img\final\RF\90D\RF_8_2_HL_90D.png
+INPUT .\img\final\RF\90D\RF_8_2_HL_90D.png
+INPUT .\img\final\RF\90D\RF_8_2_HL_90D.png
+INPUT .\img\final\RF\90D\RF_9_1_HL_90D.png
+INPUT .\img\final\RF\90D\RF_9_1_HL_90D.png
+INPUT .\img\final\RF\90D\RF_9_1_HL_90D.png
+INPUT .\img\final\RF\90D\RF_9_1_HL_90D.png
+INPUT .\img\final\RF\90D\RF_9_1_HL_90D.png
+INPUT .\img\final\RF\90D\RF_9_1_HL_90D.png
+INPUT .\img\final\RF\90D\RF_9_1_HL_90D.png
+INPUT .\img\final\MLP\90D\MLP_7_3_HN_90D.png
+INPUT .\img\final\MLP\90D\MLP_7_3_HN_90D.png
+INPUT .\img\final\MLP\90D\MLP_7_3_HN_90D.png
+INPUT .\img\final\MLP\90D\MLP_7_3_HN_90D.png
+INPUT .\img\final\MLP\90D\MLP_7_3_HN_90D.png
+INPUT .\img\final\MLP\90D\MLP_7_3_HN_90D.png
+INPUT .\img\final\MLP\90D\MLP_7_3_HN_90D.png
+INPUT .\img\final\MLP\90D\MLP_8_2_HN_90D.png
+INPUT .\img\final\MLP\90D\MLP_8_2_HN_90D.png
+INPUT .\img\final\MLP\90D\MLP_8_2_HN_90D.png
+INPUT .\img\final\MLP\90D\MLP_8_2_HN_90D.png
+INPUT .\img\final\MLP\90D\MLP_8_2_HN_90D.png
+INPUT .\img\final\MLP\90D\MLP_8_2_HN_90D.png
+INPUT .\img\final\MLP\90D\MLP_8_2_HN_90D.png
 INPUT .\img\final\MLP\90D\MLP_9_1_HN_90D.png
 INPUT .\img\final\MLP\90D\MLP_9_1_HN_90D.png
 INPUT .\img\final\MLP\90D\MLP_9_1_HN_90D.png
@@ -1095,20 +1125,6 @@ INPUT .\img\final\MLP\90D\MLP_9_1_HN_90D.png
 INPUT .\img\final\MLP\90D\MLP_9_1_HN_90D.png
 INPUT .\img\final\MLP\90D\MLP_9_1_HN_90D.png
 INPUT .\img\final\MLP\90D\MLP_9_1_HN_90D.png
-INPUT .\img\final\MLP\90D\MLP_9_1_VT_90D.png
-INPUT .\img\final\MLP\90D\MLP_9_1_VT_90D.png
-INPUT .\img\final\MLP\90D\MLP_9_1_VT_90D.png
-INPUT .\img\final\MLP\90D\MLP_9_1_VT_90D.png
-INPUT .\img\final\MLP\90D\MLP_9_1_VT_90D.png
-INPUT .\img\final\MLP\90D\MLP_9_1_VT_90D.png
-INPUT .\img\final\MLP\90D\MLP_9_1_VT_90D.png
-INPUT .\img\final\GRU\90D\GRU_7_3_HL_90D.png
-INPUT .\img\final\GRU\90D\GRU_7_3_HL_90D.png
-INPUT .\img\final\GRU\90D\GRU_7_3_HL_90D.png
-INPUT .\img\final\GRU\90D\GRU_7_3_HL_90D.png
-INPUT .\img\final\GRU\90D\GRU_7_3_HL_90D.png
-INPUT .\img\final\GRU\90D\GRU_7_3_HL_90D.png
-INPUT .\img\final\GRU\90D\GRU_7_3_HL_90D.png
 INPUT .\img\final\GRU\90D\GRU_7_3_HN_90D.png
 INPUT .\img\final\GRU\90D\GRU_7_3_HN_90D.png
 INPUT .\img\final\GRU\90D\GRU_7_3_HN_90D.png
@@ -1116,20 +1132,6 @@ INPUT .\img\final\GRU\90D\GRU_7_3_HN_90D.png
 INPUT .\img\final\GRU\90D\GRU_7_3_HN_90D.png
 INPUT .\img\final\GRU\90D\GRU_7_3_HN_90D.png
 INPUT .\img\final\GRU\90D\GRU_7_3_HN_90D.png
-INPUT .\img\final\GRU\90D\GRU_7_3_VT_90D.png
-INPUT .\img\final\GRU\90D\GRU_7_3_VT_90D.png
-INPUT .\img\final\GRU\90D\GRU_7_3_VT_90D.png
-INPUT .\img\final\GRU\90D\GRU_7_3_VT_90D.png
-INPUT .\img\final\GRU\90D\GRU_7_3_VT_90D.png
-INPUT .\img\final\GRU\90D\GRU_7_3_VT_90D.png
-INPUT .\img\final\GRU\90D\GRU_7_3_VT_90D.png
-INPUT .\img\final\GRU\90D\GRU_8_2_HL_90D.png
-INPUT .\img\final\GRU\90D\GRU_8_2_HL_90D.png
-INPUT .\img\final\GRU\90D\GRU_8_2_HL_90D.png
-INPUT .\img\final\GRU\90D\GRU_8_2_HL_90D.png
-INPUT .\img\final\GRU\90D\GRU_8_2_HL_90D.png
-INPUT .\img\final\GRU\90D\GRU_8_2_HL_90D.png
-INPUT .\img\final\GRU\90D\GRU_8_2_HL_90D.png
 INPUT .\img\final\GRU\90D\GRU_8_2_HN_90D.png
 INPUT .\img\final\GRU\90D\GRU_8_2_HN_90D.png
 INPUT .\img\final\GRU\90D\GRU_8_2_HN_90D.png
@@ -1137,20 +1139,6 @@ INPUT .\img\final\GRU\90D\GRU_8_2_HN_90D.png
 INPUT .\img\final\GRU\90D\GRU_8_2_HN_90D.png
 INPUT .\img\final\GRU\90D\GRU_8_2_HN_90D.png
 INPUT .\img\final\GRU\90D\GRU_8_2_HN_90D.png
-INPUT .\img\final\GRU\90D\GRU_8_2_VT_90D.png
-INPUT .\img\final\GRU\90D\GRU_8_2_VT_90D.png
-INPUT .\img\final\GRU\90D\GRU_8_2_VT_90D.png
-INPUT .\img\final\GRU\90D\GRU_8_2_VT_90D.png
-INPUT .\img\final\GRU\90D\GRU_8_2_VT_90D.png
-INPUT .\img\final\GRU\90D\GRU_8_2_VT_90D.png
-INPUT .\img\final\GRU\90D\GRU_8_2_VT_90D.png
-INPUT .\img\final\GRU\90D\GRU_9_1_HL_90D.png
-INPUT .\img\final\GRU\90D\GRU_9_1_HL_90D.png
-INPUT .\img\final\GRU\90D\GRU_9_1_HL_90D.png
-INPUT .\img\final\GRU\90D\GRU_9_1_HL_90D.png
-INPUT .\img\final\GRU\90D\GRU_9_1_HL_90D.png
-INPUT .\img\final\GRU\90D\GRU_9_1_HL_90D.png
-INPUT .\img\final\GRU\90D\GRU_9_1_HL_90D.png
 INPUT .\img\final\GRU\90D\GRU_9_1_HN_90D.png
 INPUT .\img\final\GRU\90D\GRU_9_1_HN_90D.png
 INPUT .\img\final\GRU\90D\GRU_9_1_HN_90D.png
@@ -1158,6 +1146,41 @@ INPUT .\img\final\GRU\90D\GRU_9_1_HN_90D.png
 INPUT .\img\final\GRU\90D\GRU_9_1_HN_90D.png
 INPUT .\img\final\GRU\90D\GRU_9_1_HN_90D.png
 INPUT .\img\final\GRU\90D\GRU_9_1_HN_90D.png
+INPUT .\img\final\MLP\90D\MLP_7_3_VT_90D.png
+INPUT .\img\final\MLP\90D\MLP_7_3_VT_90D.png
+INPUT .\img\final\MLP\90D\MLP_7_3_VT_90D.png
+INPUT .\img\final\MLP\90D\MLP_7_3_VT_90D.png
+INPUT .\img\final\MLP\90D\MLP_7_3_VT_90D.png
+INPUT .\img\final\MLP\90D\MLP_7_3_VT_90D.png
+INPUT .\img\final\MLP\90D\MLP_7_3_VT_90D.png
+INPUT .\img\final\MLP\90D\MLP_8_2_VT_90D.png
+INPUT .\img\final\MLP\90D\MLP_8_2_VT_90D.png
+INPUT .\img\final\MLP\90D\MLP_8_2_VT_90D.png
+INPUT .\img\final\MLP\90D\MLP_8_2_VT_90D.png
+INPUT .\img\final\MLP\90D\MLP_8_2_VT_90D.png
+INPUT .\img\final\MLP\90D\MLP_8_2_VT_90D.png
+INPUT .\img\final\MLP\90D\MLP_8_2_VT_90D.png
+INPUT .\img\final\MLP\90D\MLP_9_1_VT_90D.png
+INPUT .\img\final\MLP\90D\MLP_9_1_VT_90D.png
+INPUT .\img\final\MLP\90D\MLP_9_1_VT_90D.png
+INPUT .\img\final\MLP\90D\MLP_9_1_VT_90D.png
+INPUT .\img\final\MLP\90D\MLP_9_1_VT_90D.png
+INPUT .\img\final\MLP\90D\MLP_9_1_VT_90D.png
+INPUT .\img\final\MLP\90D\MLP_9_1_VT_90D.png
+INPUT .\img\final\GRU\90D\GRU_7_3_VT_90D.png
+INPUT .\img\final\GRU\90D\GRU_7_3_VT_90D.png
+INPUT .\img\final\GRU\90D\GRU_7_3_VT_90D.png
+INPUT .\img\final\GRU\90D\GRU_7_3_VT_90D.png
+INPUT .\img\final\GRU\90D\GRU_7_3_VT_90D.png
+INPUT .\img\final\GRU\90D\GRU_7_3_VT_90D.png
+INPUT .\img\final\GRU\90D\GRU_7_3_VT_90D.png
+INPUT .\img\final\GRU\90D\GRU_8_2_VT_90D.png
+INPUT .\img\final\GRU\90D\GRU_8_2_VT_90D.png
+INPUT .\img\final\GRU\90D\GRU_8_2_VT_90D.png
+INPUT .\img\final\GRU\90D\GRU_8_2_VT_90D.png
+INPUT .\img\final\GRU\90D\GRU_8_2_VT_90D.png
+INPUT .\img\final\GRU\90D\GRU_8_2_VT_90D.png
+INPUT .\img\final\GRU\90D\GRU_8_2_VT_90D.png
 INPUT .\img\final\GRU\90D\GRU_9_1_VT_90D.png
 INPUT .\img\final\GRU\90D\GRU_9_1_VT_90D.png
 INPUT .\img\final\GRU\90D\GRU_9_1_VT_90D.png
@@ -1165,21 +1188,6 @@ INPUT .\img\final\GRU\90D\GRU_9_1_VT_90D.png
 INPUT .\img\final\GRU\90D\GRU_9_1_VT_90D.png
 INPUT .\img\final\GRU\90D\GRU_9_1_VT_90D.png
 INPUT .\img\final\GRU\90D\GRU_9_1_VT_90D.png
-INPUT .\Models\LSTM\results\90Days\LSTMResult.tex
-INPUT .\Models\LSTM\results\90Days\LSTMResult.tex
-INPUT .\Models\LSTM\results\90Days\LSTMResult.tex
-INPUT .\Models\LSTM\results\90Days\LSTMResult.tex
-INPUT Models\LSTM\results\90Days\LSTMResult.tex
-INPUT .\Models\MLP\results\90Days\MLPResult.tex
-INPUT .\Models\MLP\results\90Days\MLPResult.tex
-INPUT .\Models\MLP\results\90Days\MLPResult.tex
-INPUT .\Models\MLP\results\90Days\MLPResult.tex
-INPUT Models\MLP\results\90Days\MLPResult.tex
-INPUT .\Models\Autoformer\results\90Days\AutoformerResult.tex
-INPUT .\Models\Autoformer\results\90Days\AutoformerResult.tex
-INPUT .\Models\Autoformer\results\90Days\AutoformerResult.tex
-INPUT .\Models\Autoformer\results\90Days\AutoformerResult.tex
-INPUT Models\Autoformer\results\90Days\AutoformerResult.tex
 INPUT .\sections\conclusion.tex
 INPUT .\sections\conclusion.tex
 INPUT .\sections\conclusion.tex
@@ -1187,6 +1195,8 @@ INPUT .\sections\conclusion.tex
 INPUT sections\conclusion.tex
 INPUT D:\LATEX\fonts\tfm\vntex\urwvn\utmri8v.tfm
 INPUT report.aux
+INPUT D:\LATEX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT D:\LATEX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT D:\LATEX\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT D:\LATEX\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT D:\LATEX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
@@ -1203,6 +1213,12 @@ INPUT D:\LATEX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT D:\LATEX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT D:\LATEX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
 INPUT D:\LATEX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
+INPUT D:\LATEX\fonts\type1\public\amsfonts\symbols\msbm10.pfb
+INPUT D:\LATEX\fonts\type1\public\amsfonts\symbols\msbm10.pfb
+INPUT D:\LATEX\fonts\type1\public\amsfonts\symbols\msbm7.pfb
+INPUT D:\LATEX\fonts\type1\public\amsfonts\symbols\msbm7.pfb
+INPUT D:\LATEX\fonts\type1\vntex\urwvn\ucrr8v.pfb
+INPUT D:\LATEX\fonts\type1\vntex\urwvn\ucrr8v.pfb
 INPUT D:\LATEX\fonts\type1\vntex\urwvn\utmb8v.pfb
 INPUT D:\LATEX\fonts\type1\vntex\urwvn\utmb8v.pfb
 INPUT D:\LATEX\fonts\type1\vntex\urwvn\utmbi8v.pfb

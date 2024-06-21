@@ -1,15 +1,19 @@
-\section{Kết luận}
-\subsection{Tổng quan}
-Từ các kết quả phân tích và dự đoán trên cho thấy việc dự đoán chỉ số PM2.5 rất phức tạp, bị ảnh hưởng bởi các yếu tố như khí tượng, nguồn phát thải, địa hình, tình trạng giao thông và các yếu tố nhân tạo khác. Sự phức tạp này đã tạo ra những thách thức đáng kể cho dự án của nhóm. Trong dự án, nhóm đã triển khai 10 mô hình trên bộ dữ liệu của 3 thành phố Hạ Long, Hà Nội, Việt Trì, với ba tỉ lệ phân chia dữ liệu: 7-3, 8-2 và 9-1. Các chỉ số đánh giá RMSE, MAE, MAPE cho thấy hai mô hình GRU và MLP đã xác định chỉ số PM2.5 một cách hiệu quả nhất.
+\section*{VI. Kết luận}
+\subsection*{A. Tổng quan}
+Trong bộ dữ liệu PM2.5 ở Hạ Long, mô hình Random Forest và MLP cho thấy hiệu suất tốt nhất với các chỉ số RMSE, MAE và MAPE thấp nhất ở cả ba tỷ lệ (7-3, 8-2, 9-1). Mô hình LSTM có hiệu suất kém nhất với các chỉ số lỗi cao nhất, đặc biệt là ở tỷ lệ 7-3 và 9-1. Các mô hình khác như Linear Regression, ARIMA và Autoformer cho thấy hiệu suất trung bình, với RMSE, MAE và MAPE biến động tùy thuộc vào tỷ lệ chia dữ liệu.
 
-\subsection{Thách thức}
+Trên bộ dữ liệu PM2.5 ở Hà Nội, mô hình MLP và GRU cho thấy hiệu suất tốt nhất với các chỉ số RMSE, MAE và MAPE thấp nhất, đặc biệt ở tỷ lệ 7-3 và 9-1. Mô hình Random Forest cũng đạt hiệu suất tốt nhưng thấp hơn một chút so với MLP và GRU. Mô hình TiDE và LSTM có hiệu suất kém nhất với các chỉ số lỗi cao, đặc biệt là TiDE ở tỷ lệ 7-3 và LSTM ở tỷ lệ 9-1. Các mô hình khác như Linear Regression, ARIMA và Autoformer cho thấy hiệu suất trung bình.
+
+Trên bộ dữ liệu PM2.5 ở Việt Trì, mô hình MLP và GRU tiếp tục thể hiện hiệu suất tốt nhất với các chỉ số RMSE, MAE và MAPE thấp, đặc biệt ở tỷ lệ 7-3 và 9-1. Mô hình Random Forest cũng đạt hiệu suất tốt, mặc dù thấp hơn một chút so với MLP và GRU. Các mô hình như Linear Regression, ARIMA và LSTM có hiệu suất kém hơn với các chỉ số lỗi cao, đặc biệt là mô hình LSTM ở cả ba tỷ lệ. Mô hình TiDE và Autoformer cũng cho thấy hiệu suất trung bình nhưng vẫn kém hơn so với các mô hình dựa trên học sâu như MLP và GRU.
+
+\subsection*{B. Thách thức}
 
 Sự phức tạp trong việc xử lý dữ liệu, tính chất vốn có của dữ liệu không khí đòi hỏi phải áp dụng kỹ thuật xử lý dữ liệu chính xác để đảm bảo độ chính xác của các mô hình dự đoán. Mặc dù nhóm đã đi sâu vào khía cạnh lý thuyết của các mô hình, sử dụng các thuật toán để đánh giá hiệu quả của các mô hình dự đoán, tuy nhiên các kết quả cho thấy độ chính xác của một vài mô hình vẫn chưa đạt yêu cầu.
 
-\subsection{Hướng phát triển}
+\subsection*{C. Hướng phát triển}
 
 Trong tương lai, nhóm em sẽ tiếp tục nghiên cứu các mô hình để dự đoán chỉ số PM2.5 chính xác hơn và nhằm xác định những mô hình phù hợp nhất cho tập dữ liệu của mình. Chúng em sẽ nâng cao việc lựa chọn các kỹ thuật xử lý dữ liệu và nghiên cứu sâu hơn các phương pháp tiên tiến như Deep Learning và Machine Learning mới. Những mô hình này hứa hẹn sẽ cải thiện đáng kể độ chính xác và hiệu quả trong việc dự đoán chỉ số không khí PM2.5. Ngoài ra sẽ áp dụng các mô hình vào các ứng dụng, phần mềm dự báo chất lượng không khí và các dự báo khác trong tương lai.
 
-\subsection{Lời cám ơn}
+\subsection*{D. Lời cám ơn}
 
 Nhóm em xin gửi lời cảm ơn chân thành đến PGS.TS Nguyễn Đình Thuân và trợ giảng Nguyễn Minh Nhựt vì đã nhiệt tình hỗ trợ, góp ý, cung cấp chi tiết những kiến thức và hướng dẫn tận tình cho nhóm trong suốt quá trình học và thực hiện đồ án môn học. Nhờ sự chỉ bảo tận tâm của các thầy, nhóm em đã vượt qua nhiều khó khăn trong quá trình thực hiện đồ án. Tuy nhiên, chúng em không thể tránh khỏi những thiếu sót và rất mong nhận được những nhận xét, góp ý từ thầy để nhóm có thể rút kinh nghiệm và hoàn thiện hơn. Cuối cùng, nhóm em xin chúc thầy luôn mạnh khỏe để tiếp tục sứ mệnh cao cả của nghề giáo, truyền đạt kiến thức cho các thế hệ sinh viên.

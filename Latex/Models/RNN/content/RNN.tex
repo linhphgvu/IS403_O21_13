@@ -1,14 +1,30 @@
 \subsection{RNN}
 Mạng nơ-ron hồi tiếp (RNN) là một loại mạng có khả năng xử lý dữ liệu tuần tự. Điểm đặc biệt của RNN là các nơ-ron trong mạng có thể kết nối với nhau theo chu kỳ. Nhờ vậy, RNN có thể học được mối quan hệ giữa các giá trị trong một chuỗi thời gian.
 
-Công thức biểu diễn của RNN như sau:
-\begin{equation}
-h_t = f(x_t, h_{t-1})
-\end{equation}
-Trong đó:
+
+Công thức tính trạng thái hiện tại:
+\[
+h_t = f(h_{t-1}, x_t)
+\]
+trong đó:
 \begin{itemize}
-    \item $h_t$: trạng thái của RNN tại thời điểm $t$
-    \item $x_t$: đầu vào của RNN tại thời điểm $t$
-    \item $h_{t-1}$: trạng thái của RNN tại thời điểm $t - 1$
-    \item $f$: hàm kích hoạt của RNN
+    \item $h_t$: trạng thái hiện tại
+    \item $h_{t-1}$: trạng thái trước đó
+    \item $x_t$: trạng thái đầu vào
+\end{itemize}
+
+Công thức áp dụng hàm kích hoạt (tanh) và Công thức tính đầu ra:
+\[
+h_t = \tanh(W_{hh}h_{t-1} + W_{xh}x_t)
+\]
+
+\[
+y_t = W_{hy}h_t
+\]
+trong đó:
+\begin{itemize}
+    \item $W_{hh}$: trọng số tại nơ-ron hồi quy
+    \item $W_{xh}$: trọng số tại nơ-ron đầu vào
+    \item $y_t$: đầu ra
+    \item $W_{hy}$: trọng số tại lớp đầu ra
 \end{itemize}

@@ -1,43 +1,39 @@
 \subsection{LSTM}
 
-Long Short-Term Memory (LSTM) là một loại mạng nơ-ron tái hiện (RNN) được thiết kế để xử lý và dự báo chuỗi thời gian, khắc phục các vấn đề gradient biến mất và gradient bùng nổ trong các RNN truyền thống. LSTM bao gồm các đơn vị nhớ (memory cell) có khả năng lưu trữ thông tin trong một khoảng thời gian dài.
-
-Mỗi đơn vị LSTM bao gồm ba cổng chính: cổng quên (forget gate), cổng đầu vào (input gate), và cổng đầu ra (output gate). Các cổng này điều khiển dòng thông tin qua đơn vị nhớ.
+LSTM là một loại mạng nơ-ron tái hiện (RNN) được thiết kế để xử lý và dự báo chuỗi thời gian. Nó khắc phục các vấn đề về Vanishing Gradient (Đạo hàm bị triệt tiêu) và Exploding Gradient (Bùng nổ đạo hàm) trong các RNN truyền thống, cho phép mô hình lưu trữ thông tin trong thời gian dài. LSTM gồm các đơn vị nhớ (memory cell) với ba cổng chính: cổng quên (forget gate), cổng đầu vào (input gate), và cổng đầu ra (output gate). Các cổng này điều khiển dòng thông tin qua đơn vị nhớ.
 
 \paragraph{Cổng Quên (Forget Gate)}
-
-Cổng quên xác định lượng thông tin từ trạng thái trước đó cần được giữ lại. Công thức tính toán như sau:
+Cổng quên quyết định lượng thông tin từ trạng thái trước đó cần được giữ lại hoặc loại bỏ:
 \[
 f_t = \sigma(W_f \cdot [h_{t-1}, x_t] + b_f)
 \]
-trong đó, $f_t$ là giá trị của cổng quên tại thời điểm $t$, $W_f$ là trọng số của cổng quên, $h_{t-1}$ là đầu ra từ bước thời gian trước, $x_t$ là đầu vào tại thời điểm $t$, và $b_f$ là bias của cổng quên.
+trong đó, \(f_t\) là giá trị của cổng quên tại thời điểm \(t\), \(W_f\) là trọng số của cổng quên, \(h_{t-1}\) là đầu ra từ bước thời gian trước, \(x_t\) là đầu vào tại thời điểm \(t\), và \(b_f\) là giá trị bias của cổng quên.
 
 \paragraph{Cổng Đầu Vào (Input Gate)}
-
-Cổng đầu vào xác định lượng thông tin mới được lưu trữ trong trạng thái nhớ. Công thức tính toán như sau:
+Cổng đầu vào xác định lượng thông tin mới cần được lưu trữ trong trạng thái nhớ:
 \[
 i_t = \sigma(W_i \cdot [h_{t-1}, x_t] + b_i)
 \]
 \[
 \tilde{C}_t = \tanh(W_C \cdot [h_{t-1}, x_t] + b_C)
 \]
-trong đó, $i_t$ là giá trị của cổng đầu vào, $W_i$ là trọng số của cổng đầu vào, $\tilde{C}_t$ là giá trị thông tin mới, $W_C$ là trọng số của thông tin mới, và $b_i$, $b_C$ lần lượt là các bias của cổng đầu vào và thông tin mới.
+trong đó, \(i_t\) là giá trị của cổng đầu vào, \(W_i\) là trọng số của cổng đầu vào, \(\tilde{C}_t\) là giá trị của thông tin mới, \(W_C\) là trọng số của thông tin mới, và \(b_i\), \(b_C\) lần lượt là các giá trị bias của cổng đầu vào và thông tin mới.
 
 \paragraph{Cập Nhật Trạng Thái Nhớ}
-
 Trạng thái nhớ được cập nhật bằng cách kết hợp trạng thái cũ và thông tin mới:
 \[
 C_t = f_t \cdot C_{t-1} + i_t \cdot \tilde{C}_t
 \]
-trong đó, $C_t$ là trạng thái nhớ tại thời điểm $t$ và $C_{t-1}$ là trạng thái nhớ từ bước thời gian trước.
+trong đó, \(C_t\) là trạng thái nhớ tại thời điểm \(t\) và \(C_{t-1}\) là trạng thái nhớ từ bước thời gian trước.
 
 \paragraph{Cổng Đầu Ra (Output Gate)}
-
-Cổng đầu ra xác định đầu ra của đơn vị LSTM. Công thức tính toán như sau:
+Cổng đầu ra xác định đầu ra của đơn vị LSTM dựa trên trạng thái nhớ hiện tại:
 \[
 o_t = \sigma(W_o \cdot [h_{t-1}, x_t] + b_o)
 \]
 \[
 h_t = o_t \cdot \tanh(C_t)
 \]
-trong đó, $o_t$ là giá trị của cổng đầu ra, $W_o$ là trọng số của cổng đầu ra, $b_o$ là bias của cổng đầu ra, và $h_t$ là đầu ra của đơn vị LSTM tại thời điểm $t$.
+trong đó, \(o_t\) là giá trị của cổng đầu ra, \(W_o\) là trọng số của cổng đầu ra, \(b_o\) là giá trị bias của cổng đầu ra, và \(h_t\) là đầu ra của đơn vị LSTM tại thời điểm \(t\).
+
+Các cổng trong LSTM kiểm soát dòng thông tin qua các đơn vị nhớ, giúp mô hình duy trì và cập nhật trạng thái nhớ một cách hiệu quả và chính xác. Điều này giải quyết các vấn đề đạo hàm bị triệt tiêu và bùng nổ đạo hàm, cải thiện hiệu quả dự đoán cho các bài toán chuỗi thời gian.
