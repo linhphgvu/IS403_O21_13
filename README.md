@@ -19,8 +19,17 @@ Báo cáo này nghiên cứu về chất lượng không khí tại ba thành ph
 Nhóm đã áp dụng một loạt các thuật toán từ truyền thống đến tiên tiến, bao gồm Hồi quy tuyến tính, mô hình ARIMA, mạng nơ-ron hồi quy (RNN), đơn vị hồi quy cổng (GRU), bộ nhớ ngắn hạn - dài hạn (LSTM), hồi quy vector (VAR), rừng ngẫu nhiên (Random Forest), mô hình mã hóa dày chuỗi thời gian (TiDE), Autoformer, và mạng nơ-ron đa tầng (MLP).
 
 ### Bộ dữ liệu
-Báo cáo sử dụng 3 bộ dữ liệu lấy từ dữ liệu chất lượng không khí trên trang web aqicn.org từ 01/03/2019 - 01/06/2024 ở 3 thành phố Hà Nội, Hạ Long và Việt Trì. Sử dụng chỉ số pm2.5 để dự đoán.
-
+Nghiên cứu này sử dụng ba bộ dữ liệu về chất lượng không khí từ trang web aqicn.org, thu thập từ ngày 01/03/2019 đến 01/06/2024 ở ba thành phố của Việt Nam: Hà Nội, Hạ Long và Việt Trì. Các bộ dữ liệu bao gồm các chỉ số quan trọng như PM2.5, PM10, O3, NO2, SO2 và CO. Trong nghiên cứu này, nhóm tập trung vào việc dự đoán chỉ số PM2.5.
+Cách Tải Dữ Liệu:
+1. Truy cập trang web aqicn.org.
+2. Sử dụng thanh tìm kiếm để nhập tên thành phố hoặc tỉnh cần xem dữ liệu.
+3. Nhấp vào "Download this data (CSV format)" để tải bộ dữ liệu.
+4. Sử dụng phần mềm Excel để lọc ra khoảng thời gian cần thiết từ bộ dữ liệu đã tải.
+Để xử lý các giá trị thiếu trong bộ dữ liệu, nhóm đã áp dụng phương pháp phân phối chuẩn dựa trên trung bình và độ lệch chuẩn của các cột giá trị. Các bước thực hiện như sau:
+1. Tính toán trung bình và độ lệch chuẩn: Xác định trung bình và độ lệch chuẩn của các giá trị không thiếu trong mỗi cột.
+2. Tạo giá trị ngẫu nhiên: Sinh ra các giá trị ngẫu nhiên từ phân phối chuẩn với trung bình và độ lệch chuẩn đã tính.
+3. Làm tròn giá trị: Làm tròn các giá trị ngẫu nhiên thành số nguyên.
+4. Giới hạn giá trị: Đảm bảo các giá trị ngẫu nhiên nằm trong khoảng giá trị tối thiểu và tối đa của mỗi cột.
 ### Kết quả
 Hiệu suất của các mô hình được so sánh dựa trên ba chỉ số: MAPE, RMSE, và MAE. Hai mô hình có hiệu suất tốt nhất là GRU và MLP, được sử dụng để dự báo chất lượng không khí trong 90 ngày tiếp theo từ ngày 2/6/2024.
 
@@ -132,7 +141,7 @@ Hiệu suất của các mô hình được so sánh dựa trên ba chỉ số: 
 |                   | 9-1       | 19.12    | 15.51    | 32.48        |
 
 ## Kết luận
-Qua việc áp dụng các mô hình dự báo chất lượng không khí, nhóm đã tìm ra mô hình phù hợp nhất cho từng thành phố. Các mô hình GRU và MLP đã cho kết quả tốt nhất, giúp cung cấp dự báo chính xác về chỉ số PM2.5. Kết quả dự báo này có thể được sử dụng để hỗ trợ chính sách và biện pháp giảm thiểu ô nhiễm không khí.
+Qua việc áp dụng các mô hình dự báo chất lượng không khí, nhóm đã tìm ra mô hình phù hợp nhất cho từng thành phố. Các mô hình GRU, RF và MLP đã cho kết quả tốt nhất, giúp cung cấp dự báo chính xác về chỉ số PM2.5. Kết quả dự báo này có thể được sử dụng để hỗ trợ chính sách và biện pháp giảm thiểu ô nhiễm không khí.
 
 ## Tài liệu tham khảo
 1. E. Marinov, D. Petrova-Antonova, and S. Malinov, “Time Series Forecasting of Air Quality: A Case Study of Sofia City,” Atmosphere, vol. 13, p. 788, 2022. [Online]. Available: [https://www.mdpi.com/2073-4433/13/5/788](https://www.mdpi.com/2073-4433/13/5/788)
