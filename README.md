@@ -19,13 +19,13 @@ Báo cáo này nghiên cứu về chất lượng không khí tại ba thành ph
 Nhóm đã áp dụng một loạt các thuật toán từ truyền thống đến tiên tiến, bao gồm Hồi quy tuyến tính, mô hình ARIMA, mạng nơ-ron hồi quy (RNN), đơn vị hồi quy cổng (GRU), bộ nhớ ngắn hạn - dài hạn (LSTM), hồi quy vector (VAR), rừng ngẫu nhiên (Random Forest), mô hình mã hóa dày chuỗi thời gian (TiDE), Autoformer, và mạng nơ-ron đa tầng (MLP).
 
 ### Bộ dữ liệu
-Nghiên cứu này sử dụng ba bộ dữ liệu về chất lượng không khí từ trang web aqicn.org, thu thập từ ngày 01/03/2019 đến 01/06/2024 ở ba thành phố của Việt Nam: Hà Nội, Hạ Long và Việt Trì. Các bộ dữ liệu bao gồm các chỉ số quan trọng như PM2.5, PM10, O3, NO2, SO2 và CO. Trong nghiên cứu này, nhóm tập trung vào việc dự đoán chỉ số PM2.5.
-Cách Tải Dữ Liệu:
+Nghiên cứu này sử dụng ba bộ dữ liệu về chất lượng không khí từ trang web [aqicn.org](https://aqicn.org), thu thập từ ngày 01/03/2019 đến 01/06/2024 ở ba thành phố của Việt Nam: Hà Nội, Hạ Long và Việt Trì. Các bộ dữ liệu bao gồm các chỉ số quan trọng như PM2.5, PM10, O3, NO2, SO2 và CO. Trong nghiên cứu này, nhóm tập trung vào việc dự đoán chỉ số PM2.5.
+### Cách Tải Dữ Liệu:
 1. Truy cập trang web aqicn.org.
 2. Sử dụng thanh tìm kiếm để nhập tên thành phố hoặc tỉnh cần xem dữ liệu.
 3. Nhấp vào "Download this data (CSV format)" để tải bộ dữ liệu.
 4. Sử dụng phần mềm Excel để lọc ra khoảng thời gian cần thiết từ bộ dữ liệu đã tải.
-Để xử lý các giá trị thiếu trong bộ dữ liệu, nhóm đã áp dụng phương pháp phân phối chuẩn dựa trên trung bình và độ lệch chuẩn của các cột giá trị. Các bước thực hiện như sau:
+### Để xử lý các giá trị thiếu trong bộ dữ liệu, nhóm đã áp dụng phương pháp phân phối chuẩn dựa trên trung bình và độ lệch chuẩn của các cột giá trị. Các bước thực hiện như sau:
 1. Tính toán trung bình và độ lệch chuẩn: Xác định trung bình và độ lệch chuẩn của các giá trị không thiếu trong mỗi cột.
 2. Tạo giá trị ngẫu nhiên: Sinh ra các giá trị ngẫu nhiên từ phân phối chuẩn với trung bình và độ lệch chuẩn đã tính.
 3. Làm tròn giá trị: Làm tròn các giá trị ngẫu nhiên thành số nguyên.
